@@ -78,3 +78,28 @@ a:hover {
   0% { transform: translate(0, 0); }
   100% { transform: translate(-100%, 0); }
 }
+
+.projects-list {
+  margin-top: 10px;
+}
+
+.project-item {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 8px 0;
+  border-bottom: 1px dashed gray;
+}
+
+.project-item:hover {
+  color: gray;
+}
+
+.project-title {
+  font-weight: bold;
+}
+
+.project-desc {
+  font-size: 0.9em;
+  color: #aaa;
+}
