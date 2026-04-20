@@ -32,12 +32,6 @@ a:hover {
 .header {
   text-align: center;
   margin-bottom: 20px;
-  animation: blink 1s infinite;
-}
-
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
 }
 
 .content {
@@ -102,4 +96,16 @@ a:hover {
 .project-desc {
   font-size: 0.9em;
   color: #aaa;
+}
+@media (max-width: 1000px) {
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', monospace;
+  line-height: 1.4;
+  max-width: 90vw;
+  margin: 0 auto;
+  padding: 20px;
+  border: none;
+}
 }
