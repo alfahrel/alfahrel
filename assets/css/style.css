@@ -103,9 +103,24 @@ body {
   color: white;
   font-family: 'Courier New', monospace;
   line-height: 1.4;
-  max-width: 90vw;
+  max-width: 98vw;
   margin: 0 auto;
   padding: 20px;
   border: none;
+}
+
+h1, h2 {
+  border-bottom: 0px dashed white;
+}
+
+.content {
+  border: 0px dashed white;
+}
+.marquee {
+  border-top: 0px dashed white;
+  border-bottom: 0px dashed white;
+}
+.project-item {
+  border-bottom: 0px dashed gray;
 }
 }
