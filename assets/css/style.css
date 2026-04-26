@@ -73,11 +73,11 @@ a:hover {
   100% { transform: translate(-100%, 0); }
 }
 
-.projects-list {
+.projects-list, .blog-list {
   margin-top: 10px;
 }
 
-.project-item {
+.project-item, .blog-item {
   display: block;
   color: white;
   text-decoration: none;
@@ -85,15 +85,15 @@ a:hover {
   border-bottom: 1px dashed gray;
 }
 
-.project-item:hover {
+.project-item:hover, .blog-item:hover {
   color: gray;
 }
 
-.project-title {
+.project-title, .blog-title {
   font-weight: bold;
 }
 
-.project-desc {
+.project-desc, .blog-desc {
   font-size: 0.9em;
   color: #aaa;
 }

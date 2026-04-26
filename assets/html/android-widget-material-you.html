@@ -1,0 +1,316 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Android Widget Material You Color Guide</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: black;
+      color: white;
+      font-family: 'Courier New', monospace;
+      line-height: 1.4;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 2px solid white;
+    }
+
+    h1, h2, h3 {
+      color: gray;
+      border-bottom: 1px dashed white;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+
+    h3 {
+      border-bottom: none;
+      color: #aaa;
+      margin-top: 10px;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .content {
+      background-color: black;
+      padding: 20px;
+      border: 1px dashed white;
+      margin-bottom: 20px;
+    }
+
+    .content section {
+      margin-bottom: 24px;
+    }
+
+    .footer {
+      text-align: center;
+      font-size: 0.8em;
+      margin-top: 20px;
+    }
+
+    .marquee {
+      background-color: black;
+      color: white;
+      padding: 5px 0;
+      overflow: hidden;
+      white-space: nowrap;
+      border-top: 1px dashed white;
+      border-bottom: 1px dashed white;
+      margin: 20px 0;
+    }
+
+    .marquee p {
+      display: inline-block;
+      padding-left: 100%;
+      animation: marquee 20s linear infinite;
+    }
+
+    @keyframes marquee {
+      0% { transform: translate(0, 0); }
+      100% { transform: translate(-100%, 0); }
+    }
+
+    .code-block {
+      background-color: #111;
+      padding: 10px;
+      border: 1px dashed white;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85em;
+      overflow-x: auto;
+      margin: 10px 0;
+      white-space: pre;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0;
+      font-size: 0.85em;
+    }
+
+    th {
+      color: gray;
+      border-bottom: 1px dashed white;
+      padding: 6px 8px;
+      text-align: left;
+    }
+
+    td {
+      padding: 6px 8px;
+      border-bottom: 1px dotted #333;
+    }
+
+    .note {
+      border: 1px dashed gray;
+      padding: 10px;
+      margin: 10px 0;
+      color: #aaa;
+      font-size: 0.9em;
+    }
+
+    .folder-tree {
+      background-color: #111;
+      padding: 10px;
+      border: 1px dashed white;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85em;
+      margin: 10px 0;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Android Widget</h1>
+    <p>~ material you color guide ~</p>
+  </div>
+
+  <div class="marquee">
+    <p>4 files • 4 folders • zero Kotlin changes • works on Android 12+ with Material You • falls back gracefully on older versions</p>
+  </div>
+
+  <div class="content">
+
+    <section>
+      <h2>// How It Works</h2>
+      <p>Android automatically picks the right drawable based on two folder qualifiers:</p>
+      <p style="margin-top:10px">
+        • <strong>-v31</strong> = Android 12+ (API 31)<br>
+        • <strong>-night</strong> = system dark mode
+      </p>
+      <p style="margin-top:10px">You only need <strong>4 drawable files in 4 folders</strong>. No Kotlin code changes. No special values-v31 files. The layout just references <code>@drawable/widget_background</code> and Android resolves the correct one at runtime.</p>
+    </section>
+
+    <section>
+      <h2>// Folder Structure</h2>
+      <div class="folder-tree">res/
+├── drawable/                    # Pre-12, light (fallback)
+│   └── widget_background.xml
+├── drawable-night/              # Pre-12, dark
+│   └── widget_background.xml
+├── drawable-v31/                # Android 12+, light (Material You)
+│   └── widget_background.xml
+├── drawable-night-v31/          # Android 12+, dark (Material You)
+│   └── widget_background.xml
+├── layout/                      # Just one file — no qualifiers needed
+│   └── your_widget.xml
+├── values/                      # Pre-12, light text colors
+│   └── colors.xml
+└── values-night/                # Dark text colors
+    └── colors.xml</div>
+      <div class="note">! The layout folder never needs -night or -v31 variants. Layouts only contain structure and references to @color and @drawable — the qualifier folders handle all the actual theme switching. One layout file works everywhere.</div>
+    </section>
+
+    <section>
+      <h2>// The 4 Drawable Files</h2>
+
+      <h3>drawable/widget_background.xml — pre-12 light fallback</h3>
+      <div class="code-block">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="#F5F5F5" /&gt;
+    &lt;corners android:radius="20dp" /&gt;
+&lt;/shape&gt;</div>
+
+      <h3>drawable-night/widget_background.xml — pre-12 dark fallback</h3>
+      <div class="code-block">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="#212121" /&gt;
+    &lt;corners android:radius="20dp" /&gt;
+&lt;/shape&gt;</div>
+
+      <h3>drawable-v31/widget_background.xml — Android 12+ light (Material You)</h3>
+      <div class="code-block">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent2_50" /&gt;
+    &lt;corners android:radius="20dp" /&gt;
+    &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_50" /&gt;
+&lt;/shape&gt;</div>
+
+      <h3>drawable-night-v31/widget_background.xml — Android 12+ dark (Material You)</h3>
+      <div class="code-block">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent2_800" /&gt;
+    &lt;corners android:radius="20dp" /&gt;
+    &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_800" /&gt;
+&lt;/shape&gt;</div>
+    </section>
+
+    <section>
+      <h2>// Text Colors</h2>
+      <p>Text colors use the standard values / values-night pattern. No v31 variant needed.</p>
+
+      <h3>values/colors.xml</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;#212121&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;#757575&lt;/color&gt;</div>
+
+      <h3>values-night/colors.xml</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;#B0B0B0&lt;/color&gt;</div>
+    </section>
+
+    <section>
+      <h2>// Layout Usage</h2>
+      <p>Reference everything by name — Android resolves the right file automatically:</p>
+      <div class="code-block">android:background="@drawable/widget_background"
+android:textColor="@color/widget_text_primary"
+android:textColor="@color/widget_text_secondary"
+android:tint="@color/widget_text_secondary"</div>
+    </section>
+
+    <section>
+      <h2>// Kotlin Code</h2>
+      <p>Nothing special needed. Standard RemoteViews call — Android handles everything:</p>
+      <div class="code-block">val views = RemoteViews(context.packageName, R.layout.your_widget_layout)
+appWidgetManager.updateAppWidget(appWidgetId, views)</div>
+      <div class="note">! The drawable resolution happens entirely at the Android OS level. Your Kotlin code is completely unaware of it.</div>
+    </section>
+
+    <section>
+      <h2>// Material You Color Tokens (API 31+)</h2>
+      <p style="margin-bottom:10px">These are the <code>@android:color/system_*</code> tokens available on Android 12+. Shades range from <code>_10</code> (lightest) to <code>_1000</code> (darkest).</p>
+      <table>
+        <tr>
+          <th>Token family</th>
+          <th>Light shade</th>
+          <th>Dark shade</th>
+          <th>Best for</th>
+        </tr>
+        <tr>
+          <td>system_accent2_*</td>
+          <td>_50</td>
+          <td>_800</td>
+          <td>Widget background</td>
+        </tr>
+        <tr>
+          <td>system_accent1_*</td>
+          <td>_100</td>
+          <td>_700</td>
+          <td>Primary accent surface</td>
+        </tr>
+        <tr>
+          <td>system_neutral1_*</td>
+          <td>_50</td>
+          <td>_900</td>
+          <td>Neutral background</td>
+        </tr>
+        <tr>
+          <td>system_neutral2_*</td>
+          <td>_100</td>
+          <td>_800</td>
+          <td>Muted surface</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>// Quick Setup Command</h2>
+      <p style="margin-bottom:10px">Run from your <code>res/</code> directory:</p>
+      <div class="code-block">mkdir -p drawable-v31 drawable-night-v31 && \
+cat > drawable-v31/widget_background.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+  &lt;solid android:color="@android:color/system_accent2_50" /&gt;
+  &lt;corners android:radius="20dp" /&gt;
+  &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_50" /&gt;
+&lt;/shape&gt;
+EOF
+cat > drawable-night-v31/widget_background.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+  &lt;solid android:color="@android:color/system_accent2_800" /&gt;
+  &lt;corners android:radius="20dp" /&gt;
+  &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_800" /&gt;
+&lt;/shape&gt;
+EOF</div>
+    </section>
+
+  </div>
+
+  <div class="footer">
+    <p>~ 4 folders • 4 files • done ~</p>
+  </div>
+</body>
+</html>
