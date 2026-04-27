@@ -149,19 +149,19 @@
   </div>
 
   <div class="marquee">
-    <p>4 files • 4 folders • zero Kotlin changes • works on Android 12+ with Material You • falls back gracefully on older versions</p>
+    <p>4 drawable files • 4 drawable folders • 4 values files • 4 values folders • zero Kotlin changes • works on Android 12+ with Material You • falls back gracefully on older versions</p>
   </div>
 
   <div class="content">
 
     <section>
       <h2>// How It Works</h2>
-      <p>Android automatically picks the right drawable based on two folder qualifiers:</p>
+      <p>Android automatically picks the right drawable and color based on two folder qualifiers:</p>
       <p style="margin-top:10px">
         • <strong>-v31</strong> = Android 12+ (API 31)<br>
         • <strong>-night</strong> = system dark mode
       </p>
-      <p style="margin-top:10px">You only need <strong>4 drawable files in 4 folders</strong>. No Kotlin code changes. No special values-v31 files. The layout just references <code>@drawable/widget_background</code> and Android resolves the correct one at runtime.</p>
+      <p style="margin-top:10px">You only need <strong>4 drawable files in 4 folders</strong> and <strong>4 values files in 4 folders</strong>. No Kotlin code changes. The layout just references <code>@drawable/widget_background</code> and <code>@color/widget_text_primary</code> and Android resolves the correct one at runtime.</p>
     </section>
 
     <section>
@@ -179,7 +179,11 @@
 │   └── your_widget.xml
 ├── values/                      # Pre-12, light text colors
 │   └── colors.xml
-└── values-night/                # Dark text colors
+├── values-night/                # Pre-12, dark text colors
+│   └── colors.xml
+├── values-v31/                  # Android 12+, light text colors (Material You)
+│   └── colors.xml
+└── values-night-v31/            # Android 12+, dark text colors (Material You)
     └── colors.xml</div>
       <div class="note">! The layout folder never needs -night or -v31 variants. Layouts only contain structure and references to @color and @drawable — the qualifier folders handle all the actual theme switching. One layout file works everywhere.</div>
     </section>
@@ -219,16 +223,36 @@
     </section>
 
     <section>
-      <h2>// Text Colors</h2>
-      <p>Text colors use the standard values / values-night pattern. No v31 variant needed.</p>
+      <h2>// The 4 Values Files</h2>
+      <p>Text colors follow the same 4-folder pattern so Material You wallpaper colors apply to text too on Android 12+.</p>
 
-      <h3>values/colors.xml</h3>
-      <div class="code-block">&lt;color name="widget_text_primary"&gt;#212121&lt;/color&gt;
-&lt;color name="widget_text_secondary"&gt;#757575&lt;/color&gt;</div>
+      <h3>values/colors.xml — pre-12 light</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;#1F1F2E&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;#6B6B8A&lt;/color&gt;
+&lt;color name="widget_text_sunday"&gt;#D03B3B&lt;/color&gt;
+&lt;color name="widget_today_text"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="widget_arrow"&gt;#FFFFFF&lt;/color&gt;</div>
 
-      <h3>values-night/colors.xml</h3>
-      <div class="code-block">&lt;color name="widget_text_primary"&gt;#FFFFFF&lt;/color&gt;
-&lt;color name="widget_text_secondary"&gt;#B0B0B0&lt;/color&gt;</div>
+      <h3>values-night/colors.xml — pre-12 dark</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;#E8E8F0&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;#9A9AB0&lt;/color&gt;
+&lt;color name="widget_text_sunday"&gt;#FF6B6B&lt;/color&gt;
+&lt;color name="widget_today_text"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="widget_arrow"&gt;#FFFFFF&lt;/color&gt;</div>
+
+      <h3>values-v31/colors.xml — Android 12+ light (Material You)</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;@android:color/system_neutral1_900&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;@android:color/system_neutral2_600&lt;/color&gt;
+&lt;color name="widget_text_sunday"&gt;@android:color/system_accent3_700&lt;/color&gt;
+&lt;color name="widget_today_text"&gt;@android:color/system_accent2_50&lt;/color&gt;
+&lt;color name="widget_arrow"&gt;@android:color/system_accent1_900&lt;/color&gt;</div>
+
+      <h3>values-night-v31/colors.xml — Android 12+ dark (Material You)</h3>
+      <div class="code-block">&lt;color name="widget_text_primary"&gt;@android:color/system_neutral1_50&lt;/color&gt;
+&lt;color name="widget_text_secondary"&gt;@android:color/system_neutral2_300&lt;/color&gt;
+&lt;color name="widget_text_sunday"&gt;@android:color/system_accent3_200&lt;/color&gt;
+&lt;color name="widget_today_text"&gt;@android:color/system_accent2_900&lt;/color&gt;
+&lt;color name="widget_arrow"&gt;@android:color/system_accent1_100&lt;/color&gt;</div>
     </section>
 
     <section>
@@ -237,7 +261,10 @@
       <div class="code-block">android:background="@drawable/widget_background"
 android:textColor="@color/widget_text_primary"
 android:textColor="@color/widget_text_secondary"
-android:tint="@color/widget_text_secondary"</div>
+android:textColor="@color/widget_text_sunday"
+android:textColor="@color/widget_today_text"
+android:tint="@color/widget_arrow"</div>
+      <div class="note">! android:tint works on ImageButton and ImageView only — never on TextView. For text color always use android:textColor.</div>
     </section>
 
     <section>
@@ -245,7 +272,7 @@ android:tint="@color/widget_text_secondary"</div>
       <p>Nothing special needed. Standard RemoteViews call — Android handles everything:</p>
       <div class="code-block">val views = RemoteViews(context.packageName, R.layout.your_widget_layout)
 appWidgetManager.updateAppWidget(appWidgetId, views)</div>
-      <div class="note">! The drawable resolution happens entirely at the Android OS level. Your Kotlin code is completely unaware of it.</div>
+      <div class="note">! The drawable and color resolution happens entirely at the Android OS level. Your Kotlin code is completely unaware of it.</div>
     </section>
 
     <section>
@@ -282,35 +309,189 @@ appWidgetManager.updateAppWidget(appWidgetId, views)</div>
           <td>_800</td>
           <td>Muted surface</td>
         </tr>
+        <tr>
+          <td>system_accent3_*</td>
+          <td>_700</td>
+          <td>_200</td>
+          <td>Accent text (e.g. sunday)</td>
+        </tr>
       </table>
     </section>
 
     <section>
       <h2>// Quick Setup Command</h2>
       <p style="margin-bottom:10px">Run from your <code>res/</code> directory:</p>
-      <div class="code-block">mkdir -p drawable-v31 drawable-night-v31 && \
-cat > drawable-v31/widget_background.xml &lt;&lt; 'EOF'
+      <div class="code-block">mkdir -p drawable-night drawable-v31 drawable-night-v31 values-night values-v31 values-night-v31 && \
+
+cat > drawable/widget_pill_bg.xml &lt;&lt; 'EOF'
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
-  &lt;solid android:color="@android:color/system_accent2_50" /&gt;
-  &lt;corners android:radius="20dp" /&gt;
-  &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_50" /&gt;
+    &lt;solid android:color="#5C4AE4" /&gt;
+    &lt;corners android:radius="24dp" /&gt;
 &lt;/shape&gt;
 EOF
-cat > drawable-night-v31/widget_background.xml &lt;&lt; 'EOF'
+
+cat > drawable/widget_card_bg.xml &lt;&lt; 'EOF'
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
-  &lt;solid android:color="@android:color/system_accent2_800" /&gt;
-  &lt;corners android:radius="20dp" /&gt;
-  &lt;stroke android:width="2dp" android:color="@android:color/system_accent2_800" /&gt;
+    &lt;solid android:color="#F3F1FF" /&gt;
+    &lt;corners android:radius="16dp" /&gt;
 &lt;/shape&gt;
+EOF
+
+cat > drawable/widget_circle_today.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="#5C4AE4" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable/widget_circle_holiday.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="#C0A78BFF" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night/widget_pill_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="#7C6AF0" /&gt;
+    &lt;corners android:radius="24dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night/widget_card_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="#1E1B2E" /&gt;
+    &lt;corners android:radius="16dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night/widget_circle_today.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="#7C6AF0" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night/widget_circle_holiday.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="#80A78BFF" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-v31/widget_pill_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent1_200" /&gt;
+    &lt;corners android:radius="24dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-v31/widget_card_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent2_50" /&gt;
+    &lt;corners android:radius="16dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-v31/widget_circle_today.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="@android:color/system_accent1_300" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-v31/widget_circle_holiday.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="@android:color/system_accent2_200" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night-v31/widget_pill_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent1_700" /&gt;
+    &lt;corners android:radius="24dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night-v31/widget_card_bg.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle"&gt;
+    &lt;solid android:color="@android:color/system_accent2_800" /&gt;
+    &lt;corners android:radius="16dp" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night-v31/widget_circle_today.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="@android:color/system_accent1_600" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > drawable-night-v31/widget_circle_holiday.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval"&gt;
+    &lt;solid android:color="@android:color/system_accent2_700" /&gt;
+&lt;/shape&gt;
+EOF
+
+cat > values/colors.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;resources&gt;
+    &lt;color name="widget_text_primary"&gt;#1F1F2E&lt;/color&gt;
+    &lt;color name="widget_text_secondary"&gt;#6B6B8A&lt;/color&gt;
+    &lt;color name="widget_text_sunday"&gt;#D03B3B&lt;/color&gt;
+    &lt;color name="widget_today_text"&gt;#FFFFFF&lt;/color&gt;
+    &lt;color name="widget_arrow"&gt;#FFFFFF&lt;/color&gt;
+&lt;/resources&gt;
+EOF
+
+cat > values-night/colors.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;resources&gt;
+    &lt;color name="widget_text_primary"&gt;#E8E8F0&lt;/color&gt;
+    &lt;color name="widget_text_secondary"&gt;#9A9AB0&lt;/color&gt;
+    &lt;color name="widget_text_sunday"&gt;#FF6B6B&lt;/color&gt;
+    &lt;color name="widget_today_text"&gt;#FFFFFF&lt;/color&gt;
+    &lt;color name="widget_arrow"&gt;#FFFFFF&lt;/color&gt;
+&lt;/resources&gt;
+EOF
+
+cat > values-v31/colors.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;resources&gt;
+    &lt;color name="widget_text_primary"&gt;@android:color/system_neutral1_900&lt;/color&gt;
+    &lt;color name="widget_text_secondary"&gt;@android:color/system_neutral2_600&lt;/color&gt;
+    &lt;color name="widget_text_sunday"&gt;@android:color/system_accent3_700&lt;/color&gt;
+    &lt;color name="widget_today_text"&gt;@android:color/system_accent2_50&lt;/color&gt;
+    &lt;color name="widget_arrow"&gt;@android:color/system_accent1_900&lt;/color&gt;
+&lt;/resources&gt;
+EOF
+
+cat > values-night-v31/colors.xml &lt;&lt; 'EOF'
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;resources&gt;
+    &lt;color name="widget_text_primary"&gt;@android:color/system_neutral1_50&lt;/color&gt;
+    &lt;color name="widget_text_secondary"&gt;@android:color/system_neutral2_300&lt;/color&gt;
+    &lt;color name="widget_text_sunday"&gt;@android:color/system_accent3_200&lt;/color&gt;
+    &lt;color name="widget_today_text"&gt;@android:color/system_accent2_900&lt;/color&gt;
+    &lt;color name="widget_arrow"&gt;@android:color/system_accent1_100&lt;/color&gt;
+&lt;/resources&gt;
 EOF</div>
     </section>
 
   </div>
 
   <div class="footer">
-    <p>~ 4 folders • 4 files • done ~</p>
+    <p>~ 4 drawable folders • 4 values folders • 8 files • done ~</p>
   </div>
 </body>
 </html>
