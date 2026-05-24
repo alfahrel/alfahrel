@@ -7,7 +7,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: 'Courier New', monospace;
+  font-family: "Courier New", monospace;
   line-height: 1.4;
   max-width: 800px;
   margin: 0 auto;
@@ -15,9 +15,9 @@ body {
   border: 2px solid white;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: gray;
-  border-bottom: 1px dashed white;
   padding-bottom: 5px;
 }
 
@@ -69,15 +69,21 @@ a:hover {
 }
 
 @keyframes marquee {
-  0% { transform: translate(0, 0); }
-  100% { transform: translate(-100%, 0); }
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
 }
 
-.projects-list, .blog-list {
+.projects-list,
+.blog-list {
   margin-top: 10px;
 }
 
-.project-item, .blog-item {
+.project-item,
+.blog-item {
   display: block;
   color: white;
   text-decoration: none;
@@ -85,42 +91,65 @@ a:hover {
   border-bottom: 1px dashed gray;
 }
 
-.project-item:hover, .blog-item:hover {
+.project-item:hover,
+.blog-item:hover {
   color: gray;
 }
 
-.project-title, .blog-title {
+.project-title,
+.blog-title {
   font-weight: bold;
 }
 
-.project-desc, .blog-desc {
+.project-desc,
+.blog-desc {
   font-size: 0.9em;
   color: #aaa;
 }
+
+.gif-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.gif-tags-container img {
+  width: 88px;
+  height: 31px;
+  image-rendering: pixelated;
+  opacity: 0.85;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.gif-tags-container img:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
 @media (max-width: 1000px) {
-body {
-  background-color: black;
-  color: white;
-  font-family: 'Courier New', monospace;
-  line-height: 1.4;
-  max-width: 98vw;
-  margin: 0 auto;
-  padding: 20px;
-  border: none;
-}
+  body {
+    max-width: 98vw;
+    padding: 20px;
+    border: none;
+  }
 
-h1, h2 {
-  border-bottom: 0px dashed white;
-}
+  h1,
+  h2 {
+    border-bottom: 0px dashed white;
+  }
 
-.content {
-  border: 0px dashed white;
-}
-.marquee {
-  border-top: 0px dashed white;
-  border-bottom: 0px dashed white;
-}
-.project-item {
-  border-bottom: 0px dashed gray;
-}
+  .content {
+    border: 0px dashed white;
+  }
+
+  .marquee {
+    border-top: 0px dashed white;
+    border-bottom: 0px dashed white;
+  }
+
+  .project-item {
+    border-bottom: 0px dashed gray;
+  }
 }
