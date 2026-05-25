@@ -1,41 +1,7 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background-color: black;
-  color: white;
-  font-family: "Courier New", monospace;
-  line-height: 1.4;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-h1,
-h2 {
-  color: #dadada;
-  padding-bottom: 5px;
-}
-
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
+@import "./global.css";
 
 .header {
   text-align: center;
-  margin-bottom: 20px;
-}
-
-.content {
-  background-color: black;
-  padding: 20px;
   margin-bottom: 20px;
 }
 
@@ -43,39 +9,28 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.footer {
-  text-align: center;
-  font-size: 0.8em;
-  margin-top: 20px;
-}
-
-.projects-list,
-.blog-list {
+.projects-list, .blog-list {
   margin-top: 10px;
 }
 
-.project-item,
-.blog-item {
+.project-item, .blog-item {
   display: block;
-  color: white;
+  color: var(--text);
   text-decoration: none;
   padding: 8px 0;
 }
 
-.project-item:hover,
-.blog-item:hover {
-  color: #e0e0e0;
+.project-item:hover, .blog-item:hover {
+  color: var(--text-muted);
 }
 
-.project-title,
-.blog-title {
+.project-title, .blog-title {
   font-weight: bold;
 }
 
-.project-desc,
-.blog-desc {
+.project-desc, .blog-desc {
   font-size: 0.9em;
-  color: #dddddd;
+  color: var(--text-muted);
 }
 
 .gif-tags-container {
@@ -90,36 +45,4 @@ a:hover {
   width: 88px;
   height: 31px;
   image-rendering: pixelated;
-}
-
-.hyprlink {
-  color: white;
-  font-weight: bold;
-}
-
-@media (max-width: 1000px) {
-  body {
-    max-width: 98vw;
-    padding: 20px;
-    border: none;
-  }
-
-  h1,
-  h2 {
-    border-bottom: 0px dashed white;
-  }
-
-  .content {
-    border: 0px dashed white;
-  }
-
-  .marquee {
-    border-top: 0px dashed white;
-    border-bottom: 0px dashed white;
-  }
-
-  .project-item,
-  .blog-item {
-    border-bottom: 0px dashed gray;
-  }
 }

@@ -1,0 +1,132 @@
+:root {
+  --bg: #000000;
+  --bg-subtle: #111111;
+  --text: #ffffff;
+  --text-muted: #dddddd;
+  --text-dim: #aaaaaa;
+  --text-heading: #dadada;
+  --border: #333333;
+  --border-dim: #222222;
+  --border-muted: #444444;
+  --font: "Courier New", monospace;
+  --max-width: 800px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.4;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: var(--text-heading);
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: var(--text-dim);
+  margin-top: 10px;
+}
+
+a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.content {
+  background-color: var(--bg);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.content section {
+  margin-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 20px;
+}
+
+.code-block, .folder-tree {
+  background-color: var(--bg-subtle);
+  padding: 10px;
+  border: 1px dashed var(--border);
+  font-family: var(--font);
+  font-size: 0.85em;
+  overflow-x: auto;
+  margin: 10px 0;
+  white-space: pre;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.85em;
+}
+
+th {
+  color: var(--text-dim);
+  border-bottom: 1px dashed var(--border-muted);
+  padding: 6px 8px;
+  text-align: left;
+}
+
+td {
+  padding: 6px 8px;
+  border-bottom: 1px dotted var(--border-dim);
+}
+
+.note {
+  border: 1px dashed var(--border);
+  padding: 10px;
+  margin: 10px 0;
+  color: var(--text-dim);
+  font-size: 0.9em;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  color: var(--text-dim);
+  font-size: 0.9em;
+}
+
+.back-link:hover {
+  color: var(--text);
+}
+
+.hyprlink {
+  color: var(--text);
+  font-weight: bold;
+}
+
+@media (max-width: 1000px) {
+  body {
+    max-width: 98vw;
+    padding: 20px;
+    border: none;
+  }
+}
