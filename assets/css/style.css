@@ -90,15 +90,6 @@ a:hover {
   width: 88px;
   height: 31px;
   image-rendering: pixelated;
-  opacity: 0.85;
-  transition:
-    opacity 0.2s ease,
-    transform 0.2s ease;
-}
-
-.gif-tags-container img:hover {
-  opacity: 1;
-  transform: scale(1.1);
 }
 
 .hyprlink {
