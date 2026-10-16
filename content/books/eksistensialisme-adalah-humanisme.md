@@ -4,7 +4,7 @@ description: "Tidak ada doktrin yang lebih optimis daripada eksistensialisme, ka
 date: '2026-10-17T03:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"
-  coverImage: "images/covers/eksistensialisme-adalah-humanisme.jpeg"
+  coverImage: "images/covers/eksistensialisme-adalah-humanisme.jpg"
   rating: 4
   status: "Read"
   published: "1946"
@@ -18,7 +18,7 @@ bookMeta:
 "Theory",
 "French Literature"
 ]
-  goodreadsUrl: "https://www.goodreads.com/book/show/51985.Existentialism_is_a_Humanism"
+  goodreadsUrl: "https://www.goodreads.com/book/show/60175277-eksistensialisme-adalah-humanisme"
 ---
 Untuk memperbaiki kesalahpahaman umum tentang pemikirannya, Jean-Paul Sartre, intelektual Eropa paling terkemuka pada dekade pasca-Perang Dunia II, menerima undangan untuk berbicara pada tanggal 29 Oktober 1945, di Club Maintenant di Paris. Tujuan kuliahnya yang tidak disebutkan (“Eksistensialisme Adalah Humanisme”) adalah untuk menguraikan filosofinya sebagai bentuk “eksistensialisme,” sebuah istilah yang banyak dibicarakan pada saat itu. Sartre menegaskan bahwa eksistensialisme pada dasarnya adalah sebuah doktrin bagi para filsuf, namun ironisnya, ia akan membuatnya dapat diakses oleh khalayak umum. Teks ceramahnya yang diterbitkan dengan cepat menjadi salah satu Alkitab eksistensialisme dan menjadikan Sartre seorang selebriti internasional.
 
