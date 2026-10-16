@@ -18,6 +18,10 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [pagination]
   pagerSize = 20
 
