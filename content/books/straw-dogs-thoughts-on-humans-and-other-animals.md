@@ -5,7 +5,7 @@ date: '2026-10-17T04:10:28+07:00'
 bookMeta:
   author: "John Gray"
   coverImage: "images/covers/straw-dogs.jpg"
-  rating: 4
+  rating: 5
   status: "Read"
   published: "2002"
   pages:  246
