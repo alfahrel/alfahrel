@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 17 Oct 2026 02:07:46 +0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The World as Will and Representation Volume I</title>
+				<link>http://localhost:1313/books/the-world-as-will-and-representation-volume-i/</link>
+				<pubDate>Sat, 17 Oct 2026 02:07:46 +0700</pubDate>
+				<guid>http://localhost:1313/books/the-world-as-will-and-representation-volume-i/</guid>
+				<description>&lt;p&gt;Die Welt als Wille und Vorstellung karya Arthur Schopenhauer adalah salah satu karya filosofis terpenting abad kesembilan belas, pernyataan dasar dari salah satu aliran penting pemikiran pasca-Kantian. Tidak diragukan lagi, ini adalah karya terbesar Schopenhauer. Diciptakan dan diterbitkan sebelum filsuf berusia 30 tahun dan berkembang 25 tahun kemudian, ini adalah penjumlahan dari pemikiran seumur hidup.&lt;/p&gt;&#xA;&lt;p&gt;Selama 70 tahun, satu-satunya terjemahan bahasa Inggris lengkap dari karya ini adalah kolaborasi Haldane-Kemp. Pada tahun 1958, terjemahan baru oleh EFJ Payne muncul yang secara tegas menggantikan terjemahan lama. Terjemahan Payne lebih unggul karena mengoreksi hampir 1.000 kesalahan dan kelalaian dalam terjemahan Haldane-Kemp, dan itu didasarkan pada edisi Jerman definitif karya Schopenhauer yang disiapkan oleh Dr. Arthur Hübscher. Edisi Payne adalah edisi pertama yang menerjemahkan banyak kutipan teks ke dalam bahasa Inggris dalam setengah lusin bahasa. Oleh karena itu, ini adalah edisi yang paling berguna bagi siswa atau guru.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The World as Will and Representation Volume II</title>
+				<link>http://localhost:1313/books/the-world-as-will-and-representation-volume-ii/</link>
+				<pubDate>Sat, 17 Oct 2026 02:07:46 +0700</pubDate>
+				<guid>http://localhost:1313/books/the-world-as-will-and-representation-volume-ii/</guid>
+				<description>&lt;p&gt;Die Welt als Wille und Vorstellung karya Arthur Schopenhauer adalah salah satu karya filosofis terpenting abad kesembilan belas, pernyataan dasar dari salah satu aliran penting pemikiran pasca-Kantian. Tidak diragukan lagi, ini adalah karya terbesar Schopenhauer. Diciptakan dan diterbitkan sebelum filsuf berusia 30 tahun dan berkembang 25 tahun kemudian, ini adalah penjumlahan dari pemikiran seumur hidup.&lt;/p&gt;&#xA;&lt;p&gt;Selama 70 tahun, satu-satunya terjemahan bahasa Inggris lengkap dari karya ini adalah kolaborasi Haldane-Kemp. Pada tahun 1958, terjemahan baru oleh EFJ Payne muncul yang secara tegas menggantikan terjemahan lama. Terjemahan Payne lebih unggul karena mengoreksi hampir 1.000 kesalahan dan kelalaian dalam terjemahan Haldane-Kemp, dan itu didasarkan pada edisi Jerman definitif karya Schopenhauer yang disiapkan oleh Dr. Arthur Hübscher. Edisi Payne adalah edisi pertama yang menerjemahkan banyak kutipan teks ke dalam bahasa Inggris dalam setengah lusin bahasa. Oleh karena itu, ini adalah edisi yang paling berguna bagi siswa atau guru.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Upanisad-Upanisad Utama</title>
+				<link>http://localhost:1313/books/upanishad/</link>
+				<pubDate>Sat, 17 Oct 2026 01:49:24 +0700</pubDate>
+				<guid>http://localhost:1313/books/upanishad/</guid>
+				<description>&lt;p&gt;Upanishad, yang paling awal disusun dalam bahasa Sansekerta antara tahun 800 dan 400 SM oleh orang bijak dan penyair, merupakan bagian dari Weda - kitab suci dan kuno yang menjadi dasar agama Hindu. Setiap Upanishad, atau pelajaran, mengambil tema mulai dari pencapaian kebahagiaan spiritual hingga karma dan kelahiran kembali, dan secara kolektif merupakan meditasi tentang kehidupan, kematian, dan keabadian. Inti dari ajaran mereka adalah bahwa kebenaran dapat dicapai melalui iman dan bukan melalui pikiran, dan bahwa roh Tuhan ada di dalam diri kita masing-masing - kita tidak perlu takut akan kematian karena kita membawa janji kehidupan kekal ke dalam diri kita.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Example Professional Certification</title>
+				<link>http://localhost:1313/certs/example-professional/</link>
+				<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/certs/example-professional/</guid>
+				<description>&lt;p&gt;The body of a certification page is ordinary Markdown, so this is the place for&#xA;what the credential actually meant rather than what the syllabus said.&lt;/p&gt;&#xA;&lt;p&gt;Everything else on this page — the issuer kicker, the badge, the dates, the facts&#xA;list and the verify button — comes from the &lt;code&gt;certMeta&lt;/code&gt; block in the front matter.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Example Associate Certification</title>
+				<link>http://localhost:1313/certs/example-associate/</link>
+				<pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/certs/example-associate/</guid>
+				<description>&lt;p&gt;This one has no &lt;code&gt;expiryDate&lt;/code&gt;, so the Expires row is simply absent — every fact in&#xA;the list is optional and disappears when you omit it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Example Foundations Certification</title>
+				<link>http://localhost:1313/certs/example-foundations/</link>
+				<pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/certs/example-foundations/</guid>
+				<description>&lt;p&gt;A second issuer, so the list page has two groups to sort. Issuers are ordered by&#xA;their most recent credential, which puts the track you are actively certifying on&#xA;above the ones you have moved past.&lt;/p&gt;&#xA;&lt;p&gt;This credential is also marked &lt;code&gt;Expired&lt;/code&gt; and has no &lt;code&gt;credentialUrl&lt;/code&gt;, so it loses&#xA;the accent status pill and the verify button.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;This is the About layout. It puts your prose and a couple of summary rows in the&#xA;left column, and a portrait with a row of social icons on the right.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;params.portrait&lt;/code&gt; is deliberately unset on this demo site, so what you see to the&#xA;right is the empty frame. Point it at any image under &lt;code&gt;assets/&lt;/code&gt; or &lt;code&gt;static/&lt;/code&gt; and&#xA;the theme resizes it to 800px wide, converts it to WebP, and emits real dimensions&#xA;so the page never shifts as it loads.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Archive</title>
+				<link>http://localhost:1313/archives/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/archives/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>http://localhost:1313/resume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resume/</guid>
+				<description>&lt;p&gt;This page&amp;rsquo;s content is only used as a fallback. When &lt;code&gt;data/resume.yaml&lt;/code&gt; exists the&#xA;theme renders that instead, and this prose is ignored.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Search</title>
+				<link>http://localhost:1313/search/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/search/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
