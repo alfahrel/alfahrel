@@ -22,7 +22,6 @@ bookMeta:
 
 Die Welt als Wille und Vorstellung karya Arthur Schopenhauer adalah salah satu karya filosofis terpenting abad kesembilan belas, pernyataan dasar dari salah satu aliran penting pemikiran pasca-Kantian. Tidak diragukan lagi, ini adalah karya terbesar Schopenhauer. Diciptakan dan diterbitkan sebelum filsuf berusia 30 tahun dan berkembang 25 tahun kemudian, ini adalah penjumlahan dari pemikiran seumur hidup.
 
-Selama 70 tahun, satu-satunya terjemahan bahasa Inggris lengkap dari karya ini adalah kolaborasi Haldane-Kemp. Pada tahun 1958, terjemahan baru oleh EFJ Payne muncul yang secara tegas menggantikan terjemahan lama. Terjemahan Payne lebih unggul karena mengoreksi hampir 1.000 kesalahan dan kelalaian dalam terjemahan Haldane-Kemp, dan itu didasarkan pada edisi Jerman definitif karya Schopenhauer yang disiapkan oleh Dr. Arthur Hübscher. Edisi Payne adalah edisi pertama yang menerjemahkan banyak kutipan teks ke dalam bahasa Inggris dalam setengah lusin bahasa. Oleh karena itu, ini adalah edisi yang paling berguna bagi siswa atau guru.
 
 
 
