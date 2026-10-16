@@ -11,7 +11,7 @@ bookMeta:
   pages:  122
   type:  Print
   language: Indonesia
-  genre: ["Filsafat"
+  genre: ["Filsafat",
 "Nonfiksi",
 "Classics",
 "France",
