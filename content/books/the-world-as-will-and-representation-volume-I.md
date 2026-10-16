@@ -9,6 +9,7 @@ bookMeta:
   status: "Read"
   published: "1818"
   pages:  534
+  type: Print
   language: English (Terjemahan Indonesia)
   genre: ["Filsafat",
 "Nonfiksi",

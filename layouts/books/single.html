@@ -41,6 +41,7 @@
       {{- with $m.publisher }}<div><dt>{{ i18n "bookPublisher" }}</dt><dd>{{ . }}</dd></div>{{ end }}
       {{- with $m.published }}<div><dt>{{ i18n "bookPublished" }}</dt><dd>{{ . }}</dd></div>{{ end }}
       {{- with $m.pages }}<div><dt>{{ i18n "bookPages" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.type }}<div><dt>{{ i18n "bookType" }}</dt><dd>{{ . }}</dd></div>{{ end }}
       {{- with $m.language }}<div><dt>{{ i18n "bookLanguage" }}</dt><dd>{{ . }}</dd></div>{{ end }}
       <div><dt>{{ i18n "bookStatus" }}</dt><dd>{{ $status }}</dd></div>
       {{- with $m.genre }}<div><dt>{{ i18n "bookGenre" }}</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}

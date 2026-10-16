@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-17T02:07:46+07:00</lastmod>
+    <lastmod>2026-10-17T04:10:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
-    <lastmod>2026-10-17T02:07:46+07:00</lastmod>
+    <lastmod>2026-10-17T04:10:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/straw-dogs-thoughts-on-humans-and-other-animals/</loc>
+    <lastmod>2026-10-17T04:10:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/eksistensialisme-adalah-humanisme/</loc>
+    <lastmod>2026-10-17T03:22:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/nausea/</loc>
+    <lastmod>2026-10-17T03:22:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/the-world-as-will-and-representation-volume-i/</loc>
     <lastmod>2026-10-17T02:07:46+07:00</lastmod>

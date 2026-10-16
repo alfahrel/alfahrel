@@ -9,14 +9,15 @@ bookMeta:
   status: "Read"
   published: "1946"
   pages:  122
+  type:  Print
   language: Indonesia
-  genre: ["Philosophy",
-"Nonfiction",
+  genre: ["Filsafat"
+"Nonfiksi",
 "Classics",
 "France",
-"Essays",
-"Theory",
-"French Literature"
+"Esai",
+"Teori",
+"Sastra Perancis"
 ]
   goodreadsUrl: "https://www.goodreads.com/book/show/60175277-eksistensialisme-adalah-humanisme"
 ---

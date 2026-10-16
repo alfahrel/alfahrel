@@ -9,6 +9,7 @@ bookMeta:
   published: "2008"
   language: "Indonesia"
   pages: 700
+  type: Print
   genre: ["Agama",
 "Filsafat",
 "Spiritualitas",

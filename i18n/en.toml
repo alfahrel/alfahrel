@@ -270,6 +270,9 @@ other = "Pages"
 [bookIsbn]
 other = "ISBN"
 
+[bookType]
+other = "Type"
+
 [bookLanguage]
 other = "Language"
 
