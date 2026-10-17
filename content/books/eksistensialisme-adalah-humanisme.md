@@ -1,6 +1,5 @@
 ---
 title: "Eksistensialisme adalah Humanisme"
-description: "Tidak ada doktrin yang lebih optimis daripada eksistensialisme, karena ia menyatakan bahwa takdir manusia terletak di dalam dirinya sendiri. Banyak orang yang akan terkejut oleh apa yang harus saya katakan di sini tentang humanisme."
 date: '2026-10-17T03:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"

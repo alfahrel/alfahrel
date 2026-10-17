@@ -7,7 +7,11 @@
 # These are placeholders. Override them by creating data/quotes.yaml in your own
 # site root — your file replaces this one wholesale, it does not merge into it.
 lines:
-  - pre: "Kenali dirimu jadilah mandul.\n"
-    accent: "Dan biarkan bumi menjadi sunyi setelah kamu."
-  - pre: "Aku merindukan kebebasan—kebebasan yang putus asa.\n"
-    accent: "Bebas seperti bayi yang lahir mati."
+  - pre: "What are you looking for here? \n"
+    accent: "There's nothing here."
+  - pre: "Well, actually, there are \n"
+    accent: "few articles and a few books that I owned on this site."
+  - pre: "But come on, \n"
+    accent: "who even cares?"
+
+

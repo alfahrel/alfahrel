@@ -2,4 +2,4 @@
 title: "Bookshelf"
 ---
 
-Some books in my bookshelf. Some that i haven't read, currently read, and read.
+Some books I’m currently reading, some I’ve already read, and some I haven’t read yet. Most of them are in Indonesian, so the descriptions and notes are also in Indonesian.

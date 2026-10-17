@@ -10,7 +10,7 @@
 
 baseURL = "https://alfahrel.my.id"
 locale = "en-gb"
-title = "My New Hugo Project"
+title = "alfahrel"
 theme = "nuno"
 
 enableRobotsTXT = true
@@ -82,7 +82,7 @@ buildExpired = false
   # a hardcoded /favicon.ico 404 on every page.
   ogImage = "images/example-figure.png"
   description = ""
-  tagline = "Beberapa pepatah, sebagai pegangan."
+  tagline = "A brief summary of this site"
   copyright = "© 2026 · MIT licensed"
 
   # params.portrait is deliberately unset so the About page shows the empty
@@ -91,7 +91,7 @@ buildExpired = false
   # --- posts ---------------------------------------------------------------
   # A thin accent bar at the top of a post, tracking scroll. Off by default;
   # on here so the demo shows it.
-  readingProgress = true
+  readingProgress = false
 
   # On a post in a multi-part series, the aside becomes Chapters/Contents tabs,
   # and below 760px it moves into a sheet behind a floating "Outline" button.
@@ -99,7 +99,7 @@ buildExpired = false
   # seriesPanel = true
 
   # --- home ----------------------------------------------------------------
-  postsOnHome = 6
+  postsOnHome = 3
   # postsOnHomeMax renders further posts behind a "Show more" button. Unset (or
   # at or below postsOnHome) it does nothing, which is the default.
   # postsOnHomeMax = 12
@@ -114,7 +114,7 @@ buildExpired = false
   homeHeader = "masthead"
   homeStyle = "grid"
   homeGroupByYear = false
-  masthead = 'Tat<span class="accent"></span><br>Tvam Asi'
+  masthead = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
   mainSections = ["posts"]
   DateFormat = "2 January 2006"
 
@@ -159,19 +159,19 @@ buildExpired = false
     weight = 10
    [[menu.main]]
     identifier = "books"
-    name = "Books"
+    name = "Bookshelf"
     url = "/books/"
     weight = 30
- # [[menu.main]]
- #   identifier = "resume"
- #   name = "Resume"
- #   url = "/resume/"
- #   weight = 40
- # [[menu.main]]
- #   identifier = "about"
- #   name = "About"
- #   url = "/about/"
- #   weight = 50
+   #[[menu.main]]
+   # identifier = "resume"
+   # name = "Resume"
+   # url = "/resume/"
+   # weight = 40
+   #[[menu.main]]
+   # identifier = "about"
+   # name = "About"
+   # url = "/about/"
+   # weight = 50
 
 [security.funcs]
   getenv = ["^HUGO_", "^CI$"]

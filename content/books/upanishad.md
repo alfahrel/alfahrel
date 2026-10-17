@@ -1,6 +1,5 @@
 ---
 title: "Upanisad-Upanisad Utama"
-description: "Buku yang berisi ajaran brahmanisme kuno di India"
 date: '2026-10-17T01:49:24+07:00'
 bookMeta:
   author: "Radhakrishnan, S."

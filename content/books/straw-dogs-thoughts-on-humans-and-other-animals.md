@@ -1,6 +1,5 @@
 ---
 title: "Straw Dogs: Thoughts on Humans and Other Animals"
-description: "Straw Dogs adalah karya filsafat, yang menetapkan untuk menantang asumsi kita yang paling dihargai tentang apa artinya menjadi manusia."
 date: '2026-10-17T04:10:28+07:00'
 bookMeta:
   author: "John Gray"

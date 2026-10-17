@@ -91,7 +91,7 @@ other = "Press {{ .key }} anywhere on the site to open it."
 # --- Home -------------------------------------------------------------------
 
 [recentWriting]
-other = "Recent writing"
+other = "Recent Writing"
 
 [archiveCount]
 one = "Archive · {{ .count }}"

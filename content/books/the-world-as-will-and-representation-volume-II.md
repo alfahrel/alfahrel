@@ -1,9 +1,8 @@
 ---
 title: "The World as Will and Representation Volume II"
-description: "Karya filosofis terpenting abad kesembilan belas, pernyataan dasar dari salah satu aliran penting pemikiran pasca-Kantian."
 date: '2026-10-17T02:07:46+07:00'
 bookMeta:
-  author: "Arthur Schopenhauer, E.F.J. Payne (Translator)"
+  author: "Arthur Schopenhauer"
   coverImage: "images/covers/the-world-as-will-and-representation-v2.jpg"
   rating: 5
   status: "Read"
