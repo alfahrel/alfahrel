@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/woke-up-again/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rambled/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/thoughts/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/thoughts/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-10-17T19:46:19+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
@@ -45,16 +75,8 @@
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
   </url>
 </urlset>

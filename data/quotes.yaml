@@ -9,8 +9,10 @@
 lines:
   - pre: "What are you looking for here? \n"
     accent: "There's nothing here."
-  - pre: "Well, actually, there are \n"
-    accent: "few articles and a few books that I owned on this site."
+  - pre: "There's nothing about me— \n"
+    accent: "no background, no resume, nothing of value. There's nothing at all."
+  - pre: "Well, actually, there are a \n"
+    accent: "few articles I’ve written and a few books I have on my bookshelf"
   - pre: "But come on, \n"
     accent: "who even cares?"
 

@@ -99,7 +99,7 @@ buildExpired = false
   # seriesPanel = true
 
   # --- home ----------------------------------------------------------------
-  postsOnHome = 3
+  postsOnHome = 13
   # postsOnHomeMax renders further posts behind a "Show more" button. Unset (or
   # at or below postsOnHome) it does nothing, which is the default.
   # postsOnHomeMax = 12
@@ -112,7 +112,7 @@ buildExpired = false
   # ledger under year headings, which needs more than one year to be worth it —
   # every post here is 2026.
   homeHeader = "masthead"
-  homeStyle = "grid"
+  homeStyle = "ledger"
   homeGroupByYear = false
   masthead = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
   mainSections = ["posts"]

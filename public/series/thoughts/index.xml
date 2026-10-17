@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thoughts on alfahrel</title>
+		<link>http://localhost:1313/series/thoughts/</link>
+		<description>Recent content in Thoughts on alfahrel</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 17 Oct 2026 19:46:19 +0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/series/thoughts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>It’s too bad I woke up again this morning</title>
+				<link>http://localhost:1313/posts/woke-up-again/</link>
+				<pubDate>Sat, 17 Oct 2026 19:46:19 +0700</pubDate>
+				<guid>http://localhost:1313/posts/woke-up-again/</guid>
+				<description>&lt;h2 id=&#34;early-in-the-day&#34;&gt;Early in the Day&lt;a class=&#34;heading-anchor&#34; href=&#34;#early-in-the-day&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;As soon as I woke up today, I immediately started doing the same things over and over again, just like yesterday: watering the plants, warming up my motorcycle, feeding the cat, and reading a little from the Upanishads&lt;/p&gt;&#xA;&lt;h2 id=&#34;midday&#34;&gt;Midday&lt;a class=&#34;heading-anchor&#34; href=&#34;#midday&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Since it’s October now, that means the weather is at its hottest in the southern part near the Earth’s equator, so I spent my time sitting in front of the fan as much as possible; I thought it would be impossible to get up and do anything in such intense heat&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
