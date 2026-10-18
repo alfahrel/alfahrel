@@ -9,6 +9,12 @@
 # come from your front matter. These are only the strings the theme itself
 # renders.
 
+[masthead]
+other = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
+
+[tagline]
+other = "A brief summary of this site"
+
 # --- Chrome: nav, footer, skip link -----------------------------------------
 
 [skipToContent]

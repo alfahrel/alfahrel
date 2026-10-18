@@ -9,22 +9,22 @@ bookMeta:
   published: "1938"
   pages:  178
   type: Print
-  language: English (Terjemahan Indonesia)
-  genre: ["Filsafat",
-"Fiction",
-"Classics",
-"France",
-"Literature",
-"Sastra Perancis",
-"Novel"]
+  language: English (Translate to Indonesian)
+  genre: ["Philosophy",
+  "Fiction",
+  "Classics",
+  "France",
+  "Literature",
+  "French Literature",
+  "Novel"]
   goodreadsUrl: "https://www.goodreads.com/book/show/298275.Nausea?ac=1"
 ---
 
-Nausea adalah kisah Antoine Roquentin, seorang penulis Perancis yang ngeri dengan keberadaannya sendiri. Dalam bentuk buku harian impresionistik, dia dengan kejam mengkatalogkan setiap perasaan dan sensasinya tentang dunia dan orang-orang di sekitarnya.
+Nausea is the story of Antoine Roquentin, a French writer horrified by his own existence. In the form of an impressionistic diary, he ruthlessly catalogs every feeling and sensation he experiences regarding the world and the people around him.
 
-Pikirannya memuncak dalam perasaan mual yang meresap dan sangat kuat yang "menyebar di dasar genangan kental, di bagian bawah zaman kita, masa suspender ungu dan kursi kursi rusak; itu terbuat dari instan yang lebar dan lembut, menyebar di tepi, seperti noda minyak."
+His thoughts culminate in a pervasive and intensely powerful feeling of nausea that “spreads at the bottom of a thick pool, at the very depths of our era, the age of purple suspenders and broken armchairs; it is made up of broad, soft moments, spreading to the edges, like an oil stain.”
 
-Upaya Roquentin untuk mencoba dan berdamai dengan hidupnya, perjuangan filosofis dan psikologisnya, memberi Sartre kesempatan untuk mendramatisasi prinsip-prinsip keyakinan Eksistensialisnya.
+Roquentin’s attempts to come to terms with his life—his philosophical and psychological struggles—provide Sartre with an opportunity to dramatize the tenets of Existentialist belief.
 
 
 

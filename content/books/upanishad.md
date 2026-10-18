@@ -9,17 +9,17 @@ bookMeta:
   language: "Indonesia"
   pages: 700
   type: Print
-  genre: ["Agama",
-"Filsafat",
-"Spiritualitas",
-"Klasik",
+  genre: ["Religion",
+"Philosophy",
+"Spirituality",
+"Classics",
 "Nonfiction",
-"Hinduisme",
+"Hinduism",
 "India",
-"Puisi",
-"Mitologi"]
+"Poetry",
+"Mythology"]
   goodreadsUrl: "https://www.goodreads.com/book/show/290882"
 ---
 
-Upanishad, yang paling awal disusun dalam bahasa Sansekerta antara tahun 800 dan 400 SM oleh orang bijak dan penyair, merupakan bagian dari Weda - kitab suci dan kuno yang menjadi dasar agama Hindu. Setiap Upanishad, atau pelajaran, mengambil tema mulai dari pencapaian kebahagiaan spiritual hingga karma dan kelahiran kembali, dan secara kolektif merupakan meditasi tentang kehidupan, kematian, dan keabadian. Inti dari ajaran mereka adalah bahwa kebenaran dapat dicapai melalui iman dan bukan melalui pikiran, dan bahwa roh Tuhan ada di dalam diri kita masing-masing - kita tidak perlu takut akan kematian karena kita membawa janji kehidupan kekal ke dalam diri kita.
+The Upanishads, the earliest of which were composed in Sanskrit between 800 and 400 bce by sages and poets, form part of the Vedas - the sacred and ancient scriptures that are the basis of the Hindu religion. Each Upanishad, or lesson, takes up a theme ranging from the attainment of spiritual bliss to karma and rebirth, and collectively they are meditations on life, death and immortality. The essence of their teachings is that truth can by reached by faith rather than by thought, and that the spirit of God is within each of us - we need not fear death as we carry within us the promise of eternal life.
 

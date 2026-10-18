@@ -11,15 +11,15 @@ bookMeta:
   type:  eBook
   language: English
   genre: [
-"Filsafat",
-"Nonfiksi",
-"Esai",
-"Psikologi",
-"Teori",
-"Puisi",
+"Philosophy",
+"Nonfiction",
+"Essays",
+"Psychology",
+"Theory",
+"Poetry",
 "Literature"
   ]
   goodreadsUrl: "https://www.goodreads.com/book/show/22060860-the-last-messiah"
 ---
 
-The last Messiah merupakan esai fenomenal dari filsuf Norwegia, Peter Wessel Zapffe. Disini sang filsuf membayangkan kembali kondisi manusia sebagai keadaan berkelanjutan di mana organisme manusia telah berevolusi secara berlebihan dan hidup berlebihan dalam kebutuhan biologisnya sendiri melalui otaknya yang terlalu besar dan berlebihan.
+The Last Messiah is a phenomenal essay by the Norwegian philosopher Peter Wessel Zapffe. In it, the philosopher reimagines the human condition as a perpetual state in which the human organism has evolved excessively and lives beyond its own biological needs due to its oversized and excessive brain.

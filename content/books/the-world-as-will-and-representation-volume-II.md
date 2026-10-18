@@ -10,17 +10,21 @@ bookMeta:
   pages:  720
   type: Print
   language: English (Terjemahan Indonesia)
-  genre: ["Filsafat",
-"Nonfiksi",
+  genre: ["Philosophy",
+"Nonfiction",
 "Classics",
-"Sastra Jerman",
-"Psikologi",
-"Abad ke-19",
-"Metafisika"]
+"German Literature",
+"Psychology",
+"Metaphysics",
+"19th Century",
+]
   goodreadsUrl: "https://www.goodreads.com/book/show/19506.The_World_as_Will_and_Representation_Volume_I"
 ---
 
-Die Welt als Wille und Vorstellung karya Arthur Schopenhauer adalah salah satu karya filosofis terpenting abad kesembilan belas, pernyataan dasar dari salah satu aliran penting pemikiran pasca-Kantian. Tidak diragukan lagi, ini adalah karya terbesar Schopenhauer. Diciptakan dan diterbitkan sebelum filsuf berusia 30 tahun dan berkembang 25 tahun kemudian, ini adalah penjumlahan dari pemikiran seumur hidup.
+Arthur Schopenhauer's Die Welt als Wille und Vorstellung is one of the most important philosophical works of the nineteenth century, the basic statement of one important stream of post-Kantian thought. It is without question Schopenhauer's greatest work. Conceived and published before the philosopher was 30 and expanded 25 years later, it is the summation of a lifetime of thought.
+
+For 70 years, the only unabridged English translation of this work was the Haldane-Kemp collaboration. In 1958, a new translation by E. F. J. Payne appeared that decisively supplanted the older one. Payne's translation is superior because it corrects nearly 1,000 errors and omissions in the Haldane-Kemp translation, and it is based on the definitive 1937 German edition of Schopenhauer's work prepared by Dr. Arthur Hübscher. Payne's edition is the first to translate into English the text's many quotations in half a dozen languages. It is thus the most useful edition for the student or teacher.
+
 
 
 

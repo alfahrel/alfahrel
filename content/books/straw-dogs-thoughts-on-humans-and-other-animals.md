@@ -10,19 +10,20 @@ bookMeta:
   pages:  246
   type:  eBook
   language: English
-  genre: ["Filsafat",
-"Nonfiksi",
+  genre: [
+"Philosophy",
+"Nonfiction",
 "Science",
-"Psikologi",
-"Politik",
+"Psychology",
+"Politics",
 "Religion",
 "History"
 ]
   goodreadsUrl: "https://www.goodreads.com/book/show/230733.Straw_Dogs"
 ---
 
-Straw Dogs adalah karya filsafat, yang menetapkan untuk menantang asumsi kita yang paling dihargai tentang apa artinya menjadi manusia. Dari Plato hingga Kristen, dari Pencerahan hingga Nietzsche, tradisi Barat didasarkan pada keyakinan yang arogan dan salah tentang manusia dan tempat mereka di dunia.
+Straw Dogs is a philosophical work that sets out to challenge our most cherished assumptions about what it means to be human. From Plato to Christianity, from the Enlightenment to Nietzsche, Western tradition is founded on arrogant and mistaken beliefs about human beings and their place in the world.
 
-Filsafat seperti liberalisme dan Marxisme menganggap umat manusia sebagai spesies yang takdirnya melampaui batas alam dan menaklukkan Bumi. Bahkan di masa sekarang, terlepas dari penemuan Darwin, hampir semua aliran pemikiran mengambil sebagai titik awal mereka keyakinan bahwa manusia secara radikal berbeda dari hewan lain. John Gray berpendapat bahwa keyakinan humanis ini hanyalah ilusi. Tujuan dari Straw Dogs adalah untuk mengeksplorasi bagaimana dunia dan kehidupan manusia terlihat setelah humanisme akhirnya ditinggalkan.
+Philosophies such as liberalism and Marxism view humanity as a species destined to transcend natural limits and conquer the Earth. Even today, despite Darwin’s discoveries, nearly all schools of thought take as their starting point the belief that humans are radically different from other animals. John Gray argues that this humanist belief is nothing more than an illusion. The aim of *Straw Dogs* is to explore what the world and human life would look like once humanism is finally abandoned.
 
-Straw Dogs mengeksplorasi isu-isu filosofis seperti sifat diri, kehendak bebas, moralitas, kemajuan dan nilai kebenaran. Mengambil inspirasinya dari seni, puisi, dan batas-batas ilmu pengetahuan serta filsafat itu sendiri, John Gray menyajikan pandangan pasca-humanis tentang dunia dan kehidupan manusia. Straw Dogs adalah buku yang menggembirakan, kadang-kadang mengganggu yang mengarahkan pembaca untuk mempertanyakan keyakinan terdalam mereka.
+Straw Dogs explores philosophical issues such as the nature of the self, free will, morality, progress, and the value of truth. Drawing inspiration from art, poetry, and the boundaries of science and philosophy itself, John Gray presents a post-humanist view of the world and human life. *Straw Dogs* is an exhilarating, sometimes unsettling book that leads readers to question their deepest beliefs.

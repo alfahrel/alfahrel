@@ -1,9 +1,11 @@
 {{- /* Typed masthead.
    Every line is rendered invisibly into the same grid cell, so the block is
    always as tall as the tallest line and typing never reflows the page.
-   Line 1 is server-rendered in full: that is the no-JS view. */ -}}
-{{- $lines := hugo.Data.quotes.lines -}}
-{{- with $lines }}
+   Line 1 is server-rendered in full: that is the no-JS view.
+   Data: data/quotes.yaml, keyed by language code, falling back to "en". */ -}}
+{{- $quotes := hugo.Data.quotes | default dict -}}
+{{- $q := index $quotes .Lang | default (index $quotes "en") | default dict -}}
+{{- with $q.lines }}
   {{- $first := index . 0 }}
 <div class="typer" data-nuno-typer>
   {{- range . }}

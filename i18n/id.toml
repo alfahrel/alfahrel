@@ -1,0 +1,364 @@
+# nuno — English UI strings.
+#
+# Copy this file to i18n/<lang>.toml in your own site (or in the theme, as a
+# pull request) and translate the values. Keys with `one` and `other` are
+# pluralised by Hugo from the `count` passed in; `{{ .count }}` and friends are
+# Go template placeholders and must survive translation.
+#
+# Nothing here is content — post titles, section titles and page headings all
+# come from your front matter. These are only the strings the theme itself
+# renders.
+
+[masthead]
+other = "Hai. <br><span class=\"accent\">Saya Fahrel.</span>"
+
+[tagline]
+other = "Ringkasan singkat tentang situs ini"
+
+# --- Chrome: nav, footer, skip link -----------------------------------------
+
+[skipToContent]
+other = "Lewati ke konten"
+ 
+[searchPosts]
+other = "Cari tulisan"
+ 
+[search]
+other = "Cari"
+ 
+[switchColourTheme]
+other = "Ganti tema warna"
+ 
+# Announced by the theme toggle. The label describes where the button goes,
+# not where you are, so it is the opposite of the current mode.
+[switchToLight]
+other = "Ganti ke mode terang"
+ 
+[switchToDark]
+other = "Ganti ke mode gelap"
+ 
+[switchToGreen]
+other = "Ganti ke hijau"
+ 
+[switchToBrown]
+other = "Ganti ke cokelat"
+ 
+[opensInNewTab]
+other = "(terbuka di tab baru)"
+ 
+# --- Search overlay ---------------------------------------------------------
+ 
+[searchPlaceholder]
+other = "Cari"
+ 
+[searchEsc]
+other = "Esc"
+ 
+[searchCancel]
+other = "Batal"
+ 
+[searchHintMove]
+other = "↑↓ pindah"
+ 
+[searchHintOpen]
+other = "↵ buka"
+ 
+[searchHintClose]
+other = "esc tutup"
+ 
+# Rendered as: Belum ada tulisan tentang <the query>.
+[searchEmptyTitle]
+other = "Belum ada tulisan tentang"
+ 
+[searchEmptyHint]
+other = "Coba kata yang lebih pendek, atau ejaan yang berbeda."
+ 
+# Indonesian has no singular/plural distinction, so only `other` is needed.
+[searchBrowseAll]
+other = "Lihat semua {{ .count }} tulisan →"
+ 
+# Result count above the list. Rendered by JavaScript, which cannot call i18n.
+# Keep the `{n}` literal.
+[resultsCountOne]
+other = "{n} tulisan"
+ 
+[resultsCountMany]
+other = "{n} tulisan"
+ 
+# The /search/ page. `{{ .key }}` is the ⌘K / Ctrl K badge and is HTML.
+[searchPageLead]
+other = "Cari di {{ .count }} tulisan berdasarkan judul, deskripsi, atau tag."
+ 
+[searchPageHint]
+other = "Tekan {{ .key }} di mana saja pada situs ini untuk membukanya."
+ 
+# --- Home -------------------------------------------------------------------
+ 
+[recentWriting]
+other = "Tulisan Terbaru"
+ 
+[archiveCount]
+other = "Arsip · {{ .count }}"
+ 
+[archiveCountArrow]
+other = "Arsip · {{ .count }} →"
+ 
+[showMore]
+other = "Tampilkan lebih banyak"
+ 
+# --- Reading time -----------------------------------------------------------
+ 
+[minutes]
+other = "{{ .count }} mnt"
+ 
+[minutesRead]
+other = "{{ .count }} mnt baca"
+ 
+# --- Comments ---------------------------------------------------------------
+ 
+[comments]
+other = "Komentar"
+ 
+[commentsNoScript]
+other = "Komentar memerlukan JavaScript dan di-host di GitHub Discussions melalui giscus."
+ 
+# --- Post -------------------------------------------------------------------
+ 
+[onThisPage]
+other = "Di halaman ini"
+ 
+[byAuthor]
+other = "oleh {{ .name }}"
+ 
+[updatedOn]
+other = "Diperbarui {{ .date }}"
+ 
+[tagged]
+other = "Tag · {{ .tags }}"
+ 
+[linkToSection]
+other = "Tautan ke bagian ini"
+ 
+[seriesLabel]
+other = "Seri"
+ 
+# Rendered beside the series name, e.g. "Bagian 2 dari 5".
+[seriesPart]
+other = "Bagian {{ .n }} dari {{ .total }}"
+ 
+# The first row of the chapter list: the series' own page, which carries its
+# description and every part.
+[seriesOverview]
+other = "Ikhtisar"
+ 
+# Accessible name for the aside's tab strip on a post in a series.
+[panelLabel]
+other = "Navigasi tulisan"
+ 
+[chaptersTab]
+other = "Bab"
+ 
+[contentsTab]
+other = "Isi"
+ 
+# The floating button below 760px, where the aside is gone, and the label on the
+# button that closes the sheet it opens.
+[outlineOpen]
+other = "Daftar isi"
+ 
+[outlineClose]
+other = "Tutup"
+ 
+[relatedReading]
+other = "Bacaan terkait"
+ 
+[older]
+other = "← Lebih lama"
+ 
+[newer]
+other = "Lebih baru →"
+ 
+[pagerNewer]
+other = "← Lebih baru"
+ 
+[pagerOlder]
+other = "Lebih lama →"
+ 
+# --- Lists and archive ------------------------------------------------------
+ 
+[postsCount]
+other = "{{ .count }} tulisan"
+ 
+[archiveTitle]
+other = "Arsip"
+ 
+# --- Certifications ---------------------------------------------------------
+ 
+[credentialsCount]
+other = "{{ .count }} kredensial"
+ 
+[certifications]
+other = "Sertifikasi"
+ 
+[certificationsCount]
+other = "Sertifikasi · {{ .count }}"
+ 
+[certIssuer]
+other = "Penerbit"
+ 
+[certEarned]
+other = "Diperoleh"
+ 
+[certExpires]
+other = "Berlaku hingga"
+ 
+[certCredentialId]
+other = "ID Kredensial"
+ 
+[certStatus]
+other = "Status"
+ 
+[certSkills]
+other = "Keahlian"
+ 
+# Default when a cert sets no explicit status.
+[certStatusActive]
+other = "Aktif"
+ 
+[verifyCredential]
+other = "Verifikasi kredensial"
+ 
+[allCertifications]
+other = "Semua sertifikasi"
+ 
+# --- Bookshelf --------------------------------------------------------------
+ 
+[booksCount]
+other = "{{ .count }} buku"
+ 
+[booksInProgress]
+other = "{{ .count }} sedang dibaca"
+ 
+[bookshelf]
+other = "Rak Buku"
+ 
+# The bookMeta.status value the theme treats as "currently reading". Translating
+# this does NOT change what you write in front matter — keep that as "Reading".
+[bookReading]
+other = "Sedang dibaca"
+ 
+[bookReadingNow]
+other = "Sedang dibaca"
+ 
+[bookAuthor]
+other = "Penulis"
+ 
+[bookPublisher]
+other = "Penerbit"
+ 
+[bookPublished]
+other = "Terbit"
+ 
+[bookPages]
+other = "Halaman"
+ 
+[bookIsbn]
+other = "ISBN"
+ 
+[bookType]
+other = "Jenis"
+ 
+[bookLanguage]
+other = "Bahasa"
+ 
+[bookStatus]
+other = "Status"
+ 
+[bookGenre]
+other = "Genre"
+ 
+[bookViewOnGoodreads]
+other = "Lihat di Goodreads"
+ 
+[bookCoverAlt]
+other = "{{ .title }} — sampul"
+ 
+[bookRated]
+other = "Dinilai {{ .rating }} dari 5"
+ 
+# --- Resume -----------------------------------------------------------------
+ 
+[resumeBasedIn]
+other = "Berdomisili di"
+ 
+[resumeAchievements]
+other = "Pencapaian utama"
+ 
+[resumeExperience]
+other = "Pengalaman"
+ 
+[resumeSkills]
+other = "Keahlian teknis"
+ 
+[resumeEducation]
+other = "Pendidikan"
+ 
+[resumeLanguages]
+other = "Bahasa"
+ 
+[resumeCurrent]
+other = "Saat ini"
+ 
+[downloadPdf]
+other = "Unduh PDF"
+ 
+# --- About ------------------------------------------------------------------
+ 
+[aboutCerts]
+other = "Sertifikat"
+ 
+[aboutResume]
+other = "Resume"
+ 
+[aboutElsewhere]
+other = "Di tempat lain"
+ 
+# --- 404 --------------------------------------------------------------------
+ 
+[notFoundKicker]
+other = "404"
+ 
+# The trailing full stop is rendered separately in the accent colour, so leave
+# it off the end of this string.
+[notFoundTitle]
+other = "Halaman ini tersesat"
+ 
+[notFoundText]
+other = "Tautannya mungkin sudah lama, atau halamannya telah dipindahkan. Coba gunakan pencarian, atau mulai dari awal."
+ 
+[backHome]
+other = "Kembali ke beranda"
+ 
+# --- Shortcodes and code blocks ---------------------------------------------
+ 
+[calloutNote]
+other = "Catatan"
+ 
+[calloutTip]
+other = "Tips"
+ 
+[calloutWarning]
+other = "Peringatan"
+ 
+# Language label on a fence with no language set. Displayed uppercased by CSS.
+[codeLabel]
+other = "kode"
+ 
+[copy]
+other = "Salin"
+ 
+[copied]
+other = "Tersalin"
+ 
+[copyCodeAria]
+other = "Salin kode ke papan klip"

@@ -18,6 +18,46 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    locale = 'en-US'
+    label = 'English'
+    direction = 'ltr'
+    title = 'My website'
+    weight = 1
+
+    [[languages.en.menus.main]]
+      identifier = "posts"
+      name = "Writing"
+      pageRef = "/posts"
+      weight = 10
+    [[languages.en.menus.main]]
+      identifier = "books"
+      name = "Bookshelf"
+      pageRef = "/books"
+      weight = 30
+
+  [languages.id]
+    locale = 'id-ID'
+    label = 'Indonesian'
+    direction = 'ltr'
+    title = 'Situs saya'
+    weight = 2
+
+    [[languages.id.menus.main]]
+      identifier = "posts"
+      name = "Tulisan"
+      pageRef = "/posts"
+      weight = 10
+    [[languages.id.menus.main]]
+      identifier = "books"
+      name = "Rak Buku"
+      pageRef = "/books"
+      weight = 30
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -162,6 +202,7 @@ buildExpired = false
     name = "Bookshelf"
     url = "/books/"
     weight = 30
+
    #[[menu.main]]
    # identifier = "resume"
    # name = "Resume"
