@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Thoughts on My website</title>
+		<title>Thoughts on alfahrel</title>
 		<link>http://localhost:1313/en/tags/thoughts/</link>
-		<description>Recent content in Thoughts on My website</description>
+		<description>Recent content in Thoughts on alfahrel</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
 		
@@ -14,11 +14,11 @@
 		
 			<atom:link href="http://localhost:1313/en/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>On the Futility and Suffering of Life</title>
-				<link>http://localhost:1313/en/posts/on-the-futility-and-suffering-of-life/</link>
+				<title>Tentang Kesia-siaan dan penderitaan hidup</title>
+				<link>http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</link>
 				<pubDate>Mon, 19 Oct 2026 03:05:19 +0700</pubDate>
-				<guid>http://localhost:1313/en/posts/on-the-futility-and-suffering-of-life/</guid>
-				<description>&lt;h2 id=&#34;on-the-longing-for-unconsciousness&#34;&gt;On the Longing for Unconsciousness&lt;a class=&#34;heading-anchor&#34; href=&#34;#on-the-longing-for-unconsciousness&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Upon awakening from the night of unconsciousness, the will finds itself as an individual in an endless and boundless world, among countless other individuals, all of whom struggle, suffer, and err; and as if through a troubled dream, it rushes back to its former unconsciousness.&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-endless-desire&#34;&gt;On Endless Desire&lt;a class=&#34;heading-anchor&#34; href=&#34;#on-endless-desire&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Its desires are boundless, its claims endless, and every desire that is satisfied gives birth to a new one. There is no satisfaction in this world that can sate its cravings, determine the ultimate goal of its demands, or fill the abyss of death within its heart.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</guid>
+				<description>&lt;h2 id=&#34;kerinduan-akan-ketidaksadaran&#34;&gt;kerinduan akan ketidaksadaran&lt;a class=&#34;heading-anchor&#34; href=&#34;#kerinduan-akan-ketidaksadaran&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Ketika terbangun dari malam ketidaksadaran, kehendak menemukan dirinya sebagai seorang individu di dunia yang tiada akhir dan tanpa batas, di antara individu-individu yang terhitung banyaknya, yang semuanya berjuang, menderita, dan berbuat salah; dan seolah-olah melalui mimpi yang bermasalah, ia bergegas kembali ke ketidaksadaran yang lama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;keinginan-yang-tidak-ada-habisnya&#34;&gt;keinginan yang tidak ada habisnya&lt;a class=&#34;heading-anchor&#34; href=&#34;#keinginan-yang-tidak-ada-habisnya&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keinginannya tidak terbatas, klaimnya tidak ada habisnya, dan setiap keinginan yang terpuaskan akan melahirkan keinginan baru. Tidak ada satu pun kepuasan di dunia ini yang dapat memuaskan hasratnya, menentukan tujuan akhir dari tuntutannya, dan mengisi jurang maut dalam hatinya.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

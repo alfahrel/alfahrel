@@ -41,19 +41,6 @@
                 href="http://localhost:1313/id/tags/life/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/on-the-futility-and-suffering-of-life/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/on-the-futility-and-suffering-of-life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/posts/on-the-futility-and-suffering-of-life/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/tags/philosophy/</loc>
     <lastmod>2026-10-19T03:05:19+07:00</lastmod>
     <xhtml:link
@@ -130,6 +117,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</loc>
+    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/thoughts/</loc>

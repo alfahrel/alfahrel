@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Situs saya</title>
+		<title>alfahrel</title>
 		<link>http://localhost:1313/id/</link>
-		<description>Recent content on Situs saya</description>
+		<description>Recent content on alfahrel</description>
 		<generator>Hugo</generator>
 		<language>id-ID</language>
 		
@@ -15,10 +15,10 @@
 			<atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Tentang Kesia-siaan dan penderitaan hidup</title>
-				<link>http://localhost:1313/id/posts/on-the-futility-and-suffering-of-life/</link>
+				<link>http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</link>
 				<pubDate>Mon, 19 Oct 2026 03:05:19 +0700</pubDate>
-				<guid>http://localhost:1313/id/posts/on-the-futility-and-suffering-of-life/</guid>
-				<description>&lt;h2 id=&#34;tentang-kerinduan-akan-ketidaksadaran&#34;&gt;Tentang kerinduan akan ketidaksadaran&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang-kerinduan-akan-ketidaksadaran&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Ketika terbangun dari malam ketidaksadaran, kehendak menemukan dirinya sebagai seorang individu di dunia yang tiada akhir dan tanpa batas, di antara individu-individu yang terhitung banyaknya, yang semuanya berjuang, menderita, dan berbuat salah; dan seolah-olah melalui mimpi yang bermasalah, ia bergegas kembali ke ketidaksadaran yang lama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tentang-keinginan-yang-tidak-ada-habisnya&#34;&gt;Tentang keinginan yang tidak ada habisnya&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang-keinginan-yang-tidak-ada-habisnya&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keinginannya tidak terbatas, klaimnya tidak ada habisnya, dan setiap keinginan yang terpuaskan akan melahirkan keinginan baru. Tidak ada satu pun kepuasan di dunia ini yang dapat memuaskan hasratnya, menentukan tujuan akhir dari tuntutannya, dan mengisi jurang maut dalam hatinya.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</guid>
+				<description>&lt;h2 id=&#34;kerinduan-akan-ketidaksadaran&#34;&gt;kerinduan akan ketidaksadaran&lt;a class=&#34;heading-anchor&#34; href=&#34;#kerinduan-akan-ketidaksadaran&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Ketika terbangun dari malam ketidaksadaran, kehendak menemukan dirinya sebagai seorang individu di dunia yang tiada akhir dan tanpa batas, di antara individu-individu yang terhitung banyaknya, yang semuanya berjuang, menderita, dan berbuat salah; dan seolah-olah melalui mimpi yang bermasalah, ia bergegas kembali ke ketidaksadaran yang lama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;keinginan-yang-tidak-ada-habisnya&#34;&gt;keinginan yang tidak ada habisnya&lt;a class=&#34;heading-anchor&#34; href=&#34;#keinginan-yang-tidak-ada-habisnya&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keinginannya tidak terbatas, klaimnya tidak ada habisnya, dan setiap keinginan yang terpuaskan akan melahirkan keinginan baru. Tidak ada satu pun kepuasan di dunia ini yang dapat memuaskan hasratnya, menentukan tujuan akhir dari tuntutannya, dan mengisi jurang maut dalam hatinya.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Candide</title>

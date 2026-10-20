@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/id/</loc>
+    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/categories/</loc>
     <lastmod>2026-10-19T03:05:19+07:00</lastmod>
     <xhtml:link
@@ -93,19 +106,6 @@
                 href="http://localhost:1313/id/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/"
-                />
-  </url><url>
     <loc>http://localhost:1313/id/tags/</loc>
     <lastmod>2026-10-19T03:05:19+07:00</lastmod>
     <xhtml:link
@@ -119,17 +119,17 @@
                 href="http://localhost:1313/id/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/posts/on-the-futility-and-suffering-of-life/</loc>
+    <loc>http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</loc>
     <lastmod>2026-10-19T03:05:19+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/on-the-futility-and-suffering-of-life/"
+                href="http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/posts/on-the-futility-and-suffering-of-life/"
+                href="http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/tags/thoughts/</loc>
