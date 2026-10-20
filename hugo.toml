@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = true
     locale = 'en-US'
     label = 'English'
     direction = 'ltr'
-    title = 'My website'
+    title = 'alfahrel'
     weight = 1
 
     [[languages.en.menus.main]]
@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = true
     locale = 'id-ID'
     label = 'Indonesian'
     direction = 'ltr'
-    title = 'Situs saya'
+    title = 'alfahrel'
     weight = 2
 
     [[languages.id.menus.main]]
