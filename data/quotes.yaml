@@ -10,20 +10,8 @@ en:
   lines:
     - pre: "What are you looking for here? \n"
       accent: "There's nothing here."
-    - pre: "There's nothing about me— \n"
-      accent: "no background, no resume, nothing of value. There's nothing at all."
-    - pre: "Well, actually, there are a \n"
-      accent: "few articles I’ve written and a few books I have on my bookshelf."
-    - pre: "But come on, \n"
-      accent: "who even cares?"
 id:
   lines:
   - pre: "Apa yang engkau cari disini? \n"
     accent: "Tidak ada apa-apa disini."
-  - pre: "Tidak ada bio— \n"
-    accent: "tidak ada background, tidak ada CV, tidak ada yang berharga. Tidak ada apa-apa sama sekali."
-  - pre: "Hmmm, sebenarnya \n"
-    accent: "Ada sih beberapa artikel yang saya tulis dan beberapa buku yang saya punya di rak buku saya."
-  - pre: "Tapi ayolah, \n"
-    accent: "Siapa juga yang peduli?"
 
