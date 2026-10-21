@@ -80,6 +80,32 @@
                 href="http://localhost:1313/id/books/candide/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/catatan-dari-bawah-tanah/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/catatan-dari-bawah-tanah/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/catatan-dari-bawah-tanah/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/civilization-and-its-discontents/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/civilization-and-its-discontents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/civilization-and-its-discontents/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/ethics/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -117,6 +143,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/hamlet/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/illiad/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/illiad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/illiad/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/meditations-on-first-philosophy/</loc>
