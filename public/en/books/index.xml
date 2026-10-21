@@ -14,6 +14,27 @@
 		
 			<atom:link href="http://localhost:1313/en/books/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>1984</title>
+				<link>http://localhost:1313/en/books/-1984/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/-1984/</guid>
+				<description>&lt;p&gt;1984 is a dystopian novel that gives us a glimpse of what society would be like without freedom of thought under a totalitarian regime. The entire world falls into endless warfare, people are persecuted, history is manipulated, and the media is filled only with propaganda. Winston Smith, a low-ranking member of the English Socialist Party, lives in suffering in a repressive world where Big Brother is always watching you and the Thought Police can read your mind. In his longing for truth and freedom, Smith embarks on a forbidden love affair with Julia, and they dare to join a secret revolutionary organization.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Alam &amp; Berdikari</title>
+				<link>http://localhost:1313/en/books/alam-dan-berdikari/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/alam-dan-berdikari/</guid>
+				<description>&lt;p&gt;Ralph Waldo Emerson is the leader of the transcendentalist movement, an idealistic philosophy that holds that humans reach their fullest potential when they are truly independent and in harmony with nature. This book contains two important essays by Emerson: Nature and Self-Reliance. Nature outlines the foundation of transcendentalism, that reality can be understood by studying nature; self-reliance emphasizes the importance of individuality, that one should always believe in oneself.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bhagavad Gita</title>
+				<link>http://localhost:1313/en/books/bhagavad-gita/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/bhagavad-gita/</guid>
+				<description>&lt;p&gt;This is the only &amp;ldquo;drama of the human heart&amp;rdquo; written in a very poetic and deeply touching language. A work that is said to have existed since 500 years before Christ, beautifully encapsulating themes of divine philosophy, teachings of virtue, and universal ethical values.&lt;/p&gt;&#xA;&lt;p&gt;Through the teachings of Krishna presented to Arjuna before the great battle of the Bharata family, known as the Bharata-yuda, readers can draw from the vast and profound content of these teachings, for our lives that are increasingly dry from the lack of spiritual waters and life wisdom.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Candide</title>
 				<link>http://localhost:1313/en/books/candide/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
@@ -56,11 +77,25 @@
 				<description>&lt;p&gt;The Myth of Sisyphus explores the absurdity of human existence and our search for meaning in a world that seems to lack purpose. Camus poses a fundamental question: is this life worth living? If human existence no longer has meaning, what can prevent us from committing suicide? According to Camus, if there is no God to give meaning to our lives, then it is humans who must take over that purpose themselves. This is an &amp;lsquo;absurd&amp;rsquo; task, like Sisyphus who endlessly rolls his stone up the hill, while the inevitable death looms over us.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Odyssey</title>
+				<link>http://localhost:1313/en/books/odyssey/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/odyssey/</guid>
+				<description>&lt;p&gt;The Iliad and the Odyssey remain beloved stories around the world for centuries and have been translated into dozens of languages, although little is known about their author. The story of the greatness of the Greek expedition to the East and the unfortunate fates of most of its leaders had spread in Greece from generation to generation in the form of short poems for hundreds of years before the Iliad and Odyssey were composed by Homer. However, Homer did not merely combine those poems; he selected, arranged, added to, and perfected them into a final result with his genius talent.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Last Messiah</title>
 				<link>http://localhost:1313/en/books/the-last-messiah/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/the-last-messiah/</guid>
 				<description>&lt;p&gt;The Last Messiah is a phenomenal essay by the Norwegian philosopher Peter Wessel Zapffe. In it, the philosopher reimagines the human condition as a perpetual state in which the human organism has evolved excessively and lives beyond its own biological needs due to its oversized and excessive brain.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Walden</title>
+				<link>http://localhost:1313/en/books/walden/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/walden/</guid>
+				<description>&lt;p&gt;In 1845, Thoreau moved to the woods near his hometown of Concord, Massachusetts. He lived in a cabin he built himself, on the edge of Walden Pond. Walden is Thoreau&amp;rsquo;s autobiographical work about an experiment in simple and independent living in the wilderness for two years. Thoreau believed that a life focused on essential things and in harmony with nature is more fulfilling than the pursuit of wealth.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Straw Dogs: Thoughts on Humans and Other Animals</title>

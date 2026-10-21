@@ -2,12 +2,12 @@
 title: "Upanisad-Upanisad Utama"
 date: '2026-10-17T01:49:24+07:00'
 bookMeta:
-  author: "Radhakrishnan, S."
+  author: "S. Radhakrishnan"
   coverImage: "images/covers/upanishad.jpeg"
   status: "Reading"
-  published: "2008"
+  published: "501"
   language: "Indonesia"
-  pages: 700
+  pages: 750
   type: Print
   genre: ["Religion",
 "Philosophy",

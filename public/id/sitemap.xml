@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/id/books/-1984/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/-1984/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/-1984/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/alam-dan-berdikari/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/alam-dan-berdikari/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/alam-dan-berdikari/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -15,147 +41,17 @@
                 href="http://localhost:1313/id/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/categories/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
+    <loc>http://localhost:1313/id/books/bhagavad-gita/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/en/books/bhagavad-gita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/tags/life/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/life/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/tags/philosophy/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/philosophy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/philosophy/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/categories/quote/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/categories/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/categories/quote/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/series/quote/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/series/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/series/quote/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/tags/quote/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/quote/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/series/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/tags/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/posts/tentang-kesia-siaan-dan-penderitaan-hidup/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/tags/thoughts/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/thoughts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/thoughts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/posts/</loc>
-    <lastmod>2026-10-19T03:05:19+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/posts/"
+                href="http://localhost:1313/id/books/bhagavad-gita/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/candide/</loc>
@@ -236,6 +132,19 @@
                 href="http://localhost:1313/id/books/mitos-sisifus/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/odyssey/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/odyssey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/odyssey/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -260,6 +169,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/the-last-messiah/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/walden/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/walden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/walden/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/</loc>
@@ -338,6 +260,54 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/upanishad/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/posts/"
                 />
   </url>
 </urlset>

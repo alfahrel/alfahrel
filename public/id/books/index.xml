@@ -14,6 +14,27 @@
 		
 			<atom:link href="http://localhost:1313/id/books/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>1984</title>
+				<link>http://localhost:1313/id/books/-1984/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/id/books/-1984/</guid>
+				<description>&lt;p&gt;1984 adalah novel distopia yang memberi kita gambaran seperti apa jadinya masyarakat tanpa kebebasan berpikir di rezim totaliter. Seluruh dunia jatuh dalam peperangan tiada akhir, orang-orang dipersekusi, sejarah dimanipulasi, dan media hanya berisi propaganda. Winston Smith, seorang anggota partai Sosialisme Inggris berpangkat rendah, hidup penuh penderitaan dalam dunia represif di mana Bung Besar selalu mengawasimu dan Polisi Pikiran bisa membaca pikiranmu. Dalam kerinduannya akan kebenaran dan kebebasan, Smith menjalin hubungan cinta terlarang bersama Julia, dan mereka memberanikan diri untuk bergabung dengan organisasi revolusioner rahasia.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Alam &amp; Berdikari</title>
+				<link>http://localhost:1313/id/books/alam-dan-berdikari/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/id/books/alam-dan-berdikari/</guid>
+				<description>&lt;p&gt;Ralph Waldo Emerson adalah pemimpin gerakan transendentalis, sebuah paham idealis yang menganggap bahwa manusia mencapai potensi terbaiknya ketika benar-benar mandiri dan selaras dengan alam. Buku ini memuat dua esai penting Emerson: Alam (Nature) dan Berdikari (Self-Reliance). Alam memaparkan dasar transendentalisme, bahwa realitas dapat dipahami dengan mempelajari alam; berdikari menekankan pentingnya individualitas, bahwa seseorang hendaklah selalu percaya kepada diri sendiri.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bhagavad Gita</title>
+				<link>http://localhost:1313/id/books/bhagavad-gita/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/id/books/bhagavad-gita/</guid>
+				<description>&lt;p&gt;Inilah satu-satunya &amp;ldquo;drama kalbu manusia&amp;rdquo; yang ditulis dengan bahasa sangat puitis dan demikian menyentuh. Sebuah karya yang konon telah ada sejak 500 tahun sebelum Masehi, yang merangkum dengan sangat indah tema-tema filsafat ketuhanan, ajaran-ajaran kebajikan, dan nilai-nilai etik universal.&lt;/p&gt;&#xA;&lt;p&gt;Lewat petuah-petuah Krishna yang dipaparkan kepada Arjuna se-belum pertempuran besar keluarga Bharata yang terkenal dengan Bharata-yuda, pembaca dapat menimba akan betapa luas dan dalamnya kandungan petuah-petuah tersebut, bagi kehidupan kita yang kian kering dari siraman air-air suci spiritual dan kebijaksanaan hidup.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Candide</title>
 				<link>http://localhost:1313/id/books/candide/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
@@ -56,11 +77,25 @@
 				<description>&lt;p&gt;Mitos Sisifus mengeksplorasi absurditas keberadaan manusia dan pencarian kita terhadap makna di dunia yang tampaknya tidak memiliki tujuan. Camus mengajukan pertanyaan mendasar: apakah hidup ini layak dijalani? Jika keberadaan manusia tidak lagi berarti, apa yang dapat mencegah kita melakukan bunuh diri? Sesuai pendapat Camus, jika tidak ada Tuhan yang memberi makna pada hidup kita, maka manusialah yang harus mengambil alih tujuan itu sendiri. Ini adalah tugas yang ‘tidak masuk akal’, seperti Sisifus yang terus-menerus menggulingkan batunya ke atas bukit, sementara kematian yang tak terhindarkan membayangi kita.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Odyssey</title>
+				<link>http://localhost:1313/id/books/odyssey/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/id/books/odyssey/</guid>
+				<description>&lt;p&gt;Iliad dan Odyssey tetap menjadi kisah yang digemari di dunia selama berabad-abad dan telah diterjemahkan ke dalam puluhan bahasa, meskipun sedikit yang diketahui tentang pengarangnya. Kisah tentang kehebatan ekspedisi bangsa Yunani ke Timur dan nasib malang sebagian besar pemimpin ekspedisi itu telah menyebar di Yunani dari generasi ke generasi dalam bentuk sajak-sajak pendek selama ratusan tahun sebelum Iliad dan Odyssey digubah oleh Homer. Namun Homer tidak sekedar menggabungkan sajak-sajak itu; ia memilih, mengatur, menambahkan, dan menyempurnakannya menjadi hasil final dengan bakatnya yang jenius.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Last Messiah</title>
 				<link>http://localhost:1313/id/books/the-last-messiah/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/id/books/the-last-messiah/</guid>
 				<description>&lt;p&gt;The last Messiah merupakan esai fenomenal dari filsuf Norwegia, Peter Wessel Zapffe. Disini sang filsuf membayangkan kembali kondisi manusia sebagai keadaan berkelanjutan di mana organisme manusia telah berevolusi secara berlebihan dan hidup berlebihan dalam kebutuhan biologisnya sendiri melalui otaknya yang terlalu besar dan berlebihan.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Walden</title>
+				<link>http://localhost:1313/id/books/walden/</link>
+				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/id/books/walden/</guid>
+				<description>&lt;p&gt;Pada tahun 1845, Thoreau pindah ke hutan dekat kampung halamannya di Concord, Massachusetts. Dia tinggal di sebuah gubuk yang dibangunnya sendiri, di tepi Telaga Walden. Walden adalah karya otobiografi Thoreau tentang eksperimen hidup sederhana dan mandiri di alam liar selama dua tahun. Thoreau menganggap bahwa hidup yang berfokus pada hal-hal esensial dan menyatu dengan alam lebih memuaskan daripada pengejaran akan kekayaan.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Straw Dogs: Thoughts on Humans and Other Animals</title>
