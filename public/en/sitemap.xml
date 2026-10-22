@@ -106,6 +106,19 @@
                 href="http://localhost:1313/id/books/civilization-and-its-discontents/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/ecce-homo/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/ecce-homo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/ecce-homo/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/ethics/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -158,6 +171,45 @@
                 href="http://localhost:1313/id/books/illiad/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/kejatuhan/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/kejatuhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/kejatuhan/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/lahirnya-tragedi/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/lahirnya-tragedi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/lahirnya-tragedi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/mans-search-for-meaning/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/mans-search-for-meaning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/mans-search-for-meaning/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/meditations-on-first-philosophy/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -195,6 +247,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/odyssey/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/senjakala-berhala-dan-anti-krist/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/the-gay-science/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/the-gay-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/the-gay-science/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/the-last-messiah/</loc>
