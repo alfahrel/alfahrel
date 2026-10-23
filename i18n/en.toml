@@ -268,7 +268,7 @@ other = "Author"
 other = "Publisher"
 
 [bookPublished]
-other = "Published"
+other = "First Published"
 
 [bookPages]
 other = "Pages"

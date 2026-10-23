@@ -249,6 +249,19 @@
                 href="http://localhost:1313/id/books/odyssey/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/orang-asing/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/orang-asing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/orang-asing/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -273,6 +286,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/the-gay-science/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/the-interpretation-of-dreams/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/the-interpretation-of-dreams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/the-interpretation-of-dreams/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/the-last-messiah/</loc>

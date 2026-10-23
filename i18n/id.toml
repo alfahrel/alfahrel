@@ -257,7 +257,7 @@ other = "Penulis"
 other = "Penerbit"
  
 [bookPublished]
-other = "Terbit"
+other = "Pertama Terbit"
  
 [bookPages]
 other = "Halaman"
