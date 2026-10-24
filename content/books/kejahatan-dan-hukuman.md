@@ -1,0 +1,25 @@
+---
+title: "Kejahatan dan Hukuman"
+date: '2026-10-17T04:18:28+07:00'
+bookMeta:
+  author: "Fyodor Dostoyevsky"
+  coverImage: "images/covers/kejahatan-dan-hukuman.png"
+  rating: 4
+  status: "Read"
+  published: "1866"
+  pages: 671
+  type:  Print
+  language: Indonesia
+  genre: [
+"Classics",
+"Fiction",
+"Russia",
+"Russian Literature",
+"Literature",
+"Philosophy",
+"Novels"
+  ]
+  goodreadsUrl: "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+---
+
+Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat-and-mouse with Porfiry, a suspicious detective, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption. As the ensuing investigation and trial reveal the true identity of the murderer, Dostoyevsky's dark masterpiece evokes a world where the lines between innocence and corruption, good and evil, blur and everyone's faith in humanity is tested.

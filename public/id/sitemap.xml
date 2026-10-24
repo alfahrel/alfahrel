@@ -41,6 +41,19 @@
                 href="http://localhost:1313/id/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/beyond-good-and-evil/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/beyond-good-and-evil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/beyond-good-and-evil/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/bhagavad-gita/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -158,6 +171,19 @@
                 href="http://localhost:1313/id/books/illiad/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/kejahatan-dan-hukuman/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/kejahatan-dan-hukuman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/kejahatan-dan-hukuman/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/kejatuhan/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -195,6 +221,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/mans-search-for-meaning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/manifesto-partai-komunis/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/manifesto-partai-komunis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/manifesto-partai-komunis/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/meditations-on-first-philosophy/</loc>
@@ -262,6 +301,19 @@
                 href="http://localhost:1313/id/books/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/sabda-zarathustra/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/sabda-zarathustra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/sabda-zarathustra/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/senjakala-berhala-dan-anti-krist/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -312,6 +364,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/the-last-messiah/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/the-trouble-with-being-born/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/the-trouble-with-being-born/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/the-trouble-with-being-born/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/walden/</loc>
