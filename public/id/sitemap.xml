@@ -2,32 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/id/books/-1984/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/-1984/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/-1984/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/alam-dan-berdikari/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/alam-dan-berdikari/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/alam-dan-berdikari/"
-                />
-  </url><url>
     <loc>http://localhost:1313/id/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -41,434 +15,124 @@
                 href="http://localhost:1313/id/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/-1984/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/id/books/alam-dan-berdikari/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/id/books/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/id/books/beyond-good-and-evil/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/beyond-good-and-evil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/beyond-good-and-evil/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/bhagavad-gita/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/bhagavad-gita/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/bhagavad-gita/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/candide/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/candide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/candide/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/catatan-dari-bawah-tanah/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/catatan-dari-bawah-tanah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/catatan-dari-bawah-tanah/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/civilization-and-its-discontents/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/civilization-and-its-discontents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/civilization-and-its-discontents/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/ecce-homo/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/ecce-homo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/ecce-homo/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/ethics/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/ethics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/ethics/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/filsafat-nietzsche/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/filsafat-nietzsche/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/filsafat-nietzsche/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/hamlet/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/hamlet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/hamlet/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/illiad/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/illiad/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/illiad/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/kearifan-hidup/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/id/books/kejahatan-dan-hukuman/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/kejahatan-dan-hukuman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/kejahatan-dan-hukuman/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/kejatuhan/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/kejatuhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/kejatuhan/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/lahirnya-tragedi/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/lahirnya-tragedi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/lahirnya-tragedi/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/mans-search-for-meaning/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/mans-search-for-meaning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/mans-search-for-meaning/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/manifesto-partai-komunis/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/manifesto-partai-komunis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/manifesto-partai-komunis/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/meditations-on-first-philosophy/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/meditations-on-first-philosophy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/meditations-on-first-philosophy/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/mitos-sisifus/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/mitos-sisifus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/mitos-sisifus/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/odyssey/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/odyssey/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/odyssey/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/orang-asing/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/orang-asing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/orang-asing/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/perjalanan-gulliver/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/id/books/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/sabda-zarathustra/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/sabda-zarathustra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/sabda-zarathustra/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/senjakala-berhala-dan-anti-krist/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/senjakala-berhala-dan-anti-krist/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/the-gay-science/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-gay-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-gay-science/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/the-interpretation-of-dreams/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-interpretation-of-dreams/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-interpretation-of-dreams/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/the-last-messiah/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-last-messiah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-last-messiah/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/the-trouble-with-being-born/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-trouble-with-being-born/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-trouble-with-being-born/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/walden/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/walden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/walden/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/</loc>
     <lastmod>2026-10-17T04:10:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/straw-dogs-thoughts-on-humans-and-other-animals/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/eksistensialisme-adalah-humanisme/</loc>
     <lastmod>2026-10-17T03:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/eksistensialisme-adalah-humanisme/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/nausea/</loc>
     <lastmod>2026-10-17T03:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/nausea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/nausea/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/siddhartha/</loc>
+    <lastmod>2026-10-17T03:22:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/id/books/the-world-as-will-and-representation-volume-i/</loc>
     <lastmod>2026-10-17T02:07:46+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-world-as-will-and-representation-volume-i/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-world-as-will-and-representation-volume-i/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/the-world-as-will-and-representation-volume-ii/</loc>
     <lastmod>2026-10-17T02:07:46+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/the-world-as-will-and-representation-volume-ii/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/the-world-as-will-and-representation-volume-ii/"
-                />
   </url><url>
     <loc>http://localhost:1313/id/books/upanishad/</loc>
     <lastmod>2026-10-17T01:49:24+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/upanishad/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/upanishad/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/id/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/id/categories/</loc>
     <xhtml:link
@@ -481,6 +145,8 @@
                 hreflang="id-ID"
                 href="http://localhost:1313/id/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/id/search/</loc>
   </url><url>
     <loc>http://localhost:1313/id/series/</loc>
     <xhtml:link
@@ -507,15 +173,5 @@
                 />
   </url><url>
     <loc>http://localhost:1313/id/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/posts/"
-                />
   </url>
 </urlset>
