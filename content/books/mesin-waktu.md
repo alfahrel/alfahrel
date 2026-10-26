@@ -1,0 +1,24 @@
+---
+title: "Mesin Waktu"
+date: '2026-10-17T04:18:28+07:00'
+bookMeta:
+  author: "H. G. Wells"
+  coverImage: "images/covers/mesin-waktu.png"
+  rating: 4
+  status: "Read"
+  published: "1895"
+  pages: 118
+  type:  Print
+  language: Indonesia
+  genre: [
+"Classics",
+"Science Fiction",
+"Fiction",
+"Time Travel",
+"Fantasy",
+"Dystopia"
+  ]
+  goodreadsUrl: "https://www.goodreads.com/book/show/2493.The_Time_Machine"
+---
+
+When a scientist travels to the year 802,701 AD with his invented time machine, he encounters a utopian society of evolved humans, but then unearths the dark secrets that lead humanity to inevitable destruction.
