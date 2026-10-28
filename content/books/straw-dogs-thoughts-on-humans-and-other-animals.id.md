@@ -8,7 +8,7 @@ bookMeta:
   status: "Read"
   published: "2002"
   pages:  246
-  type:  eBook
+  type:  Digital
   language: English
   genre: [
 "Philosophy",

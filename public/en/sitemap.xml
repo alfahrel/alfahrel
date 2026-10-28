@@ -28,6 +28,19 @@
                 href="http://localhost:1313/id/books/-1984/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/a-thousand-plateaus/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/a-thousand-plateaus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/a-thousand-plateaus/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/alam-dan-berdikari/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -314,6 +327,19 @@
                 href="http://localhost:1313/id/books/manifesto-partai-komunis/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/masyarakat-tanpa-tuhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/masyarakat-tanpa-tuhan/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/matinya-kepakaran/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -429,6 +455,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/sebuah-penyelidikan-tentang-pemahaman-manusia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/sejarah-tuhan/</loc>
+    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/sejarah-tuhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/sejarah-tuhan/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/</loc>

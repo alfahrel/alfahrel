@@ -8,7 +8,7 @@ bookMeta:
   status: "Read"
   published: "1933"
   pages:  20
-  type:  eBook
+  type:  Digital
   language: English
   genre: [
 "Philosophy",
