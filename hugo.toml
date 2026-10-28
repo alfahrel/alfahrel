@@ -111,7 +111,7 @@ defaultContentLanguageInSubdir = true
   accent = "#e8b04b"      # dark-mode accent: mustard (default)
   accentLight = ""        # empty = derive a darkened variant that clears 4.5:1
   ground = "brown"        # brown | green
-  defaultTheme = "auto"   # dark | light | auto (auto follows the OS)
+  defaultTheme = "light"   # dark | light | auto (auto follows the OS)
 
   # --- identity ------------------------------------------------------------
   brand = "alfahrel"
