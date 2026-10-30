@@ -9,7 +9,7 @@ bookMeta:
   published: "1938"
   pages:  178
   type: Print
-  language: English (Terjemahan Indonesia)
+  language: English (Indonesian Translation)
   genre: ["Philosophy",
   "Fiction",
   "Classics",
