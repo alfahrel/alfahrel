@@ -21,7 +21,8 @@ other = "Ringkasan singkat tentang situs ini"
 other = "Lewati ke konten"
  
 [searchPosts]
-other = "Cari tulisan"
+other = "Cari buku"
+# other = "Cari tulisan"
  
 [search]
 other = "Cari"
@@ -95,7 +96,8 @@ other = "Tekan {{ .key }} di mana saja pada situs ini untuk membukanya."
 # --- Home -------------------------------------------------------------------
  
 [recentWriting]
-other = "Tulisan Terbaru"
+# other = "Tulisan Terbaru"
+other = "Buku Terbaru"
  
 [archiveCount]
 other = "Arsip · {{ .count }}"

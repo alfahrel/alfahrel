@@ -155,7 +155,8 @@ defaultContentLanguageInSubdir = true
   homeStyle = "ledger"
   homeGroupByYear = false
   masthead = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
-  mainSections = ["posts"]
+  # mainSections = ["posts"]
+  mainSections = ["books"]
   DateFormat = "2 January 2006"
 
   # --- sections ------------------------------------------------------------

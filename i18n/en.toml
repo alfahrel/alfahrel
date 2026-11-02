@@ -21,7 +21,8 @@ other = "A brief summary of this site"
 other = "Skip to content"
 
 [searchPosts]
-other = "Search posts"
+other = "Search books"
+# other = "Search posts"
 
 [search]
 other = "Search"
@@ -97,7 +98,8 @@ other = "Press {{ .key }} anywhere on the site to open it."
 # --- Home -------------------------------------------------------------------
 
 [recentWriting]
-other = "Recent Writing"
+other = "Recent Book"
+# other = "Recent Writing"
 
 [archiveCount]
 one = "Archive · {{ .count }}"

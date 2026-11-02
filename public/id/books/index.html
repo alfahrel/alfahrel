@@ -44,17 +44,17 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
   </button>
   <button class="nav__search nav__desktop-only" type="button" data-nuno-search-open>
     <span aria-hidden="true">⌕</span>
-    <span class="nav__search-fake">Cari tulisan</span>
+    <span class="nav__search-fake">Cari buku</span>
     <span class="nav__kbd" data-nuno-kbd>⌘K</span>
   </button>
-  <button class="nav__icon nav__mobile-only" type="button" data-nuno-search-open aria-label="Cari tulisan">
+  <button class="nav__icon nav__mobile-only" type="button" data-nuno-search-open aria-label="Cari buku">
     <span aria-hidden="true">⌕</span>
   </button>
 </nav>
 
   <header class="certs__header">
   <span class="kicker kicker--accent">
-    49 buku · 2 sedang dibaca
+    51 buku · 3 sedang dibaca
   </span>
   <h1 class="page-title">Rak Buku</h1><div class="page-header__lead"><p>Beberapa buku yang sedang saya baca dan yang sudah saya baca.</p>
 </div>
@@ -79,6 +79,16 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
         </span>
         <span class="book-card__title">Masyarakat Tanpa Tuhan</span><span class="book-card__foot">
           <span class="book-card__author">Phil Zuckerman</span>
+          <span class="book-card__rating"></span>
+        </span>
+      </a>
+      <a class="book-card is-reading" href="/id/books/negeri-binatang/">
+        <span class="book-card__frame">
+            <img src="/images/covers/negeri-binatang_hu_581c49b88776898e.webp" alt="Negeri Binatang — sampul" class="book-card__cover" width="246" height="360" decoding="async">
+<span class="book-card__badge">Sedang dibaca</span>
+        </span>
+        <span class="book-card__title">Negeri Binatang</span><span class="book-card__foot">
+          <span class="book-card__author">George Orwell</span>
           <span class="book-card__rating"></span>
         </span>
       </a>
@@ -114,7 +124,7 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
       </a>
       <a class="book-card" href="/id/books/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia/">
         <span class="book-card__frame">
-            <img src="/images/covers/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia_hu_10b15eaa075c5eb3.webp" alt="Berapa Luas Tanah yang Dibutuhkan Seorang Manusia — sampul" class="book-card__cover" width="242" height="359" decoding="async">
+            <img src="/images/covers/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia_hu_10b15eaa075c5eb3.webp" alt="Berapa Luas Tanah yang Dibutuhkan Seorang Manusia — sampul" class="book-card__cover" width="242" height="359" loading="lazy" decoding="async">
 
         </span>
         <span class="book-card__title">Berapa Luas Tanah yang Dibutuhkan Seorang Manusia</span><span class="book-card__foot">
@@ -472,6 +482,16 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
           <span class="book-card__rating" aria-label="Dinilai 5 dari 5"><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span></span>
         </span>
       </a>
+      <a class="book-card" href="/id/books/dhammapada/">
+        <span class="book-card__frame">
+            <img src="/images/covers/dhammapada_hu_5338368ea37a4064.webp" alt="Dhammapada — sampul" class="book-card__cover" width="286" height="380" loading="lazy" decoding="async">
+
+        </span>
+        <span class="book-card__title">Dhammapada</span><span class="book-card__foot">
+          <span class="book-card__author">bhikkhu Dhammadhiro Mahathera</span>
+          <span class="book-card__rating" aria-label="Dinilai 5 dari 5"><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span><span class="star is-full">★</span></span>
+        </span>
+      </a>
       <a class="book-card" href="/id/books/eksistensialisme-adalah-humanisme/">
         <span class="book-card__frame">
             <img src="/images/covers/eksistensialisme-adalah-humanisme_hu_1a26d8c36eaef98c.webp" alt="Eksistensialisme adalah Humanisme — sampul" class="book-card__cover" width="1309" height="1978" loading="lazy" decoding="async">
@@ -573,13 +593,13 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
 </footer>
 
 </div>
-<div class="search" id="nuno-search" hidden role="dialog" aria-modal="true" aria-label="Cari tulisan">
+<div class="search" id="nuno-search" hidden role="dialog" aria-modal="true" aria-label="Cari buku">
   <div class="search__inner">
     <div class="search__row">
       <span class="search__glyph" aria-hidden="true">⌕</span>
       <input class="search__input" type="search" id="nuno-search-input" placeholder="Cari"
              autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
-             aria-label="Cari tulisan" aria-controls="nuno-search-results">
+             aria-label="Cari buku" aria-controls="nuno-search-results">
       <button class="search__esc" type="button" data-nuno-search-close>Esc</button>
       <button class="search__esc--mobile" type="button" data-nuno-search-close>Batal</button>
     </div>
@@ -598,7 +618,7 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
   <div class="search__empty">
     <p class="search__empty-title">Belum ada tulisan tentang <span class="accent" data-q></span>.</p>
     <p class="search__empty-hint">Coba kata yang lebih pendek, atau ejaan yang berbeda.</p>
-    <a class="search__empty-link" href="/">Lihat semua 0 tulisan →</a>
+    <a class="search__empty-link" href="/">Lihat semua 51 tulisan →</a>
   </div>
 </template>
 

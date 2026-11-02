@@ -4,7 +4,7 @@
        (key "masthead"), falling back to params.masthead, then the site title. */ -}}
 {{- $s := .Site -}}
 
-<header class="masthead">
+<header class="masthead" style="display: none;">
   <h1 class="masthead__title">
     {{- with i18n "masthead" -}}
       {{ . | safeHTML }}

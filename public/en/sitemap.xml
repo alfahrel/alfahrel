@@ -561,6 +561,19 @@
                 href="http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/books/dhammapada/</loc>
+    <lastmod>2026-10-17T03:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/dhammapada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/dhammapada/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/</loc>
     <lastmod>2026-10-17T03:22:28+07:00</lastmod>
     <xhtml:link
@@ -598,6 +611,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/nausea/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/negeri-binatang/</loc>
+    <lastmod>2026-10-17T03:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/negeri-binatang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/negeri-binatang/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/penderitaan-pemuda-werther/</loc>
