@@ -1,6 +1,6 @@
 ---
 title: "Perjalanan Gulliver"
-date: '2026-10-17T04:18:28+07:00'
+date: '2025-12-05T06:18:28+07:00'
 bookMeta:
   author: "Jonathan Swift"
   coverImage: "images/covers/perjalanan-gulliver.png"

@@ -12,25 +12,11 @@
 		
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>1984</title>
-				<link>http://localhost:1313/en/books/-1984/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/-1984/</guid>
-				<description>&lt;p&gt;1984 is a dystopian novel that gives us a glimpse of what society would be like without freedom of thought under a totalitarian regime. The entire world falls into endless warfare, people are persecuted, history is manipulated, and the media is filled only with propaganda. Winston Smith, a low-ranking member of the English Socialist Party, lives in suffering in a repressive world where Big Brother is always watching you and the Thought Police can read your mind. In his longing for truth and freedom, Smith embarks on a forbidden love affair with Julia, and they dare to join a secret revolutionary organization.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>A Thousand Plateaus</title>
 				<link>http://localhost:1313/en/books/a-thousand-plateaus/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/a-thousand-plateaus/</guid>
 				<description>&lt;p&gt;In this work which follows The Anti-Oedipus published in 1972, Deleuze-Guattari questions not only the foundations of analytical and Marxist structuralism, but also all theories, whether communication or information, which aim at systematization.&lt;/p&gt;&#xA;&lt;p&gt;For the system, they replace a sort of patchwork which distinguishes smooth space from striated space according to multiplicities of futures, of intensity which intervene through all sign regimes.&#xA;In the same way that they had reconstructed a policy of Kafka in which his work was read like a writing machine with multiple ramifications which revealed a language torn from meaning, representation and power, in the same way, in A Thousand Plateaus, Deleuze-Guattari crosses all sign regimes: linguistics and writing of course but also music, philosophy, psychiatry, economics and history: that of peoples and that of the state apparatus.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Alam &amp; Berdikari</title>
-				<link>http://localhost:1313/en/books/alam-dan-berdikari/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/alam-dan-berdikari/</guid>
-				<description>&lt;p&gt;Ralph Waldo Emerson is the leader of the transcendentalist movement, an idealistic philosophy that holds that humans reach their fullest potential when they are truly independent and in harmony with nature. This book contains two important essays by Emerson: Nature and Self-Reliance. Nature outlines the foundation of transcendentalism, that reality can be understood by studying nature; self-reliance emphasizes the importance of individuality, that one should always believe in oneself.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Amoral</title>
@@ -54,13 +40,6 @@
 				<description>&lt;p&gt;Whatever is done because of love always goes beyond good and evil. Beyond Good and Evil is a very deep book about individual strength, passion, and love. In this book, Nietzsche offers us a way of life, in which the Will to Power is the basic principle of society and the individual.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Bhagavad Gita</title>
-				<link>http://localhost:1313/en/books/bhagavad-gita/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/bhagavad-gita/</guid>
-				<description>&lt;p&gt;This is the only &amp;ldquo;drama of the human heart&amp;rdquo; written in a very poetic and deeply touching language. A work that is said to have existed since 500 years before Christ, beautifully encapsulating themes of divine philosophy, teachings of virtue, and universal ethical values.&lt;/p&gt;&#xA;&lt;p&gt;Through the teachings of Krishna presented to Arjuna before the great battle of the Bharata family, known as the Bharata-yuda, readers can draw from the vast and profound content of these teachings, for our lives that are increasingly dry from the lack of spiritual waters and life wisdom.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Candide</title>
 				<link>http://localhost:1313/en/books/candide/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
@@ -73,13 +52,6 @@
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/catatan-dari-bawah-tanah/</guid>
 				<description>&lt;p&gt;&amp;ldquo;Notes from the Underground&amp;rdquo; is Dostoevsky&amp;rsquo;s most revolutionary novel. One of the most remarkable characters in literature, the unnamed narrator is a former clerk who resolutely withdraws to underground life. In complete seclusion from society, he wrote a passionate, obsessive, contradictory narrative that served as a devastating attack on social utopianism and an affirmation of essentially irrational human nature.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Civilization and Its Discontents</title>
-				<link>http://localhost:1313/en/books/civilization-and-its-discontents/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/civilization-and-its-discontents/</guid>
-				<description>&lt;p&gt;This important essay, which Freud worked on during the summer of 1929, is perhaps his best work ever known. This book is a brilliant overview of cultural views, from the perspective of psychoanalysis that Freud had developed since the beginning of the century. Civilization and Its Discontents (Civilization and Its Discontents, 1930) is a combination of things at once: a cursory flashback of The Future of an Illusion (1927), an analysis of the inevitable tensions that more or less make individuals enemies of society, a meditation on the lethargy that seems to be affecting so many people in modern civilization. However, this is the book of a psychoanalyst (we must remember this), and stands as a testimony and appreciation for the final theory of the soul—what is called structural theory (first revealed in Beyond the Pleasure Principle in 1920, and The Ego and the Id in 1923)—with its emphasis on acts of aggression, the impulse or stimulation of death, as Eros&amp;rsquo;s mortal enemy.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ecce Homo</title>
@@ -110,39 +82,11 @@
 				<description>&lt;p&gt;&amp;ldquo;Overall, this book is a very valuable lens into philosophy.&amp;rdquo;&amp;ndash;Choice&lt;/p&gt;&#xA;&lt;p&gt;Nietzsche&amp;rsquo;s Philosophy was first published in 1962 under the title Nietzsche et la Philosophie. This book showcases a rare combination of rigid scientific language and imaginative interpretation, illustrating how Friedrich Nietzsche pioneered a new way of philosophical thinking. Nietzsche&amp;rsquo;s Philosophy is one of the first books to challenge the assumption that dialectics is the sole foundation for radical thought.&lt;/p&gt;&#xA;&lt;p&gt;Gilles Deleuze&amp;rsquo;s analysis opens an important path toward post-war thought: post-structuralism. And Deleuze also provided a new preface in the English edition translation, as the reader has in hand.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Hamlet</title>
-				<link>http://localhost:1313/en/books/hamlet/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/hamlet/</guid>
-				<description>&lt;p&gt;Hamlet is a tragedy written by Shakespeare between 1599 and 1602, which tells the story of Prince Hamlet&amp;rsquo;s revenge against Claudius, his uncle. Claudius has killed his father and seized the throne along with the King&amp;rsquo;s wife.&lt;/p&gt;&#xA;&lt;p&gt;One nite in the kingdom of Denmark, the guards, Bernardo and Marcellus, along with Hamlet&amp;rsquo;s friend, Horatio, suddenly encountered a ghost that closely resembled the recently deceased King Hamlet. They swore to tell Prince Hamlet about what they had witnessed.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Illiad</title>
-				<link>http://localhost:1313/en/books/illiad/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/illiad/</guid>
-				<description>&lt;p&gt;The Iliad roars with the clamor of arms, the bellowing boasts of victors, the fury and grief of loss, and the anguished cries of dying men. It sings, too, of the sublime magnitude of the world―the fierce beauty of nature and the gods’ grand schemes beyond the ken of mortals. In Wilson’s hands, this thrilling, magical, and often horrifying tale now gallops at a pace befitting its legendary battle scenes, in crisp but resonant language that evokes the poem’s deep pathos and reveals palpably real, even “complicated,” characters―both human and divine.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Karl Marx; Pengantar untuk Pemula</title>
-				<link>http://localhost:1313/en/books/karl-marx/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/karl-marx/</guid>
-				<description>&lt;p&gt;There have been many books that discuss Marx. However, a good brief introduction to Marx&amp;rsquo;s thought remains elusive. Marx wrote so many very thick books. Marx&amp;rsquo;s writings are believed to be the highest source of truth and authority. Marx&amp;rsquo;s paintings were displayed everywhere and revered.&lt;/p&gt;&#xA;&lt;p&gt;In fact, the lives of several hundred million people were greatly influenced by Marx&amp;rsquo;s legacy. In the second half of the twentieth century, nearly four out of ten people on earth lived under a government that claimed to be Marxist and stated that they used Marxist principles to determine how their nation was governed.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Kearifan Hidup</title>
 				<link>http://localhost:1313/en/books/kearifan-hidup/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/kearifan-hidup/</guid>
 				<description>&lt;p&gt;A leading German metaphysician from the 19th century, Arthur Schopenhauer, exerted an influence far beyond the hermetic world of philosophy, with adherents ranging from Richard Wagner and Friedrich Nietzsche to Leo Tolstoy and Thomas Mann. Among Schopenhauer&amp;rsquo;s main contributions to the field of philosophy was his rejection of the idealism of his contemporaries and his coverage of the practical variations of materialism. In Life Wisdom, the philosopher favors individual strength and independence. He examines ways of organizing life to obtain the highest levels of pleasure and success, provides guidelines for achieving this full and rich way of life, and suggests that even a well-lived life should always aspire to be more sublime.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Kejahatan dan Hukuman</title>
-				<link>http://localhost:1313/en/books/kejahatan-dan-hukuman/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/kejahatan-dan-hukuman/</guid>
-				<description>&lt;p&gt;Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat-and-mouse with Porfiry, a suspicious detective, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption. As the ensuing investigation and trial reveal the true identity of the murderer, Dostoyevsky&amp;rsquo;s dark masterpiece evokes a world where the lines between innocence and corruption, good and evil, blur and everyone&amp;rsquo;s faith in humanity is tested.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kejatuhan</title>
@@ -157,34 +101,6 @@
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/lahirnya-tragedi/</guid>
 				<description>&lt;p&gt;THE BIRTH OF TRAGEDY (The Birth of Tragedy)&#xA;sparked great anger when it was first published in 1871; and since then this book has become one of the books that fertilized European culture. This book, presented to Richard Wagner (great German composer, 1813-1883), was Nietzsche&amp;rsquo;s enthusiasm for Greek literature, especially his tragedy. He puts forward the difference between the Apollonian and Dionysian spirits, also emphasizing why we can enjoy tragic art, as well as what the relationship is between the suffering of life and art.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Man`s Search for Meaning </title>
-				<link>http://localhost:1313/en/books/mans-search-for-meaning/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/mans-search-for-meaning/</guid>
-				<description>&lt;p&gt;Buku ini menggabungkan kisah nyata pengalaman Viktor E. Frankl sebagai penyintas kamp konsentrasi Nazi dengan pemikiran psikologinya tentang logoterapi, yang menekankan bahwa manusia dapat bertahan dan bangkit dari penderitaan paling ekstrem ketika ia menemukan makna dalam hidupnya; melalui refleksi yang jujur dan mendalam, Frankl menunjukkan bahwa kebebasan terakhir manusia adalah memilih sikap terhadap keadaan, sekalipun dalam kondisi yang paling tidak manusiawi.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Manifesto Partai Komunis</title>
-				<link>http://localhost:1313/en/books/manifesto-partai-komunis/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/manifesto-partai-komunis/</guid>
-				<description>&lt;p&gt;The Communist Manifesto, Marx and Engels&amp;rsquo; revolutionary 1848 summons to the working classes, is one of the most influential political theories ever formulated. After four years of collaboration, the authors produced this incisive account of their idea of Communism, in which they envisage a society without classes, private property, or a state. They argue that increasing exploitation of industrial workers will eventually lead to a revolution in which capitalism is overthrown. Their vision transformed the world irrevocably, and remains relevant as a depiction of global capitalism today.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Masyarakat Tanpa Tuhan</title>
-				<link>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</guid>
-				<description>&lt;p&gt;In the Middle East, powerful forms of Islam are growing in popularity and becoming increasingly active in politics. From Brazil to El Salvador, Protestant Evangelicalism spread with great success, instilling spiritual and sacred passion throughout Latin America. Pentecostalism is also growing”great”and not only throughout Latin America, but also in Africa and even China. In the Philippines, tens of thousands of people surrendered to new religious movements such as El Shaddai. Many countries of the former Soviet Union, which have adhered to atheism for decades, have emerged with faith that is not only intact, but also strong and passionate. Even in Canada, a country barely known for its religious vitality, there is evidence of a revival of spirituality and religion.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Matinya Kepakaran</title>
-				<link>http://localhost:1313/en/books/matinya-kepakaran/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/matinya-kepakaran/</guid>
-				<description>&lt;p&gt;How important is vaccination? Is it true that the Earth is flat? Are eggs good to consume? In the information era like now, those who answer such questions are not only experts, but also conspiracy theorists, know-it-all lay people, and even misleading celebrities. Sometimes, in today&amp;rsquo;s jungle of information, expert explanations are not heard, while answers from figures who have many followers are more trusted and endanger many people.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Meditations on First Philosophy</title>
@@ -208,27 +124,6 @@
 				<description>&lt;p&gt;The Myth of Sisyphus explores the absurdity of human existence and our search for meaning in a world that seems to lack purpose. Camus poses a fundamental question: is this life worth living? If human existence no longer has meaning, what can prevent us from committing suicide? According to Camus, if there is no God to give meaning to our lives, then it is humans who must take over that purpose themselves. This is an &amp;lsquo;absurd&amp;rsquo; task, like Sisyphus who endlessly rolls his stone up the hill, while the inevitable death looms over us.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Odyssey</title>
-				<link>http://localhost:1313/en/books/odyssey/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/odyssey/</guid>
-				<description>&lt;p&gt;The Iliad and the Odyssey remain beloved stories around the world for centuries and have been translated into dozens of languages, although little is known about their author. The story of the greatness of the Greek expedition to the East and the unfortunate fates of most of its leaders had spread in Greece from generation to generation in the form of short poems for hundreds of years before the Iliad and Odyssey were composed by Homer. However, Homer did not merely combine those poems; he selected, arranged, added to, and perfected them into a final result with his genius talent.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Orang Asing</title>
-				<link>http://localhost:1313/en/books/orang-asing/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/orang-asing/</guid>
-				<description>&lt;p&gt;In &amp;ldquo;Strangers,&amp;rdquo; Camus explores the alienation of individuals who refuse to conform to social norms. Meursault as a character in this novel is both a victim and a villain. He showed no sadness when his mother died. And when he committed murder, his lack of remorse added to his guilt in the eyes of the law.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Camus&amp;rsquo; &amp;ldquo;Stranger&amp;rdquo; became popular when his reviews appeared in the newspapers. It is always said that this book is the ‘best book after the world war.’ In the midst of the emergence of literary works at that time, this novel itself felt foreign. The novel comes from across the equator, from across the sea; in a bitter spring without coal. He tells the story of the sun not as an exotic wonder but with the drab familiarity of those who enjoy it too much; he doesn&amp;rsquo;t care about re-imposing old ways with his own hands, or covering us with feelings of worthlessness. People will remember when they read it that there was once a work that stood alone without trying to prove anything.&#xA;—Jean-Paul Sartre&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Perjalanan Gulliver</title>
-				<link>http://localhost:1313/en/books/perjalanan-gulliver/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/perjalanan-gulliver/</guid>
-				<description>&lt;p&gt;Gulliver&amp;rsquo;s journey tells the story of the exploration of a ship surgeon named Lemuel Gulliver into four remote countries in the world. In Lilliput, Gulliver discovers a land in miniature where he is seen as a god. In Brobdingnag, on the other hand, he is just a small creature in a land of giants. On Laputa, a flying island, he meets a society of speculators. The final voyage takes him to the land of the Houyhnhnms, where virtuous horses coexist with Yahoo, uncivilized beings who bear a resemblance to humans.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Sabda Zarathustra (Thus Spoke Zarathustra)</title>
 				<link>http://localhost:1313/en/books/sabda-zarathustra/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
@@ -241,13 +136,6 @@
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/sebuah-penyelidikan-tentang-pemahaman-manusia/</guid>
 				<description>&lt;p&gt;Have you ever thought about why every individual human being&amp;rsquo;s thoughts are different?&lt;/p&gt;&#xA;&lt;p&gt;Why do couples need a process and time to understand something and not be sensitive to all your codes?&lt;/p&gt;&#xA;&lt;p&gt;The answer is that it turns out that the human mind is complicated and complex, as well as understanding various things that it does not yet know and understand. A brief explanation and explanation along with case studies are present as examples of human thought paths into various categories and types which are thoroughly discussed in this book so that it is easier to understand.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Sejarah Tuhan</title>
-				<link>http://localhost:1313/en/books/sejarah-tuhan/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/sejarah-tuhan/</guid>
-				<description>&lt;p&gt;The book &amp;ldquo;History of God&amp;rdquo; written by Karen Armstrong is a book that can provide a better understanding of the history of God and religion. This book can help readers understand God&amp;rsquo;s role in human history and provide a broader perspective on religion.&lt;/p&gt;&#xA;&lt;p&gt;In this book, Karen Armstrong explains the history of God from a different perspective and provides a deeper understanding of religion. This book is perfect for those who want to expand their knowledge of the history of God and religion.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Senjakala Berhala dan Anti-Krist</title>
@@ -264,13 +152,6 @@
 				<description>&lt;p&gt;This book is Nietzsche&amp;rsquo;s most intimate work, presenting all the personal experiences in his struggle with the pain he received as a great gift.&lt;/p&gt;&#xA;&lt;p&gt;It was in this book that the idea of God&amp;rsquo;s Death was first told by Nietzsche in an allegory of the Crazy Man, which was then followed by a proposition about Eternal Recurrence.&lt;/p&gt;&#xA;&lt;p&gt;What if all philosophy until now had not stood on the stake of truth, but something else-perhaps we might call it; health, future, growth, power, life.&#xA;(Friedrich Nietzsche)&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>The Interpretation of Dreams</title>
-				<link>http://localhost:1313/en/books/the-interpretation-of-dreams/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/the-interpretation-of-dreams/</guid>
-				<description>&lt;p&gt;What are the most common dreams and why do we have them? What does it mean to dream about death? Symbolizes what dreams of swimming, failing, or flying?&lt;/p&gt;&#xA;&lt;p&gt;First published by Sigmund Freud in 1899, The Interpretation of Dreams answers why we dream and what it means in the larger picture of our psychological lives. Exploring real and latent theories of dream content, the special language of dreams, dreams as the fulfillment of desires, the importance of childhood experiences, and more, Freud, widely considered the father of psychoanalysis, thoroughly and seriously examined the psychology of dreams. Covering dozens of case histories and detailed analyzes of actual dreams, this book presents Freud&amp;rsquo;s legendary work as a tool for understanding our sleep experiences.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>The Last Messiah</title>
 				<link>http://localhost:1313/en/books/the-last-messiah/</link>
 				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
@@ -285,13 +166,6 @@
 				<description>&lt;p&gt;In this volume, which reaffirms the uncompromising brilliance of his mind, Cioran strips the human condition down to its most basic components, birth and death, suggesting that disaster lies not in the prospect of death but in the fact of birth, &amp;ldquo;that laughable accident.&amp;rdquo; In the lucid, aphoristic style that characterizes his work, Cioran writes of time and death, God and religion, suicide and suffering, and the temptation to silence. Through sharp observation and patient contemplation, Cioran cuts to the heart of the human experience.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Walden</title>
-				<link>http://localhost:1313/en/books/walden/</link>
-				<pubDate>Sat, 17 Oct 2026 04:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/walden/</guid>
-				<description>&lt;p&gt;In 1845, Thoreau moved to the woods near his hometown of Concord, Massachusetts. He lived in a cabin he built himself, on the edge of Walden Pond. Walden is Thoreau&amp;rsquo;s autobiographical work about an experiment in simple and independent living in the wilderness for two years. Thoreau believed that a life focused on essential things and in harmony with nature is more fulfilling than the pursuit of wealth.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Straw Dogs: Thoughts on Humans and Other Animals</title>
 				<link>http://localhost:1313/en/books/straw-dogs-thoughts-on-humans-and-other-animals/</link>
 				<pubDate>Sat, 17 Oct 2026 04:10:28 +0700</pubDate>
@@ -304,20 +178,6 @@
 				<pubDate>Sat, 17 Oct 2026 03:22:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/dhammapada/</guid>
 				<description>&lt;p&gt;Dhammapada is a Dhamma word, the words of the Gotama Buddha in the form of poetry (Gatha). There are 423 verses grouped into 26 chapters (vagga).&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Eksistensialisme adalah Humanisme</title>
-				<link>http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/</link>
-				<pubDate>Sat, 17 Oct 2026 03:22:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/</guid>
-				<description>&lt;p&gt;“There is no doctrine more optimistic [than existentialism], for it asserts that human destiny lies within oneself.”&lt;/p&gt;&#xA;&lt;p&gt;Many people will be surprised by what I have to say here about humanism. We will try to determine exactly how we understand it. In any case, let’s begin by saying that what we mean by “existentialism” is a doctrine that enables human life to unfold and also affirms that every truth and every action implies a human context and subjectivity.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Metamorfosis</title>
-				<link>http://localhost:1313/en/books/metamorfosis/</link>
-				<pubDate>Sat, 17 Oct 2026 03:22:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/metamorfosis/</guid>
-				<description>&lt;p&gt;Metamorphosis is noted as the only work by Kafka that has received the most public reception. It doesn&amp;rsquo;t stop there, many world writers are even inspired by this novela. Gabriel Garcia Marquez admitted that when he was 19 years old he had memorized beyond the head the opening sentence of the famous Metamorphosis. Vladimir Nabokov said, &amp;ldquo;Whoever sees something in Metamorphosis that is more than just an insect fantasy, I consider it a successful reader.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nausea</title>
@@ -369,11 +229,165 @@
 				<description>&lt;p&gt;The Upanishads, the earliest of which were composed in Sanskrit between 800 and 400 bce by sages and poets, form part of the Vedas - the sacred and ancient scriptures that are the basis of the Hindu religion. Each Upanishad, or lesson, takes up a theme ranging from the attainment of spiritual bliss to karma and rebirth, and collectively they are meditations on life, death and immortality. The essence of their teachings is that truth can by reached by faith rather than by thought, and that the spirit of God is within each of us - we need not fear death as we carry within us the promise of eternal life.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Archive</title>
-				<link>http://localhost:1313/en/archives/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/archives/</guid>
-				<description></description>
+				<title>Odyssey</title>
+				<link>http://localhost:1313/en/books/odyssey/</link>
+				<pubDate>Sun, 12 Apr 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/odyssey/</guid>
+				<description>&lt;p&gt;The Iliad and the Odyssey remain beloved stories around the world for centuries and have been translated into dozens of languages, although little is known about their author. The story of the greatness of the Greek expedition to the East and the unfortunate fates of most of its leaders had spread in Greece from generation to generation in the form of short poems for hundreds of years before the Iliad and Odyssey were composed by Homer. However, Homer did not merely combine those poems; he selected, arranged, added to, and perfected them into a final result with his genius talent.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Illiad</title>
+				<link>http://localhost:1313/en/books/illiad/</link>
+				<pubDate>Sun, 12 Apr 2026 03:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/illiad/</guid>
+				<description>&lt;p&gt;The Iliad roars with the clamor of arms, the bellowing boasts of victors, the fury and grief of loss, and the anguished cries of dying men. It sings, too, of the sublime magnitude of the world―the fierce beauty of nature and the gods’ grand schemes beyond the ken of mortals. In Wilson’s hands, this thrilling, magical, and often horrifying tale now gallops at a pace befitting its legendary battle scenes, in crisp but resonant language that evokes the poem’s deep pathos and reveals palpably real, even “complicated,” characters―both human and divine.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hamlet</title>
+				<link>http://localhost:1313/en/books/hamlet/</link>
+				<pubDate>Sat, 28 Mar 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/hamlet/</guid>
+				<description>&lt;p&gt;Hamlet is a tragedy written by Shakespeare between 1599 and 1602, which tells the story of Prince Hamlet&amp;rsquo;s revenge against Claudius, his uncle. Claudius has killed his father and seized the throne along with the King&amp;rsquo;s wife.&lt;/p&gt;&#xA;&lt;p&gt;One nite in the kingdom of Denmark, the guards, Bernardo and Marcellus, along with Hamlet&amp;rsquo;s friend, Horatio, suddenly encountered a ghost that closely resembled the recently deceased King Hamlet. They swore to tell Prince Hamlet about what they had witnessed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bhagavad Gita</title>
+				<link>http://localhost:1313/en/books/bhagavad-gita/</link>
+				<pubDate>Thu, 05 Mar 2026 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/bhagavad-gita/</guid>
+				<description>&lt;p&gt;This is the only &amp;ldquo;drama of the human heart&amp;rdquo; written in a very poetic and deeply touching language. A work that is said to have existed since 500 years before Christ, beautifully encapsulating themes of divine philosophy, teachings of virtue, and universal ethical values.&lt;/p&gt;&#xA;&lt;p&gt;Through the teachings of Krishna presented to Arjuna before the great battle of the Bharata family, known as the Bharata-yuda, readers can draw from the vast and profound content of these teachings, for our lives that are increasingly dry from the lack of spiritual waters and life wisdom.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Metamorfosis</title>
+				<link>http://localhost:1313/en/books/metamorfosis/</link>
+				<pubDate>Fri, 05 Dec 2025 16:22:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/metamorfosis/</guid>
+				<description>&lt;p&gt;Metamorphosis is noted as the only work by Kafka that has received the most public reception. It doesn&amp;rsquo;t stop there, many world writers are even inspired by this novela. Gabriel Garcia Marquez admitted that when he was 19 years old he had memorized beyond the head the opening sentence of the famous Metamorphosis. Vladimir Nabokov said, &amp;ldquo;Whoever sees something in Metamorphosis that is more than just an insect fantasy, I consider it a successful reader.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Perjalanan Gulliver</title>
+				<link>http://localhost:1313/en/books/perjalanan-gulliver/</link>
+				<pubDate>Fri, 05 Dec 2025 05:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/perjalanan-gulliver/</guid>
+				<description>&lt;p&gt;Gulliver&amp;rsquo;s journey tells the story of the exploration of a ship surgeon named Lemuel Gulliver into four remote countries in the world. In Lilliput, Gulliver discovers a land in miniature where he is seen as a god. In Brobdingnag, on the other hand, he is just a small creature in a land of giants. On Laputa, a flying island, he meets a society of speculators. The final voyage takes him to the land of the Houyhnhnms, where virtuous horses coexist with Yahoo, uncivilized beings who bear a resemblance to humans.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>1984</title>
+				<link>http://localhost:1313/en/books/-1984/</link>
+				<pubDate>Fri, 05 Dec 2025 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/-1984/</guid>
+				<description>&lt;p&gt;1984 is a dystopian novel that gives us a glimpse of what society would be like without freedom of thought under a totalitarian regime. The entire world falls into endless warfare, people are persecuted, history is manipulated, and the media is filled only with propaganda. Winston Smith, a low-ranking member of the English Socialist Party, lives in suffering in a repressive world where Big Brother is always watching you and the Thought Police can read your mind. In his longing for truth and freedom, Smith embarks on a forbidden love affair with Julia, and they dare to join a secret revolutionary organization.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Alam &amp; Berdikari</title>
+				<link>http://localhost:1313/en/books/alam-dan-berdikari/</link>
+				<pubDate>Tue, 11 Nov 2025 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/alam-dan-berdikari/</guid>
+				<description>&lt;p&gt;Ralph Waldo Emerson is the leader of the transcendentalist movement, an idealistic philosophy that holds that humans reach their fullest potential when they are truly independent and in harmony with nature. This book contains two important essays by Emerson: Nature and Self-Reliance. Nature outlines the foundation of transcendentalism, that reality can be understood by studying nature; self-reliance emphasizes the importance of individuality, that one should always believe in oneself.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Walden</title>
+				<link>http://localhost:1313/en/books/walden/</link>
+				<pubDate>Tue, 11 Nov 2025 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/walden/</guid>
+				<description>&lt;p&gt;In 1845, Thoreau moved to the woods near his hometown of Concord, Massachusetts. He lived in a cabin he built himself, on the edge of Walden Pond. Walden is Thoreau&amp;rsquo;s autobiographical work about an experiment in simple and independent living in the wilderness for two years. Thoreau believed that a life focused on essential things and in harmony with nature is more fulfilling than the pursuit of wealth.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Civilization and Its Discontents</title>
+				<link>http://localhost:1313/en/books/civilization-and-its-discontents/</link>
+				<pubDate>Mon, 29 Apr 2024 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/civilization-and-its-discontents/</guid>
+				<description>&lt;p&gt;This important essay, which Freud worked on during the summer of 1929, is perhaps his best work ever known. This book is a brilliant overview of cultural views, from the perspective of psychoanalysis that Freud had developed since the beginning of the century. Civilization and Its Discontents (Civilization and Its Discontents, 1930) is a combination of things at once: a cursory flashback of The Future of an Illusion (1927), an analysis of the inevitable tensions that more or less make individuals enemies of society, a meditation on the lethargy that seems to be affecting so many people in modern civilization. However, this is the book of a psychoanalyst (we must remember this), and stands as a testimony and appreciation for the final theory of the soul—what is called structural theory (first revealed in Beyond the Pleasure Principle in 1920, and The Ego and the Id in 1923)—with its emphasis on acts of aggression, the impulse or stimulation of death, as Eros&amp;rsquo;s mortal enemy.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Eksistensialisme adalah Humanisme</title>
+				<link>http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/</link>
+				<pubDate>Mon, 29 Apr 2024 03:22:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/eksistensialisme-adalah-humanisme/</guid>
+				<description>&lt;p&gt;“There is no doctrine more optimistic [than existentialism], for it asserts that human destiny lies within oneself.”&lt;/p&gt;&#xA;&lt;p&gt;Many people will be surprised by what I have to say here about humanism. We will try to determine exactly how we understand it. In any case, let’s begin by saying that what we mean by “existentialism” is a doctrine that enables human life to unfold and also affirms that every truth and every action implies a human context and subjectivity.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Interpretation of Dreams</title>
+				<link>http://localhost:1313/en/books/the-interpretation-of-dreams/</link>
+				<pubDate>Tue, 27 Feb 2024 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/the-interpretation-of-dreams/</guid>
+				<description>&lt;p&gt;What are the most common dreams and why do we have them? What does it mean to dream about death? Symbolizes what dreams of swimming, failing, or flying?&lt;/p&gt;&#xA;&lt;p&gt;First published by Sigmund Freud in 1899, The Interpretation of Dreams answers why we dream and what it means in the larger picture of our psychological lives. Exploring real and latent theories of dream content, the special language of dreams, dreams as the fulfillment of desires, the importance of childhood experiences, and more, Freud, widely considered the father of psychoanalysis, thoroughly and seriously examined the psychology of dreams. Covering dozens of case histories and detailed analyzes of actual dreams, this book presents Freud&amp;rsquo;s legendary work as a tool for understanding our sleep experiences.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kejahatan dan Hukuman</title>
+				<link>http://localhost:1313/en/books/kejahatan-dan-hukuman/</link>
+				<pubDate>Sun, 07 Jan 2024 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/kejahatan-dan-hukuman/</guid>
+				<description>&lt;p&gt;Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat-and-mouse with Porfiry, a suspicious detective, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption. As the ensuing investigation and trial reveal the true identity of the murderer, Dostoyevsky&amp;rsquo;s dark masterpiece evokes a world where the lines between innocence and corruption, good and evil, blur and everyone&amp;rsquo;s faith in humanity is tested.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The History of Java</title>
+				<link>http://localhost:1313/en/books/the-history-of-java/</link>
+				<pubDate>Wed, 23 Aug 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/the-history-of-java/</guid>
+				<description>&lt;p&gt;“I believe there is no one possessed of more information respecting Java than myself..”&#xA;Thomas Stamford Raffles&lt;/p&gt;&#xA;&lt;p&gt;Without a doubt, the book The History of Java has become one of the most important historical sources for knowing the lives of Javanese people in the past. This book was written by Sir Thomas Stamford Raffles, a British-born administrator, who was obsessed with recording the exoticism of the Javanese world which was full of diversity and geographical and cultural uniqueness.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Man`s Search for Meaning</title>
+				<link>http://localhost:1313/en/books/mans-search-for-meaning/</link>
+				<pubDate>Wed, 02 Aug 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/mans-search-for-meaning/</guid>
+				<description>&lt;p&gt;Buku ini menggabungkan kisah nyata pengalaman Viktor E. Frankl sebagai penyintas kamp konsentrasi Nazi dengan pemikiran psikologinya tentang logoterapi, yang menekankan bahwa manusia dapat bertahan dan bangkit dari penderitaan paling ekstrem ketika ia menemukan makna dalam hidupnya; melalui refleksi yang jujur dan mendalam, Frankl menunjukkan bahwa kebebasan terakhir manusia adalah memilih sikap terhadap keadaan, sekalipun dalam kondisi yang paling tidak manusiawi.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Manifesto Partai Komunis</title>
+				<link>http://localhost:1313/en/books/manifesto-partai-komunis/</link>
+				<pubDate>Wed, 12 Jul 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/manifesto-partai-komunis/</guid>
+				<description>&lt;p&gt;The Communist Manifesto, Marx and Engels&amp;rsquo; revolutionary 1848 summons to the working classes, is one of the most influential political theories ever formulated. After four years of collaboration, the authors produced this incisive account of their idea of Communism, in which they envisage a society without classes, private property, or a state. They argue that increasing exploitation of industrial workers will eventually lead to a revolution in which capitalism is overthrown. Their vision transformed the world irrevocably, and remains relevant as a depiction of global capitalism today.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Orang Asing</title>
+				<link>http://localhost:1313/en/books/orang-asing/</link>
+				<pubDate>Wed, 05 Jul 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/orang-asing/</guid>
+				<description>&lt;p&gt;In &amp;ldquo;Strangers,&amp;rdquo; Camus explores the alienation of individuals who refuse to conform to social norms. Meursault as a character in this novel is both a victim and a villain. He showed no sadness when his mother died. And when he committed murder, his lack of remorse added to his guilt in the eyes of the law.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Camus&amp;rsquo; &amp;ldquo;Stranger&amp;rdquo; became popular when his reviews appeared in the newspapers. It is always said that this book is the ‘best book after the world war.’ In the midst of the emergence of literary works at that time, this novel itself felt foreign. The novel comes from across the equator, from across the sea; in a bitter spring without coal. He tells the story of the sun not as an exotic wonder but with the drab familiarity of those who enjoy it too much; he doesn&amp;rsquo;t care about re-imposing old ways with his own hands, or covering us with feelings of worthlessness. People will remember when they read it that there was once a work that stood alone without trying to prove anything.&#xA;—Jean-Paul Sartre&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sejarah Tuhan</title>
+				<link>http://localhost:1313/en/books/sejarah-tuhan/</link>
+				<pubDate>Thu, 15 Jun 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/sejarah-tuhan/</guid>
+				<description>&lt;p&gt;The book &amp;ldquo;History of God&amp;rdquo; written by Karen Armstrong is a book that can provide a better understanding of the history of God and religion. This book can help readers understand God&amp;rsquo;s role in human history and provide a broader perspective on religion.&lt;/p&gt;&#xA;&lt;p&gt;In this book, Karen Armstrong explains the history of God from a different perspective and provides a deeper understanding of religion. This book is perfect for those who want to expand their knowledge of the history of God and religion.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Masyarakat Tanpa Tuhan</title>
+				<link>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</link>
+				<pubDate>Wed, 14 Jun 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</guid>
+				<description>&lt;p&gt;In the Middle East, powerful forms of Islam are growing in popularity and becoming increasingly active in politics. From Brazil to El Salvador, Protestant Evangelicalism spread with great success, instilling spiritual and sacred passion throughout Latin America. Pentecostalism is also growing”great”and not only throughout Latin America, but also in Africa and even China. In the Philippines, tens of thousands of people surrendered to new religious movements such as El Shaddai. Many countries of the former Soviet Union, which have adhered to atheism for decades, have emerged with faith that is not only intact, but also strong and passionate. Even in Canada, a country barely known for its religious vitality, there is evidence of a revival of spirituality and religion.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Matinya Kepakaran</title>
+				<link>http://localhost:1313/en/books/matinya-kepakaran/</link>
+				<pubDate>Mon, 05 Jun 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/matinya-kepakaran/</guid>
+				<description>&lt;p&gt;How important is vaccination? Is it true that the Earth is flat? Are eggs good to consume? In the information era like now, those who answer such questions are not only experts, but also conspiracy theorists, know-it-all lay people, and even misleading celebrities. Sometimes, in today&amp;rsquo;s jungle of information, expert explanations are not heard, while answers from figures who have many followers are more trusted and endanger many people.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Menunggu Godot</title>
+				<link>http://localhost:1313/en/books/menunggu-godot.id/</link>
+				<pubDate>Thu, 18 May 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/menunggu-godot.id/</guid>
+				<description>&lt;p&gt;After Godot became widely known in Indonesia since 1969, when it was performed at the Big Theater, TIM, by the Theater Workshop, only now has the script materialized in book form. It is hoped that this play can stimulate more theater lovers to not only stage it, but also learn more thoroughly.&lt;/p&gt;&#xA;&lt;p&gt;Because this play, which seems to have a pessimistic tone, actually contains extraordinary courage to maintain loyalty waiting for something to be hoped for.&#xA;It is hoped that the presence of this book can help us to remain loyal to something or someone or the situation we have been waiting for.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Karl Marx; Pengantar untuk Pemula</title>
+				<link>http://localhost:1313/en/books/karl-marx/</link>
+				<pubDate>Fri, 05 May 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/karl-marx/</guid>
+				<description>&lt;p&gt;There have been many books that discuss Marx. However, a good brief introduction to Marx&amp;rsquo;s thought remains elusive. Marx wrote so many very thick books. Marx&amp;rsquo;s writings are believed to be the highest source of truth and authority. Marx&amp;rsquo;s paintings were displayed everywhere and revered.&lt;/p&gt;&#xA;&lt;p&gt;In fact, the lives of several hundred million people were greatly influenced by Marx&amp;rsquo;s legacy. In the second half of the twentieth century, nearly four out of ten people on earth lived under a government that claimed to be Marxist and stated that they used Marxist principles to determine how their nation was governed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sejarah Filsafat Barat</title>
+				<link>http://localhost:1313/en/books/sejarah-filsafat-barat/</link>
+				<pubDate>Tue, 18 Apr 2023 04:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/sejarah-filsafat-barat/</guid>
+				<description>&lt;p&gt;This book, History of Western Philosophy and its relation to Socio-Political Conditions, Ancient Times to the present (History of Social Circumstances from the Erliest Time to the Present Day), is Russell&amp;rsquo;s most successful book and was translated into many languages. In this book, Bertrand Russell tries to link the history of philosophy (the world of thought) with social, political and social history (the world of reality). With valid data, Russell discusses the figures of philosophers who made major contributions to human civilization and details the great ideas, thoughts, their influence on society and subsequent philosophers. Also, special chapters on pure social history are included, which are intended to look at the relationship between a philosopher, his thoughts and socio-political conditions.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Search</title>

@@ -1,6 +1,6 @@
 ---
 title: "Eksistensialisme adalah Humanisme"
-date: '2026-10-17T03:22:28+07:00'
+date: '2024-04-29T03:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"
   coverImage: "images/covers/eksistensialisme-adalah-humanisme.jpg"

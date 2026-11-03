@@ -1,6 +1,6 @@
 ---
 title: "Kejahatan dan Hukuman"
-date: '2026-10-17T04:18:28+07:00'
+date: '2024-01-07T04:18:28+07:00'
 bookMeta:
   author: "Fyodor Dostoyevsky"
   coverImage: "images/covers/kejahatan-dan-hukuman.png"

@@ -236,19 +236,6 @@
                 href="http://localhost:1313/id/books/illiad/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/books/karl-marx/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/karl-marx/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/karl-marx/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/books/kearifan-hidup/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -299,58 +286,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/lahirnya-tragedi/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/books/mans-search-for-meaning/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/mans-search-for-meaning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/mans-search-for-meaning/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/books/manifesto-partai-komunis/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/manifesto-partai-komunis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/manifesto-partai-komunis/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/masyarakat-tanpa-tuhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/masyarakat-tanpa-tuhan/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/books/matinya-kepakaran/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/matinya-kepakaran/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/matinya-kepakaran/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/meditations-on-first-philosophy/</loc>
@@ -405,19 +340,6 @@
                 href="http://localhost:1313/id/books/odyssey/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/books/orang-asing/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/orang-asing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/orang-asing/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/books/perjalanan-gulliver/</loc>
     <lastmod>2026-10-17T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -455,19 +377,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/sebuah-penyelidikan-tentang-pemahaman-manusia/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/books/sejarah-tuhan/</loc>
-    <lastmod>2026-10-17T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/sejarah-tuhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/sejarah-tuhan/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/senjakala-berhala-dan-anti-krist/</loc>
@@ -689,6 +598,126 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/upanishad/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/mans-search-for-meaning/</loc>
+    <lastmod>2023-08-02T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/mans-search-for-meaning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/mans-search-for-meaning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/the-history-of-java/</loc>
+    <lastmod>2023-08-02T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/the-history-of-java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/the-history-of-java/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/manifesto-partai-komunis/</loc>
+    <lastmod>2023-07-12T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/manifesto-partai-komunis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/manifesto-partai-komunis/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/orang-asing/</loc>
+    <lastmod>2023-07-05T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/orang-asing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/orang-asing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/sejarah-tuhan/</loc>
+    <lastmod>2023-06-15T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/sejarah-tuhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/sejarah-tuhan/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/masyarakat-tanpa-tuhan/</loc>
+    <lastmod>2023-06-14T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/masyarakat-tanpa-tuhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/masyarakat-tanpa-tuhan/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/matinya-kepakaran/</loc>
+    <lastmod>2023-06-05T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/matinya-kepakaran/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/matinya-kepakaran/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/menunggu-godot.id/</loc>
+    <lastmod>2023-05-18T04:18:28+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/books/karl-marx/</loc>
+    <lastmod>2023-05-05T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/karl-marx/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/karl-marx/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/books/sejarah-filsafat-barat/</loc>
+    <lastmod>2023-04-18T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/sejarah-filsafat-barat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/sejarah-filsafat-barat/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/archives/</loc>

@@ -1,6 +1,6 @@
 ---
-title: "Man`s Search for Meaning "
-date: '2026-10-17T04:18:28+07:00'
+title: "Man`s Search for Meaning"
+date: '2023-08-02T04:18:28+07:00'
 bookMeta:
   author: "Viktor E. Frankl"
   coverImage: "images/covers/mans-search-for-meaning.png"

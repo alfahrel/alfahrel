@@ -102,12 +102,16 @@ other = "Recent Book"
 # other = "Recent Writing"
 
 [archiveCount]
-one = "Archive · {{ .count }}"
-other = "Archive · {{ .count }}"
+one = "Bookshelf · {{ .count }}"
+# one = "Archive · {{ .count }}"
+other = "Bookshelf · {{ .count }}"
+# other = "Archive · {{ .count }}"
 
 [archiveCountArrow]
-one = "Archive · {{ .count }} →"
-other = "Archive · {{ .count }} →"
+one = "Bookshelf · {{ .count }} →"
+# one = "Archive · {{ .count }} →"
+other = "Bookshelf · {{ .count }} →"
+# other = "Archive · {{ .count }} →"
 
 [showMore]
 other = "Show more"

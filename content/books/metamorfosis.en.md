@@ -1,6 +1,6 @@
 ---
 title: "Metamorfosis"
-date: '2026-10-17T03:22:28+07:00'
+date: '2025-12-05T16:22:28+07:00'
 bookMeta:
   author: "Franz Kafka"
   coverImage: "images/covers/metamorfosis.png"

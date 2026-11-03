@@ -1,6 +1,6 @@
 ---
 title: "Civilization and Its Discontents"
-date: '2026-10-17T04:18:28+07:00'
+date: '2024-04-29T04:18:28+07:00'
 bookMeta:
   author: "Sigmund Freud"
   coverImage: "images/covers/civilization-and-its-discontents.png"

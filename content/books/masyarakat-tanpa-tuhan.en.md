@@ -1,6 +1,6 @@
 ---
 title: "Masyarakat Tanpa Tuhan"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-14T04:18:28+07:00'
 bookMeta:
   author: "Phil Zuckerman"
   coverImage: "images/covers/masyarakat-tanpa-tuhan.png"

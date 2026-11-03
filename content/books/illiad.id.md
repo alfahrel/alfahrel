@@ -1,6 +1,6 @@
 ---
 title: "Illiad"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-04-12T03:18:28+07:00'
 bookMeta:
   author: "Homer"
   coverImage: "images/covers/illiad.png"

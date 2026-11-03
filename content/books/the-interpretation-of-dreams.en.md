@@ -1,6 +1,6 @@
 ---
 title: "The Interpretation of Dreams"
-date: '2026-10-17T04:18:28+07:00'
+date: '2024-02-27T04:18:28+07:00'
 bookMeta:
   author: "Sigmund Freud"
   coverImage: "images/covers/the-interpretation-of-dreams.png"

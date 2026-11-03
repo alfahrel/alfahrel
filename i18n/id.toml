@@ -100,10 +100,12 @@ other = "Tekan {{ .key }} di mana saja pada situs ini untuk membukanya."
 other = "Buku Terbaru"
  
 [archiveCount]
-other = "Arsip · {{ .count }}"
+other = "Rak buku · {{ .count }}"
+# other = "Arsip · {{ .count }}"
  
 [archiveCountArrow]
-other = "Arsip · {{ .count }} →"
+other = "Rak buku · {{ .count }} →"
+# other = "Arsip · {{ .count }} →"
  
 [showMore]
 other = "Tampilkan lebih banyak"

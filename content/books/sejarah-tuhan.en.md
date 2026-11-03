@@ -1,6 +1,6 @@
 ---
 title: "Sejarah Tuhan"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-15T04:18:28+07:00'
 bookMeta:
   author: "Karen Armstrong"
   coverImage: "images/covers/sejarah-tuhan.png"
@@ -8,7 +8,7 @@ bookMeta:
   status: "Read"
   published: "1993"
   pages: 673
-  type:  Digital
+  type:  Print
   language: Indonesia
   genre: [
 "Religion",

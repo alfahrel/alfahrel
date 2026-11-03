@@ -1,6 +1,6 @@
 ---
 title: "Bhagavad Gita"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-03-05T04:18:28+07:00'
 bookMeta:
   author: "S. Radhakrishnan"
   coverImage: "images/covers/bhagavad-gita.png"

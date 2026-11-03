@@ -1,6 +1,6 @@
 ---
 title: "Walden"
-date: '2026-10-17T04:18:28+07:00'
+date: '2025-11-11T04:18:28+07:00'
 bookMeta:
   author: "Henry David Thoreau"
   coverImage: "images/covers/walden.png"
