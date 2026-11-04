@@ -1,6 +1,6 @@
 ---
 title: "Ethics: Proved in Geometrical Order"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-06-05T04:18:28+07:00'
 bookMeta:
   author: "Baruch Spinoza"
   coverImage: "images/covers/ethics.jpg"

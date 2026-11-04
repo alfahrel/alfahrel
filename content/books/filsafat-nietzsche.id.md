@@ -1,6 +1,6 @@
 ---
 title: "Filsafat Nietzsche"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-22T04:18:28+07:00'
 bookMeta:
   author: "Gilles Deleuze"
   coverImage: "images/covers/filsafat-nietzsche.png"

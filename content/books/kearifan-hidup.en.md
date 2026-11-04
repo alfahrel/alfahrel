@@ -1,6 +1,6 @@
 ---
 title: "Kearifan Hidup"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-06-10T04:18:28+07:00'
 bookMeta:
   author: "Arthur Schopenhauer"
   coverImage: "images/covers/kearifan-hidup.png"

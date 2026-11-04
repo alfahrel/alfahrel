@@ -1,10 +1,11 @@
 ---
 title: "Negeri Binatang"
-date: '2026-10-17T03:22:28+07:00'
+date: '2026-10-23T04:22:28+07:00'
 bookMeta:
   author: "George Orwell"
   coverImage: "images/covers/negeri-binatang.png"
-  status: "Reading"
+  status: "Read"
+  rating: 5
   published: "1945"
   pages:  150
   type: Print

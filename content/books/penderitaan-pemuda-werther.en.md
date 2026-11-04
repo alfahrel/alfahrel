@@ -1,6 +1,6 @@
 ---
 title: "Penderitaan Pemuda Werther"
-date: '2026-10-17T03:22:28+07:00'
+date: '2024-10-17T03:22:28+07:00'
 bookMeta:
   author: "Johann Wolfgang von Goethe"
   coverImage: "images/covers/penderitaan-pemuda-werther.png"

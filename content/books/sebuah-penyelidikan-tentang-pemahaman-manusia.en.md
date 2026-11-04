@@ -1,6 +1,6 @@
 ---
 title: "Sebuah Penyelidikan Tentang Pemahaman Manusia"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-23T04:18:28+07:00'
 bookMeta:
   author: "David Hume"
   coverImage: "images/covers/sebuah-penyelidikan-tentang-pemahaman-manusia.png"

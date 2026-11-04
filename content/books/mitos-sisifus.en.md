@@ -1,6 +1,6 @@
 ---
 title: "Mitos Sisifus"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-14T03:18:28+07:00'
 bookMeta:
   author: "Albert Camus"
   coverImage: "images/covers/mitos-sisifus.png"

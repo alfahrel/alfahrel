@@ -1,6 +1,6 @@
 ---
 title: "Nausea"
-date: '2026-10-17T03:22:28+07:00'
+date: '2026-06-05T04:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"
   coverImage: "images/covers/nausea.jpeg"

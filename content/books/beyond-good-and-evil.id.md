@@ -1,6 +1,6 @@
 ---
 title: "Beyond Good and Evil"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-17T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/beyond-good-and-evil.png"

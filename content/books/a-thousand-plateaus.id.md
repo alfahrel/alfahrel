@@ -1,6 +1,6 @@
 ---
 title: "A Thousand Plateaus"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-06-12T03:18:28+07:00'
 bookMeta:
   author: "Gilles Deleuze and Felix Guattari"
   coverImage: "images/covers/a-thousand-plateaus.png"

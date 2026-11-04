@@ -1,6 +1,6 @@
 ---
 title: "Berapa Luas Tanah yang Dibutuhkan Seorang Manusia"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-14T04:18:28+07:00'
 bookMeta:
   author: "Leo Tolstoy"
   coverImage: "images/covers/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia.png"

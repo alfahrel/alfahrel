@@ -1,6 +1,6 @@
 ---
 title: "The World as Will and Representation Volume II"
-date: '2026-10-17T02:07:46+07:00'
+date: '2026-04-23T02:07:46+07:00'
 bookMeta:
   author: "Arthur Schopenhauer"
   coverImage: "images/covers/the-world-as-will-and-representation-v2.jpg"

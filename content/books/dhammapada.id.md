@@ -1,6 +1,6 @@
 ---
 title: "Dhammapada"
-date: '2026-10-17T03:22:28+07:00'
+date: '2026-09-25T03:22:28+07:00'
 bookMeta:
   author: "bhikkhu Dhammadhiro Mahathera"
   coverImage: "images/covers/dhammapada.png"

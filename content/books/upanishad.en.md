@@ -1,6 +1,6 @@
 ---
 title: "Upanisad-Upanisad Utama"
-date: '2026-10-17T01:49:24+07:00'
+date: '2026-09-27T01:49:24+07:00'
 bookMeta:
   author: "S. Radhakrishnan"
   coverImage: "images/covers/upanishad.jpeg"

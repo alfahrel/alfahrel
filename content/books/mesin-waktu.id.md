@@ -1,6 +1,6 @@
 ---
 title: "Mesin Waktu"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-26T04:18:28+07:00'
 bookMeta:
   author: "H. G. Wells"
   coverImage: "images/covers/mesin-waktu.png"

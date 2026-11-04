@@ -1,6 +1,6 @@
 ---
 title: "Enchiridion dan Kumpulan Fragmen"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-05-07T03:18:28+07:00'
 bookMeta:
   author: "Epictetus"
   coverImage: "images/covers/enchiridion-dan-kumpulan-fragmen.png"

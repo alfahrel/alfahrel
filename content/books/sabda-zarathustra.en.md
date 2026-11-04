@@ -1,6 +1,6 @@
 ---
 title: "Sabda Zarathustra (Thus Spoke Zarathustra)"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-18T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/sabda-zarathustra.png"

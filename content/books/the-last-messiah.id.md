@@ -1,6 +1,6 @@
 ---
 title: "The Last Messiah"
-date: '2026-10-17T04:18:28+07:00'
+date: '2025-03-17T04:18:28+07:00'
 bookMeta:
   author: "Peter Wessel Zapffe"
   coverImage: "images/covers/the-last-messiah.jpg"

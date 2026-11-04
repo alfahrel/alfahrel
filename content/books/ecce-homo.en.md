@@ -1,6 +1,6 @@
 ---
 title: "Ecce Homo"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-22T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/ecce-homo.png"

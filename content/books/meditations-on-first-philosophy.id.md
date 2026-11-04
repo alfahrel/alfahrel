@@ -1,6 +1,6 @@
 ---
 title: "Meditations on First Philosophy"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-06-10T03:18:28+07:00'
 bookMeta:
   author: "René Descartes"
   coverImage: "images/covers/meditasi-filsafat-pertama.png"

@@ -1,6 +1,6 @@
 ---
 title: "The Trouble with Being Born"
-date: '2026-10-17T04:18:28+07:00'
+date: '2026-06-12T04:18:28+07:00'
 bookMeta:
   author: "E. M. Cioran"
   coverImage: "images/covers/the-trouble-with-being-born.png"

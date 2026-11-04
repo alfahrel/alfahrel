@@ -1,6 +1,6 @@
 ---
 title: "The Gay Science"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-06-21T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/the-gay-science.png"

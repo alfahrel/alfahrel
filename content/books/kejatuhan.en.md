@@ -1,6 +1,6 @@
 ---
 title: "Kejatuhan"
-date: '2026-10-17T04:18:28+07:00'
+date: '2023-08-05T04:18:28+07:00'
 bookMeta:
   author: "Albert Camus"
   coverImage: "images/covers/kejatuhan.png"
