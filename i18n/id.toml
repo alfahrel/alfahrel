@@ -335,7 +335,7 @@ other = "404"
 # The trailing full stop is rendered separately in the accent colour, so leave
 # it off the end of this string.
 [notFoundTitle]
-other = "Halaman ini tersesat"
+other = "Halaman ini tidak ditemukan"
  
 [notFoundText]
 other = "Tautannya mungkin sudah lama, atau halamannya telah dipindahkan. Coba gunakan pencarian, atau mulai dari awal."
