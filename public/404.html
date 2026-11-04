@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404</title>
+  <meta name="robots" content="noindex">
+  <script>
+    (function () {
+      var lang = location.pathname.indexOf('/en/') === 0 ? 'en' : 'id';
+      var target = '/' + lang + '/404.html';
+      fetch(target)
+        .then(function (r) { return r.text(); })
+        .then(function (html) {
+          document.open();
+          document.write(html);
+          document.close();
+        })
+        .catch(function () { location.replace(target); });
+    })();
+  </script>
+</head>
+<body>
+  <noscript><p><a href="/id/">Halaman tidak ditemukan. Kembali ke beranda</a></p></noscript>
+</body>
+</html>
