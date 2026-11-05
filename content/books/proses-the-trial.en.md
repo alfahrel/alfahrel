@@ -1,6 +1,6 @@
 ---
 title: "Proses (The Trial)"
-date: '2026-11-05T04:18:28+07:00'
+date: '2026-10-23T03:18:28+07:00'
 bookMeta:
   author: "Franz Kafka"
   coverImage: "images/covers/proses-the-trial.png"

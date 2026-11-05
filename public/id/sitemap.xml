@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-11-05T04:22:28+07:00</lastmod>
+    <lastmod>2026-10-23T04:22:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,58 +13,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/better-never-to-have-been/</loc>
-    <lastmod>2026-11-05T04:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/better-never-to-have-been/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/better-never-to-have-been/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/fear-and-trembling/</loc>
-    <lastmod>2026-11-05T04:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/fear-and-trembling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/fear-and-trembling/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/</loc>
-    <lastmod>2026-11-05T04:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/proses-the-trial/</loc>
-    <lastmod>2026-11-05T04:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/proses-the-trial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/proses-the-trial/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/negeri-binatang/</loc>
@@ -78,6 +26,58 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/negeri-binatang/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/</loc>
+    <lastmod>2026-10-23T04:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/proses-the-trial/</loc>
+    <lastmod>2026-10-23T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/proses-the-trial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/proses-the-trial/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/better-never-to-have-been/</loc>
+    <lastmod>2026-10-09T04:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/better-never-to-have-been/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/better-never-to-have-been/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/fear-and-trembling/</loc>
+    <lastmod>2026-10-09T03:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/fear-and-trembling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/fear-and-trembling/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/upanishad/</loc>
@@ -793,18 +793,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/posts/"
                 />
   </url>
 </urlset>

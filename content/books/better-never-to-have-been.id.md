@@ -1,6 +1,6 @@
 ---
 title: "Better Never to Have Been: The Harm of Coming into Existence"
-date: '2026-11-05T04:22:28+07:00'
+date: '2026-10-09T04:22:28+07:00'
 bookMeta:
   author: "David Benatar"
   coverImage: "images/covers/better-never-to-have-been.jpg"

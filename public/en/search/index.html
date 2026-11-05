@@ -16,7 +16,7 @@
 
 <script>
 (function(){var d=document.documentElement,s;try{s=localStorage}catch(e){}
-var t=s&&s.getItem('nuno-theme'),g=s&&s.getItem('nuno-ground'),f="light";
+var t=s&&s.getItem('nuno-theme'),g=s&&s.getItem('nuno-ground'),f="auto";
 if(t!=='light'&&t!=='dark'){t=(f==='light'||f==='dark')?f:(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark')}
 if(g!=='brown'&&g!=='green'){g="brown"}
 d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorScheme=t})();
@@ -28,7 +28,6 @@ d.setAttribute('data-theme',t);d.setAttribute('data-ground',g);d.style.colorSche
 <div class="wrap wrap--404">
   <nav class="nav">
   <a class="nav__brand" href="/">alfahrel</a><a class="nav__link nav__desktop-only"
-       href="/en/posts/">Writing</a><a class="nav__link nav__desktop-only"
        href="/en/books/">Bookshelf</a>
 
   <button class="nav__icon" type="button" data-nuno-theme-toggle aria-label="Switch colour theme">
@@ -72,7 +71,7 @@ addEventListener('load',function(){var b=document.querySelector('[data-nuno-sear
       <a href="https://github.com/alfahrel" target="_blank" rel="me noopener noreferrer">GitHub</a><a href="http://localhost:1313/en/index.xml" target="_blank" rel="noopener noreferrer">RSS</a>
   </span>
   <span class="foot__mobile">
-    <span class="foot__links"><a href="/en/posts/">Writing</a><a href="/en/books/">Bookshelf</a><a href="http://localhost:1313/en/index.xml">RSS</a>
+    <span class="foot__links"><a href="/en/books/">Bookshelf</a><a href="http://localhost:1313/en/index.xml">RSS</a>
     </span>
   </span>
 </footer>

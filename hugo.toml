@@ -29,11 +29,12 @@ defaultContentLanguageInSubdir = true
     title = 'alfahrel'
     weight = 1
 
-    [[languages.en.menus.main]]
-      identifier = "posts"
-      name = "Writing"
-      pageRef = "/posts"
-      weight = 10
+    # [[languages.en.menus.main]]
+    #   identifier = "posts"
+    #   name = "Writing"
+    #   pageRef = "/posts"
+    #   weight = 10
+
     [[languages.en.menus.main]]
       identifier = "books"
       name = "Bookshelf"
@@ -47,11 +48,12 @@ defaultContentLanguageInSubdir = true
     title = 'alfahrel'
     weight = 2
 
-    [[languages.id.menus.main]]
-      identifier = "posts"
-      name = "Tulisan"
-      pageRef = "/posts"
-      weight = 10
+    # [[languages.id.menus.main]]
+    #   identifier = "posts"
+    #   name = "Tulisan"
+    #   pageRef = "/posts"
+    #   weight = 10
+
     [[languages.id.menus.main]]
       identifier = "books"
       name = "Rak Buku"
@@ -111,7 +113,7 @@ defaultContentLanguageInSubdir = true
   accent = "#e8b04b"      # dark-mode accent: mustard (default)
   accentLight = ""        # empty = derive a darkened variant that clears 4.5:1
   ground = "brown"        # brown | green
-  defaultTheme = "light"   # dark | light | auto (auto follows the OS)
+  defaultTheme = "auto"   # dark | light | auto (auto follows the OS)
 
   # --- identity ------------------------------------------------------------
   brand = "alfahrel"
@@ -193,11 +195,11 @@ defaultContentLanguageInSubdir = true
     url = "https://github.com/alfahrel"
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Writing"
-    url = "/posts/"
-    weight = 10
+  # [[menu.main]]
+  #   identifier = "posts"
+  #   name = "Writing"
+  #   url = "/posts/"
+  #   weight = 10
    [[menu.main]]
     identifier = "books"
     name = "Bookshelf"
