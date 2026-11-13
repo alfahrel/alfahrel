@@ -1,10 +1,11 @@
 ---
 title: "Fear and Trembling"
-date: '2026-10-09T03:22:28+07:00'
+date: '2026-11-11T23:22:28+07:00'
 bookMeta:
   author: "Søren Kierkegaard"
   coverImage: "images/covers/fear-and-trembling.png"
-  status: "Reading"
+  status: "Read"
+  rating: 4
   published: "1843"
   pages:  152
   type: Print
