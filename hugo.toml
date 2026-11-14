@@ -8,7 +8,7 @@
 # Copy this file to your own site root as a starting point. Every params entry
 # below is optional — the commented defaults are what you get if you omit it.
 
-baseURL = "https://alfahrel.my.id"
+baseURL = "https://fahrel.my.id"
 locale = "en-gb"
 title = "alfahrel"
 theme = "nuno"
