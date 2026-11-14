@@ -10,7 +10,7 @@
 
 baseURL = "https://fahrel.my.id"
 locale = "en-gb"
-title = "alfahrel"
+title = "fahrel[dot]my[dot]id"
 theme = "nuno"
 
 enableRobotsTXT = true
