@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = true
     locale = 'en-US'
     label = 'EN'
     direction = 'ltr'
-    title = 'alfahrel'
+    title = 'fahrel[dot]my[dot]id'
     weight = 1
 
     # [[languages.en.menus.main]]
@@ -45,7 +45,7 @@ defaultContentLanguageInSubdir = true
     locale = 'id-ID'
     label = 'ID'
     direction = 'ltr'
-    title = 'alfahrel'
+    title = 'fahrel[dot]my[dot]id'
     weight = 2
 
     # [[languages.id.menus.main]]
@@ -116,7 +116,7 @@ defaultContentLanguageInSubdir = true
   defaultTheme = "auto"   # dark | light | auto (auto follows the OS)
 
   # --- identity ------------------------------------------------------------
-  brand = "alfahrel"
+  brand = "fahrel[dot]my[dot]id"
   # No `favicon` here on purpose: with it unset the theme probes assets/ for
   # favicon.{ico,svg,png} and finds assets/favicon.png. Set params.favicon only
   # for a file in static/ — it is resolved with relURL, not through the asset
