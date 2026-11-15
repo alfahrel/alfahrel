@@ -170,7 +170,7 @@ defaultContentLanguageInSubdir = true
   homeGroupByYear = false
   masthead = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
   # mainSections = ["posts"]
-  mainSections = ["books"]
+  mainSections = ["books","movies","songs"]
   DateFormat = "2 January 2006"
 
   # --- sections ------------------------------------------------------------

@@ -113,7 +113,7 @@ a:hover { color: var(--accent); }
   text-transform: uppercase;
   color: var(--muted);
 }
-.kicker--accent { color: var(--accent); }
+.kicker--accent { color: var(--accent); display: none; }
 
 /* --- Nav --------------------------------------------------------------- */
 .nav {
@@ -1990,7 +1990,11 @@ a:hover { color: var(--accent); }
   .card__title { font-size: 20px; }
   .card__excerpt, .card__read { display: none; }
   .nuno-mobile-mins { display: inline; }
-  .archive-link { display: inline-block; margin-top: 28px; }
+  .archive-link { 
+    /* display: inline-block;  */
+    margin-top: 28px;
+    display: none;
+   }
 
   /* Ledger: number and title on one line, meta beneath. The arrow is the
      hover affordance of a pointer device, so it goes. */

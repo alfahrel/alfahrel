@@ -10,8 +10,7 @@
 # renders.
 
 [masthead]
-other = "Not much <br><span class=\"accent\">happening.</span>"
-
+other = "sebuah <br><span class=\"accent\">rak kecil.</span>"
 
 [tagline]
 other = "Ringkasan singkat tentang situs ini"
@@ -22,7 +21,7 @@ other = "Ringkasan singkat tentang situs ini"
 other = "Lewati ke konten"
  
 [searchPosts]
-other = "Cari buku"
+other = "Cari"
 # other = "Cari tulisan"
  
 [search]
@@ -98,7 +97,7 @@ other = "Tekan {{ .key }} di mana saja pada situs ini untuk membukanya."
  
 [recentWriting]
 # other = "Tulisan Terbaru"
-other = "Buku Terbaru"
+other = "Item baru yang saya tambahkan"
  
 [archiveCount]
 other = "Rak buku · {{ .count }}"
@@ -192,7 +191,7 @@ other = "Lebih lama →"
 # --- Lists and archive ------------------------------------------------------
  
 [postsCount]
-other = "{{ .count }} tulisan"
+other = "{{ .count }} found"
  
 [archiveTitle]
 other = "Arsip"

@@ -10,7 +10,7 @@
 # renders.
 
 [masthead]
-other = "Not much <br><span class=\"accent\">happening.</span>"
+other = "a small <br><span class=\"accent\">shelf.</span>"
 
 [tagline]
 other = "A brief summary of this site"
@@ -21,7 +21,7 @@ other = "A brief summary of this site"
 other = "Skip to content"
 
 [searchPosts]
-other = "Search books"
+other = "Search"
 # other = "Search posts"
 
 [search]
@@ -83,10 +83,10 @@ other = "Browse all {{ .count }} posts →"
 # cannot pluralise a count it does not yet know, the two forms are separate keys
 # and `{n}` is substituted in the browser. Keep the `{n}` literal.
 [resultsCountOne]
-other = "{n} post"
+other = "{n} found"
 
 [resultsCountMany]
-other = "{n} posts"
+other = "{n} founds"
 
 # The /search/ page. `{{ .key }}` is the ⌘K / Ctrl K badge and is HTML.
 [searchPageLead]
@@ -98,7 +98,7 @@ other = "Press {{ .key }} anywhere on the site to open it."
 # --- Home -------------------------------------------------------------------
 
 [recentWriting]
-other = "Recent Book"
+other = "Recent item that I added"
 # other = "Recent Writing"
 
 [archiveCount]
