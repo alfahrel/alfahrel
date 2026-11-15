@@ -1,0 +1,84 @@
+{{ define "wrapclass" }}wrap--post{{ end }}
+{{ define "main" }}
+{{- $m := .Params.movieMeta | default dict -}}
+{{- $status := $m.status | default "Watched" -}}
+{{- $watching := eq $status "Watching" -}}
+
+<header class="post__header">
+  <div class="post__headline">
+    {{- with $m.director }}<span class="kicker kicker--accent">{{ . }}</span>{{ end }}
+    <h1 class="post__title movie__title">{{ .Title }}</h1>
+    {{- with .Description }}<p class="post__subtitle">{{ . }}</p>{{ end }}
+  </div>
+  <div class="post__meta">
+    <span>{{ .Date.Format (.Site.Params.DateFormat | default "January 2, 2006") }}</span>
+    <span>{{ $status }}</span>
+  </div>
+</header>
+
+{{- /* Poster and details sit side by side at the top so the proportions hold
+       however short the notes are; the notes then run full width below. */ -}}
+<section class="movie__head">
+  <div class="movie__poster-col">
+    {{- with $m.posterImage }}
+      {{ partial "image.html" (dict "src" . "alt" (i18n "moviePosterAlt" (dict "title" $.Title)) "class" "movie__poster" "loading" "eager") }}
+    {{- else }}
+      <div class="movie__poster movie__poster--blank" role="presentation"></div>
+    {{- end }}
+  </div>
+
+  <div class="movie__detail-col">
+    {{- if $watching }}<span class="movie__badge">{{ i18n "movieWatchingNow" }}</span>{{ end }}
+
+    {{- if $m.rating }}
+      <div class="movie__rating" aria-label="{{ i18n "movieRated" (dict "rating" $m.rating) }}">
+        {{- partial "stars.html" $m.rating -}}
+      </div>
+    {{- end }}
+
+    <dl class="movie__facts">
+      {{- with $m.director }}<div><dt>{{ i18n "movieDirector" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.writer }}<div><dt>{{ i18n "movieWriter" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.studio }}<div><dt>{{ i18n "movieStudio" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.released }}<div><dt>{{ i18n "movieReleased" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.runtime }}<div><dt>{{ i18n "movieRuntime" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.country }}<div><dt>{{ i18n "movieCountry" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.language }}<div><dt>{{ i18n "movieLanguage" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      <div><dt>{{ i18n "movieStatus" }}</dt><dd>{{ $status }}</dd></div>
+      {{- with $m.genre }}<div><dt>{{ i18n "movieGenre" }}</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}
+    </dl>
+
+    {{- with $m.imdbUrl }}
+      <a class="btn btn--ghost movie__link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+        {{ i18n "movieViewOnImdb" }} <span aria-hidden="true">→</span>
+      </a>
+    {{- end }}
+  </div>
+</section>
+
+{{- with .Content }}
+  <article class="prose movie__notes" id="main">{{ . }}</article>
+{{- end }}
+
+{{- /* Stay inside the section: .Prev/.Next span every regular page, so a movie
+       could otherwise link to a blog post. NextInSection walks towards newer
+       (the opposite direction to .Next/.Prev — verified against real dates). */ -}}
+{{- $older := .PrevInSection -}}
+{{- $newer := .NextInSection -}}
+{{- if or $older $newer }}
+<nav class="post__nav">
+  {{- with $older }}
+    <a class="post__nav-link" href="{{ .RelPermalink }}">
+      <span class="kicker">{{ i18n "older" }}</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+  {{- end }}
+  {{- with $newer }}
+    <a class="post__nav-link post__nav-link--next" href="{{ .RelPermalink }}">
+      <span class="kicker">{{ i18n "newer" }}</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+  {{- end }}
+</nav>
+{{- end }}
+{{ end }}

@@ -1,0 +1,52 @@
+{{ define "wrapclass" }}wrap--certs{{ end }}
+{{ define "main" }}
+{{- $movies := .Pages -}}
+
+{{- /* One grid, not one row per status: a single "Watching" movie stranded on its
+       own row wasted a lot of space. Currently-watching movies lead and are
+       marked with an accent ring and badge instead. */ -}}
+{{- $watching := where $movies "Params.movieMeta.status" "Watching" -}}
+{{- $watched := where $movies "Params.movieMeta.status" "!=" "Watching" -}}
+{{- $ordered := $watching | append $watched -}}
+
+<header class="certs__header">
+  <span class="kicker kicker--accent">
+    {{ i18n "moviesCount" (dict "count" (len $movies)) }}
+    {{- with len $watching }}{{ if . }} · {{ i18n "moviesInProgress" (dict "count" .) }}{{ end }}{{ end }}
+  </span>
+  <h1 class="page-title">{{ .Title | default (i18n "movieshelf") }}</h1>
+  {{- with .Content }}<div class="page-header__lead">{{ . }}</div>{{ end }}
+</header>
+
+<main id="main">
+  <div class="shelf">
+    {{- range $i, $m := $ordered }}
+      {{- $meta := $m.Params.movieMeta | default dict }}
+      {{- $isWatching := eq ($meta.status | default "Watched") "Watching" }}
+      {{- /* First row is above the fold and the posters are the content, so load
+             those eagerly; everything below stays lazy. */ -}}
+      {{- $loading := cond (lt $i 6) "eager" "lazy" }}
+      <a class="movie-card{{ if $isWatching }} is-watching{{ end }}" href="{{ $m.RelPermalink }}">
+        <span class="movie-card__frame">
+          {{- with $meta.posterImage }}
+            {{ partial "image.html" (dict "src" . "alt" (i18n "moviePosterAlt" (dict "title" $m.Title)) "class" "movie-card__poster" "loading" $loading) }}
+          {{- else }}
+            <span class="movie-card__poster movie-card__poster--blank" aria-hidden="true"></span>
+          {{- end }}
+          {{- if $isWatching }}<span class="movie-card__badge">{{ i18n "movieWatching" }}</span>{{ end }}
+        </span>
+        <span class="movie-card__title">{{ $m.Title }}</span>
+        {{- /* Director and rating sit in a block pinned to the bottom of the card,
+               so both line up across a row however long the titles run. */ -}}
+        <span class="movie-card__foot">
+          <span class="movie-card__director">{{ $meta.director | default "" }}</span>
+          <span class="movie-card__rating"
+            {{- if $meta.rating }} aria-label="{{ i18n "movieRated" (dict "rating" $meta.rating) }}"{{ end }}>
+            {{- if $meta.rating }}{{ partial "stars.html" $meta.rating }}{{ end -}}
+          </span>
+        </span>
+      </a>
+    {{- end }}
+  </div>
+</main>
+{{ end }}

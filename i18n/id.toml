@@ -10,7 +10,8 @@
 # renders.
 
 [masthead]
-other = "Hai. <br><span class=\"accent\">Saya Fahrel.</span>"
+other = "Not much <br><span class=\"accent\">happening.</span>"
+
 
 [tagline]
 other = "Ringkasan singkat tentang situs ini"
@@ -366,3 +367,119 @@ other = "Tersalin"
  
 [copyCodeAria]
 other = "Salin kode ke papan klip"
+
+# --- Movies -----------------------------------------------------------------
+
+[moviesCount]
+other = "{{ .count }} film"
+
+[moviesInProgress]
+other = "{{ .count }} sedang ditonton"
+
+[movieshelf]
+other = "Rak Film"
+
+# The movieMeta.status value the theme treats as "currently watching". Translating
+# this does NOT change what you write in front matter — keep that as "Watching".
+[movieWatching]
+other = "Sedang ditonton"
+
+[movieWatchingNow]
+other = "Sedang ditonton"
+
+[movieDirector]
+other = "Sutradara"
+
+[movieWriter]
+other = "Penulis Skenario"
+
+[movieStudio]
+other = "Studio / Produksi"
+
+[movieReleased]
+other = "Tahun Rilis"
+
+[movieRuntime]
+other = "Durasi"
+
+[movieCountry]
+other = "Negara"
+
+[movieLanguage]
+other = "Bahasa"
+
+[movieStatus]
+other = "Status"
+
+[movieGenre]
+other = "Genre"
+
+[movieViewOnImdb]
+other = "Lihat di IMDb"
+
+[moviePosterAlt]
+other = "{{ .title }} — poster"
+
+[movieRated]
+other = "Dinilai {{ .rating }} dari 5"
+
+# --- Songs ------------------------------------------------------------------
+
+[songsCount]
+other = "{{ .count }} lagu"
+
+[songsInProgress]
+other = "{{ .count }} sedang didengarkan"
+
+[songshelf]
+other = "Rak Lagu"
+
+# The songMeta.status value the theme treats as "currently listening". Translating
+# this does NOT change what you write in front matter — keep that as "Listening".
+[songListening]
+other = "Sedang didengarkan"
+
+[songListeningNow]
+other = "Sedang didengarkan"
+
+[songArtist]
+other = "Artis"
+
+[songAlbum]
+other = "Album"
+
+[songAlbumArtist]
+other = "Artis Album"
+
+[songWriter]
+other = "Penulis Lagu"
+
+[songLabel]
+other = "Label"
+
+[songReleased]
+other = "Tahun Rilis"
+
+[songDuration]
+other = "Durasi"
+
+[songCountry]
+other = "Negara"
+
+[songLanguage]
+other = "Bahasa"
+
+[songStatus]
+other = "Status"
+
+[songGenre]
+other = "Genre"
+
+[songViewOnSpotify]
+other = "Lihat di Spotify"
+
+[songCoverAlt]
+other = "{{ .title }} — sampul"
+
+[songRated]
+other = "Dinilai {{ .rating }} dari 5"

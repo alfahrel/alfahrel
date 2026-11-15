@@ -1,0 +1,86 @@
+{{ define "wrapclass" }}wrap--post{{ end }}
+{{ define "main" }}
+{{- $m := .Params.songMeta | default dict -}}
+{{- $status := $m.status | default "Heard" -}}
+{{- $listening := eq $status "Listening" -}}
+
+<header class="post__header">
+  <div class="post__headline">
+    {{- with $m.artist }}<span class="kicker kicker--accent">{{ . }}</span>{{ end }}
+    <h1 class="post__title song__title">{{ .Title }}</h1>
+    {{- with .Description }}<p class="post__subtitle">{{ . }}</p>{{ end }}
+  </div>
+  <div class="post__meta">
+    <span>{{ .Date.Format (.Site.Params.DateFormat | default "January 2, 2006") }}</span>
+    <span>{{ $status }}</span>
+  </div>
+</header>
+
+{{- /* Cover and details sit side by side at the top so the proportions hold
+       however short the notes are; the notes then run full width below. */ -}}
+<section class="song__head">
+  <div class="song__cover-col">
+    {{- with $m.coverImage }}
+      {{ partial "image.html" (dict "src" . "alt" (i18n "songCoverAlt" (dict "title" $.Title)) "class" "song__cover" "loading" "eager") }}
+    {{- else }}
+      <div class="song__cover song__cover--blank" role="presentation"></div>
+    {{- end }}
+  </div>
+
+  <div class="song__detail-col">
+    {{- if $listening }}<span class="song__badge">{{ i18n "songListeningNow" }}</span>{{ end }}
+
+    {{- if $m.rating }}
+      <div class="song__rating" aria-label="{{ i18n "songRated" (dict "rating" $m.rating) }}">
+        {{- partial "stars.html" $m.rating -}}
+      </div>
+    {{- end }}
+
+    <dl class="song__facts">
+      {{- with $m.artist }}<div><dt>{{ i18n "songArtist" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.album }}<div><dt>{{ i18n "songAlbum" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.albumArtist }}<div><dt>{{ i18n "songAlbumArtist" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.writer }}<div><dt>{{ i18n "songWriter" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.label }}<div><dt>{{ i18n "songLabel" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.released }}<div><dt>{{ i18n "songReleased" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.duration }}<div><dt>{{ i18n "songDuration" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.country }}<div><dt>{{ i18n "songCountry" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{- with $m.language }}<div><dt>{{ i18n "songLanguage" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      <div><dt>{{ i18n "songStatus" }}</dt><dd>{{ $status }}</dd></div>
+      {{- with $m.genre }}<div><dt>{{ i18n "songGenre" }}</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}
+    </dl>
+
+    {{- with $m.spotifyUrl }}
+      <a class="btn btn--ghost song__link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+        {{ i18n "songViewOnSpotify" }} <span aria-hidden="true">→</span>
+      </a>
+    {{- end }}
+  </div>
+</section>
+
+{{- with .Content }}
+  <article class="prose song__notes" id="main">{{ . }}</article>
+{{- end }}
+
+{{- /* Stay inside the section: .Prev/.Next span every regular page, so a song
+       could otherwise link to a blog post. NextInSection walks towards newer
+       (the opposite direction to .Next/.Prev — verified against real dates). */ -}}
+{{- $older := .PrevInSection -}}
+{{- $newer := .NextInSection -}}
+{{- if or $older $newer }}
+<nav class="post__nav">
+  {{- with $older }}
+    <a class="post__nav-link" href="{{ .RelPermalink }}">
+      <span class="kicker">{{ i18n "older" }}</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+  {{- end }}
+  {{- with $newer }}
+    <a class="post__nav-link post__nav-link--next" href="{{ .RelPermalink }}">
+      <span class="kicker">{{ i18n "newer" }}</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+  {{- end }}
+</nav>
+{{- end }}
+{{ end }}

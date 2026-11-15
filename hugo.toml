@@ -29,16 +29,22 @@ defaultContentLanguageInSubdir = true
     title = 'fahrel[dot]my[dot]id'
     weight = 1
 
-    # [[languages.en.menus.main]]
-    #   identifier = "posts"
-    #   name = "Writing"
-    #   pageRef = "/posts"
-    #   weight = 10
-
     [[languages.en.menus.main]]
       identifier = "books"
       name = "Bookshelf"
       pageRef = "/books"
+      weight = 10
+
+    [[languages.en.menus.main]]
+      identifier = "movies"
+      name = "Movies"
+      pageRef = "/movies"
+      weight = 20
+
+    [[languages.en.menus.main]]
+      identifier = "songs"
+      name = "Songs"
+      pageRef = "/songs"
       weight = 30
 
   [languages.id]
@@ -48,16 +54,22 @@ defaultContentLanguageInSubdir = true
     title = 'fahrel[dot]my[dot]id'
     weight = 2
 
-    # [[languages.id.menus.main]]
-    #   identifier = "posts"
-    #   name = "Tulisan"
-    #   pageRef = "/posts"
-    #   weight = 10
-
     [[languages.id.menus.main]]
       identifier = "books"
       name = "Rak Buku"
       pageRef = "/books"
+      weight = 10
+
+    [[languages.id.menus.main]]
+      identifier = "movies"
+      name = "Film"
+      pageRef = "/movies"
+      weight = 20
+
+    [[languages.id.menus.main]]
+      identifier = "songs"
+      name = "Lagu"
+      pageRef = "/songs"
       weight = 30
 
   [caches]
@@ -195,27 +207,23 @@ defaultContentLanguageInSubdir = true
     url = "https://github.com/alfahrel"
 
 [menu]
-  # [[menu.main]]
-  #   identifier = "posts"
-  #   name = "Writing"
-  #   url = "/posts/"
-  #   weight = 10
    [[menu.main]]
     identifier = "books"
     name = "Bookshelf"
     url = "/books/"
-    weight = 30
+    weight = 10
 
-   #[[menu.main]]
-   # identifier = "resume"
-   # name = "Resume"
-   # url = "/resume/"
-   # weight = 40
-   #[[menu.main]]
-   # identifier = "about"
-   # name = "About"
-   # url = "/about/"
-   # weight = 50
+   [[menu.main]]
+    identifier = "movies"
+    name = "Movies"
+    url = "/movies/"
+    weight = 20
+
+   [[menu.main]]
+    identifier = "songs"
+    name = "Songs"
+    url = "/songs/"
+    weight = 30
 
 [security.funcs]
   getenv = ["^HUGO_", "^CI$"]

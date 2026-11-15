@@ -1,0 +1,52 @@
+{{ define "wrapclass" }}wrap--certs{{ end }}
+{{ define "main" }}
+{{- $songs := .Pages -}}
+
+{{- /* One grid, not one row per status: a single "Listening" song stranded on its
+       own row wasted a lot of space. Currently-listening songs lead and are
+       marked with an accent ring and badge instead. */ -}}
+{{- $listening := where $songs "Params.songMeta.status" "Listening" -}}
+{{- $heard := where $songs "Params.songMeta.status" "!=" "Listening" -}}
+{{- $ordered := $listening | append $heard -}}
+
+<header class="certs__header">
+  <span class="kicker kicker--accent">
+    {{ i18n "songsCount" (dict "count" (len $songs)) }}
+    {{- with len $listening }}{{ if . }} · {{ i18n "songsInProgress" (dict "count" .) }}{{ end }}{{ end }}
+  </span>
+  <h1 class="page-title">{{ .Title | default (i18n "songshelf") }}</h1>
+  {{- with .Content }}<div class="page-header__lead">{{ . }}</div>{{ end }}
+</header>
+
+<main id="main">
+  <div class="shelf">
+    {{- range $i, $s := $ordered }}
+      {{- $meta := $s.Params.songMeta | default dict }}
+      {{- $isListening := eq ($meta.status | default "Heard") "Listening" }}
+      {{- /* First row is above the fold and the covers are the content, so load
+             those eagerly; everything below stays lazy. */ -}}
+      {{- $loading := cond (lt $i 6) "eager" "lazy" }}
+      <a class="song-card{{ if $isListening }} is-listening{{ end }}" href="{{ $s.RelPermalink }}">
+        <span class="song-card__frame">
+          {{- with $meta.coverImage }}
+            {{ partial "image.html" (dict "src" . "alt" (i18n "songCoverAlt" (dict "title" $s.Title)) "class" "song-card__cover" "loading" $loading) }}
+          {{- else }}
+            <span class="song-card__cover song-card__cover--blank" aria-hidden="true"></span>
+          {{- end }}
+          {{- if $isListening }}<span class="song-card__badge">{{ i18n "songListening" }}</span>{{ end }}
+        </span>
+        <span class="song-card__title">{{ $s.Title }}</span>
+        {{- /* Artist and rating sit in a block pinned to the bottom of the card,
+               so both line up across a row however long the titles run. */ -}}
+        <span class="song-card__foot">
+          <span class="song-card__artist">{{ $meta.artist | default "" }}</span>
+          <span class="song-card__rating"
+            {{- if $meta.rating }} aria-label="{{ i18n "songRated" (dict "rating" $meta.rating) }}"{{ end }}>
+            {{- if $meta.rating }}{{ partial "stars.html" $meta.rating }}{{ end -}}
+          </span>
+        </span>
+      </a>
+    {{- end }}
+  </div>
+</main>
+{{ end }}

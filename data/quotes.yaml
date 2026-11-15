@@ -8,10 +8,12 @@
 # site root — your file replaces this one wholesale, it does not merge into it.
 en:
   lines:
-    - pre: "What are you looking for here? \n"
-      accent: "There's nothing here."
+    - pre: "Visit "
+      accent: "/books, /movies, or /songs"
+      
 id:
   lines:
-  - pre: "Apa yang kau cari disini? \n"
-    accent: "Tidak ada apa-apa disini."
+  - pre: "Visit "
+    accent: "/books, /movies, or /songs"
+
 

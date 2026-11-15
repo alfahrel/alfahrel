@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-11-11T23:22:28+07:00</lastmod>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/the-great-gig-in-the-sky/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/the-great-gig-in-the-sky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/the-great-gig-in-the-sky/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/</loc>
+    <lastmod>2026-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/satantango/</loc>
+    <lastmod>2026-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/satantango/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/satantango/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/fear-and-trembling/</loc>

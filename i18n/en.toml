@@ -10,7 +10,7 @@
 # renders.
 
 [masthead]
-other = "Hi. <br><span class=\"accent\">I'm Fahrel.</span>"
+other = "Not much <br><span class=\"accent\">happening.</span>"
 
 [tagline]
 other = "A brief summary of this site"
@@ -379,3 +379,122 @@ other = "Copied"
 
 [copyCodeAria]
 other = "Copy code to clipboard"
+
+# --- Movies -----------------------------------------------------------------
+
+[moviesCount]
+one = "{{ .count }} movie"
+other = "{{ .count }} movies"
+
+[moviesInProgress]
+one = "{{ .count }} currently watching"
+other = "{{ .count }} currently watching"
+
+[movieshelf]
+other = "Movie Shelf"
+
+# The movieMeta.status value the theme treats as "currently watching". Translating
+# this does NOT change what you write in front matter — keep that as "Watching".
+[movieWatching]
+other = "Watching"
+
+[movieWatchingNow]
+other = "Watching now"
+
+[movieDirector]
+other = "Director"
+
+[movieWriter]
+other = "Screenplay"
+
+[movieStudio]
+other = "Studio / Production"
+
+[movieReleased]
+other = "Release Year"
+
+[movieRuntime]
+other = "Runtime"
+
+[movieCountry]
+other = "Country"
+
+[movieLanguage]
+other = "Language"
+
+[movieStatus]
+other = "Status"
+
+[movieGenre]
+other = "Genre"
+
+[movieViewOnImdb]
+other = "View on IMDb"
+
+[moviePosterAlt]
+other = "{{ .title }} — poster"
+
+[movieRated]
+other = "Rated {{ .rating }} out of 5"
+
+# --- Songs ------------------------------------------------------------------
+
+[songsCount]
+one = "{{ .count }} song"
+other = "{{ .count }} songs"
+
+[songsInProgress]
+other = "{{ .count }} currently listening"
+
+[songshelf]
+other = "Song Shelf"
+
+# The songMeta.status value the theme treats as "currently listening". Translating
+# this does NOT change what you write in front matter — keep that as "Listening".
+[songListening]
+other = "Listening"
+
+[songListeningNow]
+other = "Listening now"
+
+[songArtist]
+other = "Artist"
+
+[songAlbum]
+other = "Album"
+
+[songAlbumArtist]
+other = "Album Artist"
+
+[songWriter]
+other = "Songwriter"
+
+[songLabel]
+other = "Label"
+
+[songReleased]
+other = "Release Year"
+
+[songDuration]
+other = "Duration"
+
+[songCountry]
+other = "Country"
+
+[songLanguage]
+other = "Language"
+
+[songStatus]
+other = "Status"
+
+[songGenre]
+other = "Genre"
+
+[songViewOnSpotify]
+other = "View on Spotify"
+
+[songCoverAlt]
+other = "{{ .title }} — cover"
+
+[songRated]
+other = "Rated {{ .rating }} out of 5"
