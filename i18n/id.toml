@@ -81,10 +81,10 @@ other = "Lihat semua {{ .count }} tulisan →"
 # Result count above the list. Rendered by JavaScript, which cannot call i18n.
 # Keep the `{n}` literal.
 [resultsCountOne]
-other = "{n} tulisan"
+other = "ditemukan {n}"
  
 [resultsCountMany]
-other = "{n} tulisan"
+other = "ditemukan {n}"
  
 # The /search/ page. `{{ .key }}` is the ⌘K / Ctrl K badge and is HTML.
 [searchPageLead]
