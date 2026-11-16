@@ -4,7 +4,7 @@ date: '2026-06-12T03:18:28+07:00'
 bookMeta:
   author: "Gilles Deleuze and Felix Guattari"
   coverImage: "images/covers/a-thousand-plateaus.png"
-  status: "Reading"
+  status: "Unfinished"
   published: "1980"
   pages: 632
   type:  Print

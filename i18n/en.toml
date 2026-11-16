@@ -264,6 +264,9 @@ other = "Bookshelf"
 [bookReading]
 other = "Reading"
 
+[bookAbandoned]
+other = "Unfinished"
+
 [bookReadingNow]
 other = "Reading now"
 

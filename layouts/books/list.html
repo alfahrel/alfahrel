@@ -23,10 +23,13 @@
     {{- range $i, $b := $ordered }}
       {{- $m := $b.Params.bookMeta | default dict }}
       {{- $isReading := eq ($m.status | default "Read") "Reading" }}
+      {{- /* Anything not "Read" is unfinished: Reading, On Hold, Abandoned, ...
+             It gets a dimmed cover so "not done yet" reads at a glance. */ -}}
+      {{- $isUnfinished := and (ne ($m.status | default "Read") "Read") (not $isReading) }}
       {{- /* First row is above the fold and the covers are the content, so load
              those eagerly; everything below stays lazy. */ -}}
       {{- $loading := cond (lt $i 6) "eager" "lazy" }}
-      <a class="book-card{{ if $isReading }} is-reading{{ end }}" href="{{ $b.RelPermalink }}">
+      <a class="book-card{{ if $isReading }} is-reading{{ end }}{{ if $isUnfinished }} is-unfinished{{ end }}" href="{{ $b.RelPermalink }}">
         <span class="book-card__frame">
           {{- with $m.coverImage }}
             {{ partial "image.html" (dict "src" . "alt" (i18n "bookCoverAlt" (dict "title" $b.Title)) "class" "book-card__cover" "loading" $loading) }}
@@ -34,6 +37,7 @@
             <span class="book-card__cover book-card__cover--blank" aria-hidden="true"></span>
           {{- end }}
           {{- if $isReading }}<span class="book-card__badge">{{ i18n "bookReading" }}</span>{{ end }}
+          {{- if $isUnfinished }}<span class="book-card__badge">{{ i18n "bookAbandoned" }}</span>{{ end }}
         </span>
         <span class="book-card__title">{{ $b.Title }}</span>
         {{- /* Author and rating sit in a block pinned to the bottom of the card,

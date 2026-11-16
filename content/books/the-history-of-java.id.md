@@ -4,7 +4,7 @@ date: '2023-08-23T04:18:28+07:00'
 bookMeta:
   author: "Thomas Stamford Raffles"
   coverImage: "images/covers/the-history-of-java.png"
-  status: "Reading"
+  status: "Unfinished"
   published: "1817"
   pages: 938
   type:  Print

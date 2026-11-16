@@ -4,7 +4,7 @@ date: '2023-06-14T04:18:28+07:00'
 bookMeta:
   author: "Phil Zuckerman"
   coverImage: "images/covers/masyarakat-tanpa-tuhan.png"
-  status: "Reading"
+  status: "Unfinished"
   published: "2008"
   pages: 464
   type:  Print

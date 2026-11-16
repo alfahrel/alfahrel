@@ -250,6 +250,9 @@ other = "Rak Buku"
 # this does NOT change what you write in front matter — keep that as "Reading".
 [bookReading]
 other = "Sedang dibaca"
+
+[bookAbandoned]
+other = "Tidak tamat"
  
 [bookReadingNow]
 other = "Sedang dibaca"

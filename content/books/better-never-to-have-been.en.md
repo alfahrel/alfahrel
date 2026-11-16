@@ -4,7 +4,7 @@ date: '2026-10-09T04:22:28+07:00'
 bookMeta:
   author: "David Benatar"
   coverImage: "images/covers/better-never-to-have-been.jpg"
-  status: "Reading"
+  # status: "Reading"
   published: "2006"
   pages:  237
   type: Print

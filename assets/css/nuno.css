@@ -1341,6 +1341,20 @@ a:hover { color: var(--accent); }
 .book__link { font-size: 14px; padding: 10px 18px; }
 .book__notes { max-width: 680px; }
 
+.book-card.is-unfinished .book-card__cover {
+  filter: saturate(0.3);
+  box-shadow: 0 0 0 2px var(--accent), 0 14px 28px -16px color-mix(in srgb, var(--accent) 60%, transparent);
+}
+.book-card.is-unfinished:hover .book-card__cover { 
+  filter: saturate(0.3); 
+  box-shadow: 0 0 0 2px var(--accent), 0 14px 28px -16px color-mix(in srgb, var(--accent) 60%, transparent); 
+}
+
+.book-card.is-unfinished .book-card__badge {
+  filter: saturate(0.3);
+}
+
+
 /* Shelf: one grid. Ratings pin to the bottom of every card so they line up
    across a row no matter how long the titles run. */
 .shelf {
