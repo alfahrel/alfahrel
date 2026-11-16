@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/id/songs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dogs</title>
+				<link>http://localhost:1313/id/songs/dogs/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/songs/dogs/</guid>
+				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Dogs”, yang awalnya berjudul “You’ve Gotta Be Crazy”, bermula sebagai sesi jam yang luas dan bebas, yang kemudian diubah menjadi sebuah suite bertahap tentang kesedihan yang timbul akibat upaya mencari tempat di dunia ini dan terjebak dalam hiruk-pikuk kehidupan sehari-hari.&lt;/p&gt;&#xA;&lt;p&gt;Secara tematis, lagu ini menggambarkan orang-orang dalam kehidupan yang dilambangkan sebagai anjing. “Dogs”, yang berdurasi lebih dari 17 menit, adalah salah satu lagu terpanjang tanpa jeda dari band ini; sebuah karya agung yang membutuhkan beberapa kali pendengaran untuk benar-benar menghargai keagungan lagu ini, menyusul “Echoes” dan “Atom Heart Mother”.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pigs (Three Different Ones)</title>
+				<link>http://localhost:1313/id/songs/pigs-three-different-ones/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/songs/pigs-three-different-ones/</guid>
+				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Pigs (Three Different Ones)” adalah bagian kedua dari siklus tiga lagu dalam album &lt;em&gt;Animals&lt;/em&gt; (yang diapit oleh “Pigs On The Wing” bagian satu dan dua). Setelah sebelumnya memperkenalkan “anjing-anjing”, yang meninggikan dan memperkaya diri mereka sendiri dengan mengorbankan orang lain, lagu ini menggambarkan tiga “babi” yang melanggengkan ketidakadilan dan penderitaan sambil mempertahankan cengkeraman mereka atas kekuasaan.&lt;/p&gt;&#xA;&lt;p&gt;Penggunaan kata “pig” sebagai istilah slang untuk polisi di banyak negara berbahasa Inggris hanyalah kebetulan. Lirik lagu ini tidak menggambarkan penegak hukum, melainkan politik; sebuah kiasan terhadap karakter babi dalam novel George Orwell, &lt;em&gt;Animal Farm&lt;/em&gt;, yang menjadi inspirasi bagi &lt;em&gt;Animals&lt;/em&gt;. Babi-babi dalam cerita Orwell menyamar sebagai pemimpin yang baik hati sambil memanipulasi ketakutan hewan-hewan ternak lainnya (proletariat) untuk menyelesaikan dendam pribadi dan memperluas kepentingan mereka sendiri. Tentu saja, hal ini hanya berujung pada janji-janji yang diingkari dan penindasan.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The Great Gig in the Sky</title>
 				<link>http://localhost:1313/id/songs/the-great-gig-in-the-sky/</link>

@@ -2,7 +2,7 @@
 title: "The Great Gig in the Sky"
 date: 2026-11-15
 songMeta:
-  status: "Heard"      # or "Heard"
+  status: "Listened"
   artist: "Pink Floyd"
   album: "The Dark Side of the Moon"
   writer: "Clare Torry & Richard Wright"

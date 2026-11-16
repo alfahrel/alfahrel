@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/id/movies/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Turin Horse</title>
+				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-turin-horse/</guid>
+				<description>&lt;p&gt;Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Sátántangó</title>
 				<link>http://localhost:1313/id/movies/satantango/</link>
