@@ -28,7 +28,11 @@
   </div>
 
   <div class="book__detail-col">
+    {{- $isReading := eq ($m.status | default "Read") "Reading" }}
+    {{- $isUnfinished := and (ne ($m.status | default "Read") "Read") (not $isReading) }}
+
     {{- if $reading }}<span class="book__badge">{{ i18n "bookReadingNow" }}</span>{{ end }}
+    {{- if $isUnfinished }}<span class="book__badge abandoned">{{ i18n "bookAbandonedNow" }}</span>{{ end }}
 
     {{- if $m.rating }}
       <div class="book__rating" aria-label="{{ i18n "bookRated" (dict "rating" $m.rating) }}">

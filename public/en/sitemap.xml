@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/movies/</loc>
+    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/movies/the-man-from-london/</loc>
+    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/the-man-from-london/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/the-man-from-london/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/songs/dogs/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/songs/dogs/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/movies/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/movies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/movies/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/songs/pigs-three-different-ones/</loc>

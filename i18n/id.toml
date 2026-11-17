@@ -97,7 +97,7 @@ other = "Tekan {{ .key }} di mana saja pada situs ini untuk membukanya."
  
 [recentWriting]
 # other = "Tulisan Terbaru"
-other = "Item baru yang saya tambahkan"
+other = "Item baru"
  
 [archiveCount]
 other = "Rak buku · {{ .count }}"
@@ -256,6 +256,9 @@ other = "Tidak tamat"
  
 [bookReadingNow]
 other = "Sedang dibaca"
+
+[bookAbandonedNow]
+other = "Tidak tamat"
  
 [bookAuthor]
 other = "Penulis"

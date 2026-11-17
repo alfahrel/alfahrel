@@ -18,7 +18,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-defaultContentLanguage = 'id'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages]

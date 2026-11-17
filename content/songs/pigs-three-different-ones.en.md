@@ -21,6 +21,8 @@ songMeta:
 
 The use of the word “pig” as a slang term for the police in many English-speaking countries is coincidental. The lyrics do not describe law enforcement but politics; an allusion to the porcine characters in George Orwell’s novel Animal Farm, which served as inspiration for Animals. The pigs in Orwell’s story put on the façade of benign leaders whilst exploiting the fears of the other farm animals (the proletariat) to settle personal scores and further their own interests. Naturally, this leads only to broken promises and oppression.
 
+![A badge](https://images.genius.com/1dfdd45b12b06a187224cb0c065be1a1.589x498x1.png)
+
 Each of the three “pigs” in the song symbolizes a political figure or archetype in mid-1970s Britain, whose policies, activities or views were considered objectionable by the lyricist, Roger Waters. Of the three figures described in the song, only the conservative morality campaigner Mary Whitehouse is directly identified.
 
 The song’s title is also a nod to the fairy tale of “The Three Little Pigs”.

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/movies/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Man from London</title>
+				<link>http://localhost:1313/en/movies/the-man-from-london/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
+				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The Turin Horse</title>
 				<link>http://localhost:1313/en/movies/the-turin-horse/</link>

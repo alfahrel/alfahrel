@@ -98,7 +98,7 @@ other = "Press {{ .key }} anywhere on the site to open it."
 # --- Home -------------------------------------------------------------------
 
 [recentWriting]
-other = "Recent item that I added"
+other = "Recent item"
 # other = "Recent Writing"
 
 [archiveCount]
@@ -269,6 +269,9 @@ other = "Unfinished"
 
 [bookReadingNow]
 other = "Reading now"
+
+[bookAbandonedNow]
+other = "Unfinished"
 
 [bookAuthor]
 other = "Author"

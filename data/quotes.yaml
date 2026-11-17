@@ -10,13 +10,9 @@ en:
   lines:
     - pre: "visit "
       accent: "/books, /movies, or /songs"
-    - pre: "or if you on mobile, \n"
-      accent: "go to the menu in the bottom of the page."
       
 id:
   lines:
   - pre: "kunjungi "
     accent: "/books, /movies, atau /songs"
-  - pre: "atau jika Anda di ponsel, \n"
-    accent: "buka menu di bagian bawah halaman."
 

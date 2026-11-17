@@ -3,7 +3,7 @@ title: "The Turin Horse"
 date: 2026-11-16
 movieMeta:
   status: "Watched"
-  director: "Béla Tarr"
+  director: "Béla Tarr, Ágnes Hranitzky"
   writer: "László Krasznahorkai, Friedrich Nietzsche, Béla Tarr"
   released: 2011
   runtime: "2h 26m"

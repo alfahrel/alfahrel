@@ -21,6 +21,8 @@ songMeta:
 
 Penggunaan kata “pig” sebagai istilah slang untuk polisi di banyak negara berbahasa Inggris hanyalah kebetulan. Lirik lagu ini tidak menggambarkan penegak hukum, melainkan politik; sebuah kiasan terhadap karakter babi dalam novel George Orwell, *Animal Farm*, yang menjadi inspirasi bagi *Animals*. Babi-babi dalam cerita Orwell menyamar sebagai pemimpin yang baik hati sambil memanipulasi ketakutan hewan-hewan ternak lainnya (proletariat) untuk menyelesaikan dendam pribadi dan memperluas kepentingan mereka sendiri. Tentu saja, hal ini hanya berujung pada janji-janji yang diingkari dan penindasan.
 
+![A badge](https://images.genius.com/1dfdd45b12b06a187224cb0c065be1a1.589x498x1.png)
+
 Masing-masing dari tiga “babi” dalam lagu ini melambangkan tokoh politik atau arketipe di Inggris pada pertengahan tahun 1970-an, yang kebijakan, aktivitas, atau pandangannya dianggap tidak dapat diterima oleh penulis lirik, Roger Waters. Dari ketiga tokoh yang digambarkan dalam lagu tersebut, hanya aktivis moral konservatif Mary Whitehouse yang disebutkan secara langsung.
 
 Judul lagu ini juga merupakan referensi terhadap dongeng “The Three Little Pigs”.
