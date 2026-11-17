@@ -28,6 +28,19 @@
                 href="http://localhost:1313/id/movies/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/songs/</loc>
+    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/movies/the-man-from-london/</loc>
     <lastmod>2026-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,43 +54,17 @@
                 href="http://localhost:1313/id/movies/the-man-from-london/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/songs/dogs/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/songs/wearing-the-inside-out/</loc>
+    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/songs/dogs/"
+                href="http://localhost:1313/en/songs/wearing-the-inside-out/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/songs/dogs/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/songs/pigs-three-different-ones/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/songs/pigs-three-different-ones/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/songs/pigs-three-different-ones/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/songs/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/songs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/songs/"
+                href="http://localhost:1313/id/songs/wearing-the-inside-out/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/movies/the-turin-horse/</loc>
@@ -93,17 +80,43 @@
                 href="http://localhost:1313/id/movies/the-turin-horse/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/songs/the-great-gig-in-the-sky/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/songs/waiting-for-the-worms/</loc>
+    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/songs/the-great-gig-in-the-sky/"
+                href="http://localhost:1313/en/songs/waiting-for-the-worms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/songs/the-great-gig-in-the-sky/"
+                href="http://localhost:1313/id/songs/waiting-for-the-worms/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/dogs/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/dogs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/pigs-three-different-ones/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/pigs-three-different-ones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/pigs-three-different-ones/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/movies/satantango/</loc>
@@ -117,6 +130,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/satantango/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/the-great-gig-in-the-sky/</loc>
+    <lastmod>2026-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/the-great-gig-in-the-sky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/the-great-gig-in-the-sky/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/</loc>

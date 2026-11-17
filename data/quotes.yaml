@@ -10,9 +10,14 @@ en:
   lines:
     - pre: "visit "
       accent: "/books, /movies, or /songs"
-      
+
+    - pre: "every rating here "
+      accent: "is personal!"
 id:
   lines:
   - pre: "kunjungi "
     accent: "/books, /movies, atau /songs"
+
+  - pre: "setiap penilaian di sini "
+    accent: "bersifat pribadi"
 

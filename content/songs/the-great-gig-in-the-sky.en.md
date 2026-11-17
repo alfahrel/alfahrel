@@ -1,6 +1,6 @@
 ---
 title: "The Great Gig in the Sky"
-date: 2026-11-15
+date: 2026-11-14
 songMeta:
   status: "Listened"
   artist: "Pink Floyd"
