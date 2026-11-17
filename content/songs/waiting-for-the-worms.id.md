@@ -16,7 +16,7 @@ songMeta:
   spotifyUrl: "https://open.spotify.com/track/2DVkYfl2YuOMlRfC98srEG?si=1721475468e140b4"
 ---
 
-## About
+## Tentang
 Pink bergulat dengan dirinya sendiri saat omelan gila dan otoriternya memuncak dalam teriakan-teriakan tentang pembersihan etnis, yang pada akhirnya mengubahnya menjadi sosok yang persis seperti kekuatan yang telah membunuh ayahnya.
 
 ## Lyrics

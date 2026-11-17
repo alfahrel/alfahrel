@@ -1,0 +1,17 @@
+---
+title: "Werckmeister Harmonies"
+date: 2026-11-17
+movieMeta:
+  status: "Watched"
+  director: "Béla Tarr, Ágnes Hranitzky"
+  writer: "László Krasznahorkai, Béla Tarr, Péter Dobai"
+  released: 2000
+  runtime: "2h 25m"
+  language: "Hungarian"
+  genre: ["Tragedy", "Drama", "Mystery"]
+  rating: 4
+  posterImage: "images/posters/werckmeister-harmonies.jpg"
+  imdbUrl: "https://www.imdb.com/title/tt0249241/"
+---
+
+A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.

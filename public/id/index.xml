@@ -14,6 +14,13 @@
 		
 			<atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Man from London</title>
 				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
 				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
@@ -28,6 +35,13 @@
 				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sebagai lagu terakhir yang dinyanyikan oleh Richard Wright sebagai vokalis utama dalam album Pink Floyd, “Wearing The Inside Out” juga merupakan satu-satunya lagu Pink Floyd yang tidak mencantumkan nama David Gilmour maupun Roger Waters sebagai penulis lagu sejak album &lt;em&gt;The Dark Side Of The Moon&lt;/em&gt;, 21 tahun sebelum album ini dirilis.&lt;/p&gt;&#xA;&lt;p&gt;Musiknya digubah oleh Richard Wright, sedangkan liriknya ditulis oleh Anthony Moore.&lt;/p&gt;&#xA;&lt;p&gt;Inside Out pada akhirnya menjadi judul buku retrospektif karya Nick Mason tentang sejarah Pink Floyd.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Werckmeister Harmonies</title>
+				<link>http://localhost:1313/id/movies/werckmeister-harmonies/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/werckmeister-harmonies/</guid>
+				<description>&lt;p&gt;Seorang pemuda yang polos menyaksikan meningkatnya kekerasan di kota kelahirannya yang kecil setelah kedatangan sebuah pertunjukan sirkus yang misterius.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Turin Horse</title>
 				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
 				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
@@ -39,7 +53,7 @@
 				<link>http://localhost:1313/id/songs/waiting-for-the-worms/</link>
 				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/id/songs/waiting-for-the-worms/</guid>
-				<description>&lt;h2 id=&#34;about&#34;&gt;About&lt;a class=&#34;heading-anchor&#34; href=&#34;#about&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Pink bergulat dengan dirinya sendiri saat omelan gila dan otoriternya memuncak dalam teriakan-teriakan tentang pembersihan etnis, yang pada akhirnya mengubahnya menjadi sosok yang persis seperti kekuatan yang telah membunuh ayahnya.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics&#34;&gt;Lyrics&lt;a class=&#34;heading-anchor&#34; href=&#34;#lyrics&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;[Intro: David Gilmour, Roger Waters]&#xA;&amp;ldquo;Eins, zwei, drei, alle!&amp;rdquo;&#xA;Ooh-ooh, you cannot reach me now&#xA;Ooh-ooh, no matter how you try&#xA;Goodbye, cruel world, it&amp;rsquo;s over&#xA;Walk on by&lt;/p&gt;&#xA;&lt;p&gt;[Verse 1: David Gilmour &amp;amp; Roger Waters]&#xA;Sitting in a bunker here behind my wall&#xA;Waiting for the worms to come (Worms to come)&#xA;In perfect isolation here behind my wall&#xA;Waiting for the worms to come (Worms to come)&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Pink bergulat dengan dirinya sendiri saat omelan gila dan otoriternya memuncak dalam teriakan-teriakan tentang pembersihan etnis, yang pada akhirnya mengubahnya menjadi sosok yang persis seperti kekuatan yang telah membunuh ayahnya.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics&#34;&gt;Lyrics&lt;a class=&#34;heading-anchor&#34; href=&#34;#lyrics&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;[Intro: David Gilmour, Roger Waters]&#xA;&amp;ldquo;Eins, zwei, drei, alle!&amp;rdquo;&#xA;Ooh-ooh, you cannot reach me now&#xA;Ooh-ooh, no matter how you try&#xA;Goodbye, cruel world, it&amp;rsquo;s over&#xA;Walk on by&lt;/p&gt;&#xA;&lt;p&gt;[Verse 1: David Gilmour &amp;amp; Roger Waters]&#xA;Sitting in a bunker here behind my wall&#xA;Waiting for the worms to come (Worms to come)&#xA;In perfect isolation here behind my wall&#xA;Waiting for the worms to come (Worms to come)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dogs</title>

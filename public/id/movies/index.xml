@@ -14,11 +14,25 @@
 		
 			<atom:link href="http://localhost:1313/id/movies/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Man from London</title>
 				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
 				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/id/movies/the-man-from-london/</guid>
 				<description>&lt;p&gt;Setelah menyaksikan sebuah kejahatan saat bertugas pada shift malam sebagai petugas pengatur rel di dekat pelabuhan, seorang pria menemukan sebuah tas kerja berisi uang. Sementara ia dan keluarganya mulai menikmati standar hidup yang lebih baik, orang-orang lain mulai mencari tas yang hilang itu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Werckmeister Harmonies</title>
+				<link>http://localhost:1313/id/movies/werckmeister-harmonies/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/werckmeister-harmonies/</guid>
+				<description>&lt;p&gt;Seorang pemuda yang polos menyaksikan meningkatnya kekerasan di kota kelahirannya yang kecil setelah kedatangan sebuah pertunjukan sirkus yang misterius.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Turin Horse</title>
