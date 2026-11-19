@@ -113,7 +113,7 @@ a:hover { color: var(--accent); }
   text-transform: uppercase;
   color: var(--muted);
 }
-.kicker--accent { color: var(--accent); display: none; }
+.kicker--accent { color: var(--accent); }
 
 /* --- Nav --------------------------------------------------------------- */
 .nav {

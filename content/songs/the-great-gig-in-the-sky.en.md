@@ -1,6 +1,6 @@
 ---
 title: "The Great Gig in the Sky"
-date: 2026-11-14
+date: '2026-11-14T02:18:28+07:00'
 songMeta:
   status: "Listened"
   artist: "Pink Floyd"
@@ -15,8 +15,12 @@ songMeta:
   coverImage: "images/album_covers/the-dark-side-of-the-moon.png"
   spotifyUrl: "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
 ---
+## About
+“The Great Gig in the Sky” is the fifth track on The Dark Side of the Moon, the 1973 album by the English rock band Pink Floyd. It features vocals by Clare Torry.
 
-## Lyrics :
+The song talks to the pressure of mortality on life, with the “Great Gig in the Sky” being a reference to heaven or an afterlife
+
+## Lyrics
 
 [Intro: Gerry O'Driscoll]
 And I am not frightened of dying, you know

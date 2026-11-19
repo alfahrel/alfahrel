@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/songs/waiting-for-the-worms/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T03:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -119,21 +119,34 @@
                 href="http://localhost:1313/id/songs/waiting-for-the-worms/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/songs/dogs/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/songs/comfortably-numb/</loc>
+    <lastmod>2026-11-16T02:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/songs/dogs/"
+                href="http://localhost:1313/en/songs/comfortably-numb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/songs/dogs/"
+                href="http://localhost:1313/id/songs/comfortably-numb/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/is-there-anybody-out-there/</loc>
+    <lastmod>2026-11-16T01:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/is-there-anybody-out-there/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/is-there-anybody-out-there/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/songs/pigs-three-different-ones/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-15T02:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -143,6 +156,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/songs/pigs-three-different-ones/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/dogs/</loc>
+    <lastmod>2026-11-15T01:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/dogs/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/movies/satantango/</loc>
@@ -158,8 +184,34 @@
                 href="http://localhost:1313/id/movies/satantango/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/songs/eclipse/</loc>
+    <lastmod>2026-11-14T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/eclipse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/eclipse/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/any-colour-you-like/</loc>
+    <lastmod>2026-11-14T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/any-colour-you-like/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/any-colour-you-like/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/songs/the-great-gig-in-the-sky/</loc>
-    <lastmod>2026-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-14T02:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -169,6 +221,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/songs/the-great-gig-in-the-sky/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/breathe-in-the-air/</loc>
+    <lastmod>2026-11-14T01:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/breathe-in-the-air/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/breathe-in-the-air/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/books/</loc>

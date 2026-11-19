@@ -1,6 +1,6 @@
 ---
 title: "The Great Gig in the Sky"
-date: 2026-11-14
+date: '2026-11-14T02:18:28+07:00'
 songMeta:
   status: "Listened"
   artist: "Pink Floyd"
@@ -15,8 +15,12 @@ songMeta:
   coverImage: "images/album_covers/the-dark-side-of-the-moon.png"
   spotifyUrl: "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
 ---
+## Tentang
+“The Great Gig in the Sky” adalah lagu kelima dalam album *The Dark Side of the Moon*, album tahun 1973 karya band rock Inggris Pink Floyd. Lagu ini menampilkan vokal oleh Clare Torry.
 
-## Lyrics :
+Lagu ini mengangkat tema tekanan akan kematian dalam kehidupan, dengan frasa “Great Gig in the Sky” yang merujuk pada surga atau kehidupan setelah kematian
+
+## Lyrics
 
 [Intro: Gerry O'Driscoll]
 And I am not frightened of dying, you know

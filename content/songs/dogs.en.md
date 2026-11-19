@@ -1,6 +1,6 @@
 ---
 title: "Dogs"
-date: 2026-11-15
+date: '2026-11-15T01:18:28+07:00'
 songMeta:
   status: "Listened"
   artist: "Pink Floyd"
