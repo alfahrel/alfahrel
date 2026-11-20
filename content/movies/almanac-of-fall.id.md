@@ -1,6 +1,6 @@
 ---
 title: "Almanac of Fall"
-date: 2026-11-17
+date: 2024-11-19
 movieMeta:
   status: "Watched"
   director: "Béla Tarr"

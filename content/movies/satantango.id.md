@@ -1,6 +1,6 @@
 ---
 title: "Sátántangó"
-date: 2026-11-14
+date: 2024-11-14
 movieMeta:
   status: "Watched"
   director: "Béla Tarr"

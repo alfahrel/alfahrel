@@ -1,6 +1,6 @@
 ---
 title: "Werckmeister Harmonies"
-date: 2026-11-17
+date: 2024-11-20
 movieMeta:
   status: "Watched"
   director: "Béla Tarr, Ágnes Hranitzky"

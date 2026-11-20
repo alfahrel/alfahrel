@@ -1,6 +1,6 @@
 ---
 title: "The Man from London"
-date: 2026-11-17
+date: 2024-11-18
 movieMeta:
   status: "Watched"
   director: "Béla Tarr, Ágnes Hranitzky"

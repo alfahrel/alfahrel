@@ -10,30 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 17 Nov 2026 05:18:28 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Almanac of Fall</title>
-				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
-				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Man from London</title>
-				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/the-man-from-london/</guid>
-				<description>&lt;p&gt;Setelah menyaksikan sebuah kejahatan saat bertugas pada shift malam sebagai petugas pengatur rel di dekat pelabuhan, seorang pria menemukan sebuah tas kerja berisi uang. Sementara ia dan keluarganya mulai menikmati standar hidup yang lebih baik, orang-orang lain mulai mencari tas yang hilang itu.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Werckmeister Harmonies</title>
-				<link>http://localhost:1313/id/movies/werckmeister-harmonies/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/werckmeister-harmonies/</guid>
-				<description>&lt;p&gt;Seorang pemuda yang polos menyaksikan meningkatnya kekerasan di kota kelahirannya yang kecil setelah kedatangan sebuah pertunjukan sirkus yang misterius.&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>High Hopes</title>
 				<link>http://localhost:1313/id/songs/high-hopes/</link>
@@ -68,13 +47,6 @@
 				<pubDate>Tue, 17 Nov 2026 01:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/id/songs/cluster-one/</guid>
 				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Durasi lagu ini hampir 6 menit, namun terasa seolah-olah ini adalah karya sebuah grup utuh, bukan sekadar proyek solo. Apa pun alasannya, “Cluster One” sangat cocok sebagai lagu pembuka. Dimulai dengan klip pulsa elektromagnetik matahari—yang membuat beberapa orang berpikir dengan lucu bahwa salinan The Division Bell mereka rusak—lagu ini kemudian beralih ke gelombang-gelombang synth, lalu menjadi aransemen orkestra yang dipimpin oleh grand piano, penuh dengan sampel piano terbalik dan synth pad, serta iringan orkestra. Dengan demikian, “Cluster One” membantu magnum opus ini berkembang secara bertahap.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Turin Horse</title>
-				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
-				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/the-turin-horse/</guid>
-				<description>&lt;p&gt;Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Waiting for the Worms</title>
@@ -124,13 +96,6 @@
 				<pubDate>Sun, 15 Nov 2026 01:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/id/songs/dogs/</guid>
 				<description>&lt;h2 id=&#34;tentang&#34;&gt;Tentang&lt;a class=&#34;heading-anchor&#34; href=&#34;#tentang&#34; aria-label=&#34;Tautan ke bagian ini&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Dogs”, yang awalnya berjudul “You’ve Gotta Be Crazy”, bermula sebagai sesi jam yang luas dan bebas, yang kemudian diubah menjadi sebuah suite bertahap tentang kesedihan yang timbul akibat upaya mencari tempat di dunia ini dan terjebak dalam hiruk-pikuk kehidupan sehari-hari.&lt;/p&gt;&#xA;&lt;p&gt;Secara tematis, lagu ini menggambarkan orang-orang dalam kehidupan yang dilambangkan sebagai anjing. “Dogs”, yang berdurasi lebih dari 17 menit, adalah salah satu lagu terpanjang tanpa jeda dari band ini; sebuah karya agung yang membutuhkan beberapa kali pendengaran untuk benar-benar menghargai keagungan lagu ini, menyusul “Echoes” dan “Atom Heart Mother”.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Sátántangó</title>
-				<link>http://localhost:1313/id/movies/satantango/</link>
-				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/satantango/</guid>
-				<description>&lt;p&gt;Menjelang pembayaran besar, penduduk pertanian kolektif yang runtuh melihat rencana mereka berubah menjadi kehancuran ketika mereka menemukan bahwa Irimiás, mantan rekan kerja yang mereka pikir sudah mati, kembali ke masyarakat.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Eclipse</title>
@@ -392,6 +357,41 @@
 				<description>&lt;p&gt;Straw Dogs adalah karya filsafat, yang menetapkan untuk menantang asumsi kita yang paling dihargai tentang apa artinya menjadi manusia. Dari Plato hingga Kristen, dari Pencerahan hingga Nietzsche, tradisi Barat didasarkan pada keyakinan yang arogan dan salah tentang manusia dan tempat mereka di dunia.&lt;/p&gt;&#xA;&lt;p&gt;Filsafat seperti liberalisme dan Marxisme menganggap umat manusia sebagai spesies yang takdirnya melampaui batas alam dan menaklukkan Bumi. Bahkan di masa sekarang, terlepas dari penemuan Darwin, hampir semua aliran pemikiran mengambil sebagai titik awal mereka keyakinan bahwa manusia secara radikal berbeda dari hewan lain. John Gray berpendapat bahwa keyakinan humanis ini hanyalah ilusi. Tujuan dari Straw Dogs adalah untuk mengeksplorasi bagaimana dunia dan kehidupan manusia terlihat setelah humanisme akhirnya ditinggalkan.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Werckmeister Harmonies</title>
+				<link>http://localhost:1313/id/movies/werckmeister-harmonies/</link>
+				<pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/werckmeister-harmonies/</guid>
+				<description>&lt;p&gt;Seorang pemuda yang polos menyaksikan meningkatnya kekerasan di kota kelahirannya yang kecil setelah kedatangan sebuah pertunjukan sirkus yang misterius.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Damnation</title>
+				<link>http://localhost:1313/id/movies/damnation/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/damnation/</guid>
+				<description>&lt;p&gt;Seorang pengunjung bar yang kesepian jatuh cinta pada seorang penyanyi bar yang sudah menikah.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Man from London</title>
+				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-man-from-london/</guid>
+				<description>&lt;p&gt;Setelah menyaksikan sebuah kejahatan saat bertugas pada shift malam sebagai petugas pengatur rel di dekat pelabuhan, seorang pria menemukan sebuah tas kerja berisi uang. Sementara ia dan keluarganya mulai menikmati standar hidup yang lebih baik, orang-orang lain mulai mencari tas yang hilang itu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sátántangó</title>
+				<link>http://localhost:1313/id/movies/satantango/</link>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/satantango/</guid>
+				<description>&lt;p&gt;Menjelang pembayaran besar, penduduk pertanian kolektif yang runtuh melihat rencana mereka berubah menjadi kehancuran ketika mereka menemukan bahwa Irimiás, mantan rekan kerja yang mereka pikir sudah mati, kembali ke masyarakat.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Penderitaan Pemuda Werther</title>
 				<link>http://localhost:1313/id/books/penderitaan-pemuda-werther/</link>
 				<pubDate>Thu, 17 Oct 2024 03:22:28 +0700</pubDate>
@@ -432,6 +432,13 @@
 				<pubDate>Sun, 07 Jan 2024 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/id/books/kejahatan-dan-hukuman/</guid>
 				<description>&lt;p&gt;Raskolnikov, mantan siswa yang miskin dan putus asa, berkeliaran di daerah kumuh St Petersburg dan melakukan pembunuhan acak tanpa penyesalan atau penyesalan. Dia membayangkan dirinya sebagai orang hebat, seorang Napoleon: bertindak untuk tujuan yang lebih tinggi di luar hukum moral konvensional. Namun saat ia memulai permainan kucing-dan-tikus yang berbahaya dengan Porfiry, seorang detektif yang mencurigakan, Raskolnikov dikejar oleh suara hati nuraninya yang semakin besar dan mendapati jerat rasa bersalahnya semakin erat di lehernya. Hanya Sonya, seorang pelacur tertindas, yang dapat menawarkan kesempatan penebusan. Ketika penyelidikan dan persidangan berikutnya mengungkapkan identitas sebenarnya dari si pembunuh, mahakarya gelap Dostoyevsky membangkitkan sebuah dunia di mana garis antara kepolosan dan korupsi, baik dan jahat, kabur dan keyakinan setiap orang terhadap kemanusiaan diuji.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Turin Horse</title>
+				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
+				<pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-turin-horse/</guid>
+				<description>&lt;p&gt;Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Siddhartha</title>

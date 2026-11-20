@@ -10,43 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/movies/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Almanac of Fall</title>
-				<link>http://localhost:1313/en/movies/almanac-of-fall/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/almanac-of-fall/</guid>
-				<description>&lt;p&gt;A large, claustrophobic apartment is the setting for this intense chamber drama. In this dense setting, the inhabitants of the apartment reveal their darkest secrets, fears, obsessions and hostilities.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Man from London</title>
-				<link>http://localhost:1313/en/movies/the-man-from-london/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
-				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Werckmeister Harmonies</title>
 				<link>http://localhost:1313/en/movies/werckmeister-harmonies/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/movies/werckmeister-harmonies/</guid>
 				<description>&lt;p&gt;A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>The Turin Horse</title>
-				<link>http://localhost:1313/en/movies/the-turin-horse/</link>
-				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/the-turin-horse/</guid>
-				<description>&lt;p&gt;A monumental windstorm and an abused horse&amp;rsquo;s refusal to work or eat signals the beginning of the end for a poor farmer and his daughter.&lt;/p&gt;</description>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/en/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;A large, claustrophobic apartment is the setting for this intense chamber drama. In this dense setting, the inhabitants of the apartment reveal their darkest secrets, fears, obsessions and hostilities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Damnation</title>
+				<link>http://localhost:1313/en/movies/damnation/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/damnation/</guid>
+				<description>&lt;p&gt;A lonely barfly falls in love with a married bar singer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Man from London</title>
+				<link>http://localhost:1313/en/movies/the-man-from-london/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
+				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sátántangó</title>
 				<link>http://localhost:1313/en/movies/satantango/</link>
-				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/movies/satantango/</guid>
 				<description>&lt;p&gt;On the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimiás, a former co-worker who they thought was dead, is returning to the community.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Turin Horse</title>
+				<link>http://localhost:1313/en/movies/the-turin-horse/</link>
+				<pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-turin-horse/</guid>
+				<description>&lt;p&gt;A monumental windstorm and an abused horse&amp;rsquo;s refusal to work or eat signals the beginning of the end for a poor farmer and his daughter.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

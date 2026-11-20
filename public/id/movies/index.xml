@@ -10,43 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/id/movies/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Almanac of Fall</title>
-				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
-				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Man from London</title>
-				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/the-man-from-london/</guid>
-				<description>&lt;p&gt;Setelah menyaksikan sebuah kejahatan saat bertugas pada shift malam sebagai petugas pengatur rel di dekat pelabuhan, seorang pria menemukan sebuah tas kerja berisi uang. Sementara ia dan keluarganya mulai menikmati standar hidup yang lebih baik, orang-orang lain mulai mencari tas yang hilang itu.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Werckmeister Harmonies</title>
 				<link>http://localhost:1313/id/movies/werckmeister-harmonies/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/id/movies/werckmeister-harmonies/</guid>
 				<description>&lt;p&gt;Seorang pemuda yang polos menyaksikan meningkatnya kekerasan di kota kelahirannya yang kecil setelah kedatangan sebuah pertunjukan sirkus yang misterius.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>The Turin Horse</title>
-				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
-				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/id/movies/the-turin-horse/</guid>
-				<description>&lt;p&gt;Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.&lt;/p&gt;</description>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/id/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Damnation</title>
+				<link>http://localhost:1313/id/movies/damnation/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/damnation/</guid>
+				<description>&lt;p&gt;Seorang pengunjung bar yang kesepian jatuh cinta pada seorang penyanyi bar yang sudah menikah.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Man from London</title>
+				<link>http://localhost:1313/id/movies/the-man-from-london/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-man-from-london/</guid>
+				<description>&lt;p&gt;Setelah menyaksikan sebuah kejahatan saat bertugas pada shift malam sebagai petugas pengatur rel di dekat pelabuhan, seorang pria menemukan sebuah tas kerja berisi uang. Sementara ia dan keluarganya mulai menikmati standar hidup yang lebih baik, orang-orang lain mulai mencari tas yang hilang itu.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sátántangó</title>
 				<link>http://localhost:1313/id/movies/satantango/</link>
-				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/id/movies/satantango/</guid>
 				<description>&lt;p&gt;Menjelang pembayaran besar, penduduk pertanian kolektif yang runtuh melihat rencana mereka berubah menjadi kehancuran ketika mereka menemukan bahwa Irimiás, mantan rekan kerja yang mereka pikir sudah mati, kembali ke masyarakat.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Turin Horse</title>
+				<link>http://localhost:1313/id/movies/the-turin-horse/</link>
+				<pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-turin-horse/</guid>
+				<description>&lt;p&gt;Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

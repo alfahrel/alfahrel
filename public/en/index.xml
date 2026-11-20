@@ -10,30 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 17 Nov 2026 05:18:28 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Almanac of Fall</title>
-				<link>http://localhost:1313/en/movies/almanac-of-fall/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/almanac-of-fall/</guid>
-				<description>&lt;p&gt;A large, claustrophobic apartment is the setting for this intense chamber drama. In this dense setting, the inhabitants of the apartment reveal their darkest secrets, fears, obsessions and hostilities.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Man from London</title>
-				<link>http://localhost:1313/en/movies/the-man-from-london/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
-				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Werckmeister Harmonies</title>
-				<link>http://localhost:1313/en/movies/werckmeister-harmonies/</link>
-				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/werckmeister-harmonies/</guid>
-				<description>&lt;p&gt;A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>High Hopes</title>
 				<link>http://localhost:1313/en/songs/high-hopes/</link>
@@ -68,13 +47,6 @@
 				<pubDate>Tue, 17 Nov 2026 01:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/songs/cluster-one/</guid>
 				<description>&lt;h2 id=&#34;about&#34;&gt;About&lt;a class=&#34;heading-anchor&#34; href=&#34;#about&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Almost 6 minutes long, and yet, it feels as if this is a whole group together, not just a solo project. Whatever the reason, “Cluster One” is the perfect fit for the opener. Starting off with a clip of an electromagnetic solar pulse, causing some hilariously to think their copy of The Division Bell is broken, the song then breaks off into waves of synths and then, an orchestrated cause led by a grand piano, full of reversed piano samples and synth pads, as well as an orchestra. While so, “Cluster One” helps the magnum opus grow gradually.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Turin Horse</title>
-				<link>http://localhost:1313/en/movies/the-turin-horse/</link>
-				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/the-turin-horse/</guid>
-				<description>&lt;p&gt;A monumental windstorm and an abused horse&amp;rsquo;s refusal to work or eat signals the beginning of the end for a poor farmer and his daughter.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Waiting for the Worms</title>
@@ -124,13 +96,6 @@
 				<pubDate>Sun, 15 Nov 2026 01:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/songs/dogs/</guid>
 				<description>&lt;h2 id=&#34;about&#34;&gt;About&lt;a class=&#34;heading-anchor&#34; href=&#34;#about&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Dogs”, originally entitled “You’ve Gotta Be Crazy”, began as a sprawling jam that was turned into a multi-part suite about the sadness that occurs from trying to find your place in the world and getting stuck up in the race of the day to day life.&lt;/p&gt;&#xA;&lt;p&gt;Thematically, the song connives people in life who are symbolised as dogs. “Dogs”, over 17 minutes in length, is one of the band’s longest uninterrupted songs; a tour de force that requires multiple listens to truly appreciate its majesty, following “Echoes” and “Atom Heart Mother”.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Sátántangó</title>
-				<link>http://localhost:1313/en/movies/satantango/</link>
-				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/movies/satantango/</guid>
-				<description>&lt;p&gt;On the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimiás, a former co-worker who they thought was dead, is returning to the community.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Eclipse</title>
@@ -392,6 +357,41 @@
 				<description>&lt;p&gt;Straw Dogs is a philosophical work that sets out to challenge our most cherished assumptions about what it means to be human. From Plato to Christianity, from the Enlightenment to Nietzsche, Western tradition is founded on arrogant and mistaken beliefs about human beings and their place in the world.&lt;/p&gt;&#xA;&lt;p&gt;Philosophies such as liberalism and Marxism view humanity as a species destined to transcend natural limits and conquer the Earth. Even today, despite Darwin’s discoveries, nearly all schools of thought take as their starting point the belief that humans are radically different from other animals. John Gray argues that this humanist belief is nothing more than an illusion. The aim of &lt;em&gt;Straw Dogs&lt;/em&gt; is to explore what the world and human life would look like once humanism is finally abandoned.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Werckmeister Harmonies</title>
+				<link>http://localhost:1313/en/movies/werckmeister-harmonies/</link>
+				<pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/werckmeister-harmonies/</guid>
+				<description>&lt;p&gt;A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Almanac of Fall</title>
+				<link>http://localhost:1313/en/movies/almanac-of-fall/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/almanac-of-fall/</guid>
+				<description>&lt;p&gt;A large, claustrophobic apartment is the setting for this intense chamber drama. In this dense setting, the inhabitants of the apartment reveal their darkest secrets, fears, obsessions and hostilities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Damnation</title>
+				<link>http://localhost:1313/en/movies/damnation/</link>
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/damnation/</guid>
+				<description>&lt;p&gt;A lonely barfly falls in love with a married bar singer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Man from London</title>
+				<link>http://localhost:1313/en/movies/the-man-from-london/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
+				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sátántangó</title>
+				<link>http://localhost:1313/en/movies/satantango/</link>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/satantango/</guid>
+				<description>&lt;p&gt;On the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimiás, a former co-worker who they thought was dead, is returning to the community.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Penderitaan Pemuda Werther</title>
 				<link>http://localhost:1313/en/books/penderitaan-pemuda-werther/</link>
 				<pubDate>Thu, 17 Oct 2024 03:22:28 +0700</pubDate>
@@ -432,6 +432,13 @@
 				<pubDate>Sun, 07 Jan 2024 04:18:28 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/kejahatan-dan-hukuman/</guid>
 				<description>&lt;p&gt;Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat-and-mouse with Porfiry, a suspicious detective, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption. As the ensuing investigation and trial reveal the true identity of the murderer, Dostoyevsky&amp;rsquo;s dark masterpiece evokes a world where the lines between innocence and corruption, good and evil, blur and everyone&amp;rsquo;s faith in humanity is tested.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Turin Horse</title>
+				<link>http://localhost:1313/en/movies/the-turin-horse/</link>
+				<pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-turin-horse/</guid>
+				<description>&lt;p&gt;A monumental windstorm and an abused horse&amp;rsquo;s refusal to work or eat signals the beginning of the end for a poor farmer and his daughter.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Siddhartha</title>

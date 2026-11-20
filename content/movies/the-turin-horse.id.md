@@ -1,6 +1,6 @@
 ---
 title: "The Turin Horse"
-date: 2026-11-16
+date: 2023-11-16
 movieMeta:
   status: "Watched"
   director: "Béla Tarr, Ágnes Hranitzky"
