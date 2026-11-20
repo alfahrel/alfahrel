@@ -1,6 +1,6 @@
 ---
 title: "Wearing the Inside Out"
-date: 2026-11-17
+date: '2026-11-17T03:18:28+07:00'
 songMeta:
   status: "Listened"
   artist: "Pink Floyd"

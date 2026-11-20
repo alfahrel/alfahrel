@@ -41,19 +41,6 @@
                 href="http://localhost:1313/id/movies/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/songs/</loc>
-    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/songs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/songs/"
-                />
-  </url><url>
     <loc>http://localhost:1313/id/movies/the-man-from-london/</loc>
     <lastmod>2026-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -67,19 +54,6 @@
                 href="http://localhost:1313/id/movies/the-man-from-london/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/songs/wearing-the-inside-out/</loc>
-    <lastmod>2026-11-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/songs/wearing-the-inside-out/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/songs/wearing-the-inside-out/"
-                />
-  </url><url>
     <loc>http://localhost:1313/id/movies/werckmeister-harmonies/</loc>
     <lastmod>2026-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,6 +65,84 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/werckmeister-harmonies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/high-hopes/</loc>
+    <lastmod>2026-11-17T05:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/high-hopes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/high-hopes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/</loc>
+    <lastmod>2026-11-17T05:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/keep-talking/</loc>
+    <lastmod>2026-11-17T04:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/keep-talking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/keep-talking/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/wearing-the-inside-out/</loc>
+    <lastmod>2026-11-17T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/wearing-the-inside-out/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/wearing-the-inside-out/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/marooned/</loc>
+    <lastmod>2026-11-17T02:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/marooned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/marooned/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/cluster-one/</loc>
+    <lastmod>2026-11-17T01:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/cluster-one/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/cluster-one/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/movies/the-turin-horse/</loc>
@@ -143,6 +195,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/songs/is-there-anybody-out-there/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/hey-you/</loc>
+    <lastmod>2026-11-16T01:10:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/hey-you/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/hey-you/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/echoes/</loc>
+    <lastmod>2026-11-16T00:10:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/echoes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/echoes/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/songs/pigs-three-different-ones/</loc>

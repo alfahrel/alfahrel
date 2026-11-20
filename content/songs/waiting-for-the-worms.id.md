@@ -11,7 +11,7 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Doom Metal", "Hard Rock", "Rock", "Art Rock"]
-  rating: 4
+  rating: 5
   coverImage: "images/album_covers/the-wall.png"
   spotifyUrl: "https://open.spotify.com/track/2DVkYfl2YuOMlRfC98srEG?si=1721475468e140b4"
 ---
