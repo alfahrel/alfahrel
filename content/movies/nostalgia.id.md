@@ -6,7 +6,7 @@ movieMeta:
   director: "Andrei Tarkovsky"
   writer: "Andrei Tarkovsky, Tonino Guerra"
   released: 1983
-  runtime: "2h 5m"
+  runtime: "2j 5m"
   language: "Russian, Italian"
   genre: ["Italian", "Psychological Drama", "Drama"]
   rating: 9
