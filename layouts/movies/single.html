@@ -32,7 +32,7 @@
 
     {{- if $m.rating }}
       <div class="movie__rating" aria-label="{{ i18n "movieRated" (dict "rating" $m.rating) }}">
-        {{- partial "stars.html" $m.rating -}}
+        {{- partial "stars-ten.html" $m.rating -}}
       </div>
     {{- end }}
 

@@ -42,7 +42,7 @@
           <span class="movie-card__director">{{ $meta.director | default "" }}</span>
           <span class="movie-card__rating"
             {{- if $meta.rating }} aria-label="{{ i18n "movieRated" (dict "rating" $meta.rating) }}"{{ end }}>
-            {{- if $meta.rating }}{{ partial "stars.html" $meta.rating }}{{ end -}}
+            {{- if $meta.rating }}{{ partial "stars-ten.html" $meta.rating }}{{ end -}}
           </span>
         </span>
       </a>

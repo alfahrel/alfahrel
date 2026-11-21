@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 17 Nov 2026 05:18:28 +0700</lastBuildDate>
+			<lastBuildDate>Sat, 21 Nov 2026 03:18:28 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Proses (The Trial)</title>
+				<link>http://localhost:1313/en/books/proses-the-trial/</link>
+				<pubDate>Sat, 21 Nov 2026 03:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/proses-the-trial/</guid>
+				<description>&lt;p&gt;Joseph K, a bank employee, wakes up one day to find himself accused of a crime he did not commit, a crime that was never revealed to him. After being arrested, he was released, but had to report to court regularly—an annoying routine, as nothing was ever resolved. And as he becomes increasingly unsure of his fate, his personal life becomes increasingly unpredictable.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>High Hopes</title>
 				<link>http://localhost:1313/en/songs/high-hopes/</link>
@@ -140,11 +147,11 @@
 				<description>&lt;p&gt;The animals of Manor Farm live oppressed by Mr. Jones&amp;rsquo; cruel treatment. One day the animals forgot to be fed so they rebelled and took over the farm from humans, so that all the animals could live freely and happily. But eventually the rebellion was betrayed, and the fate of the animals was even worse than before, under the dictatorship of a pig named Napoleon.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Proses (The Trial)</title>
-				<link>http://localhost:1313/en/books/proses-the-trial/</link>
-				<pubDate>Fri, 23 Oct 2026 03:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/proses-the-trial/</guid>
-				<description>&lt;p&gt;Joseph K, a bank employee, wakes up one day to find himself accused of a crime he did not commit, a crime that was never revealed to him. After being arrested, he was released, but had to report to court regularly—an annoying routine, as nothing was ever resolved. And as he becomes increasingly unsure of his fate, his personal life becomes increasingly unpredictable.&lt;/p&gt;</description>
+				<title>The Last Temptation of Christ</title>
+				<link>http://localhost:1313/en/movies/the-last-temptation-of-christ/</link>
+				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-last-temptation-of-christ/</guid>
+				<description>&lt;p&gt;The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Better Never to Have Been: The Harm of Coming into Existence</title>
@@ -154,18 +161,18 @@
 				<description>&lt;p&gt;Better Never to Have Been argues for a number of related, highly provocative, views: (1) Coming into existence is always a serious harm. (2) It is always wrong to have children. (3) It is wrong not to abort fetuses at the earlier stages of gestation. (4) It would be better if, as a result of there being no new people, humanity became extinct. These views may sound unbelievable&amp;ndash;but anyone who reads Benatar will be obliged to take them seriously.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Dhammapada</title>
+				<link>http://localhost:1313/en/books/dhammapada/</link>
+				<pubDate>Mon, 28 Sep 2026 03:22:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/dhammapada/</guid>
+				<description>&lt;p&gt;Dhammapada is a Dhamma word, the words of the Gotama Buddha in the form of poetry (Gatha). There are 423 verses grouped into 26 chapters (vagga).&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Upanisad-Upanisad Utama</title>
 				<link>http://localhost:1313/en/books/upanishad/</link>
 				<pubDate>Sun, 27 Sep 2026 01:49:24 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/upanishad/</guid>
 				<description>&lt;p&gt;The Upanishads, the earliest of which were composed in Sanskrit between 800 and 400 bce by sages and poets, form part of the Vedas - the sacred and ancient scriptures that are the basis of the Hindu religion. Each Upanishad, or lesson, takes up a theme ranging from the attainment of spiritual bliss to karma and rebirth, and collectively they are meditations on life, death and immortality. The essence of their teachings is that truth can by reached by faith rather than by thought, and that the spirit of God is within each of us - we need not fear death as we carry within us the promise of eternal life.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Dhammapada</title>
-				<link>http://localhost:1313/en/books/dhammapada/</link>
-				<pubDate>Fri, 25 Sep 2026 03:22:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/dhammapada/</guid>
-				<description>&lt;p&gt;Dhammapada is a Dhamma word, the words of the Gotama Buddha in the form of poetry (Gatha). There are 423 verses grouped into 26 chapters (vagga).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Trouble with Being Born</title>
@@ -294,6 +301,13 @@
 				<description>&lt;p&gt;Hamlet is a tragedy written by Shakespeare between 1599 and 1602, which tells the story of Prince Hamlet&amp;rsquo;s revenge against Claudius, his uncle. Claudius has killed his father and seized the throne along with the King&amp;rsquo;s wife.&lt;/p&gt;&#xA;&lt;p&gt;One nite in the kingdom of Denmark, the guards, Bernardo and Marcellus, along with Hamlet&amp;rsquo;s friend, Horatio, suddenly encountered a ghost that closely resembled the recently deceased King Hamlet. They swore to tell Prince Hamlet about what they had witnessed.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>My Dinner with Andre</title>
+				<link>http://localhost:1313/en/movies/my-dinner-with-andre/</link>
+				<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/my-dinner-with-andre/</guid>
+				<description>&lt;p&gt;Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Bhagavad Gita</title>
 				<link>http://localhost:1313/en/books/bhagavad-gita/</link>
 				<pubDate>Thu, 05 Mar 2026 04:18:28 +0700</pubDate>
@@ -357,6 +371,13 @@
 				<description>&lt;p&gt;Straw Dogs is a philosophical work that sets out to challenge our most cherished assumptions about what it means to be human. From Plato to Christianity, from the Enlightenment to Nietzsche, Western tradition is founded on arrogant and mistaken beliefs about human beings and their place in the world.&lt;/p&gt;&#xA;&lt;p&gt;Philosophies such as liberalism and Marxism view humanity as a species destined to transcend natural limits and conquer the Earth. Even today, despite Darwin’s discoveries, nearly all schools of thought take as their starting point the belief that humans are radically different from other animals. John Gray argues that this humanist belief is nothing more than an illusion. The aim of &lt;em&gt;Straw Dogs&lt;/em&gt; is to explore what the world and human life would look like once humanism is finally abandoned.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>The Sunset Limited</title>
+				<link>http://localhost:1313/en/movies/the-sunset-limited/</link>
+				<pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-sunset-limited/</guid>
+				<description>&lt;p&gt;Through a chance encounter, two men of opposing ideologies deliberate spiritual, philosophical, and profound matters in a New York City apartment.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Werckmeister Harmonies</title>
 				<link>http://localhost:1313/en/movies/werckmeister-harmonies/</link>
 				<pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
@@ -383,6 +404,13 @@
 				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
 				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nostalgia</title>
+				<link>http://localhost:1313/en/movies/nostalgia/</link>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/nostalgia/</guid>
+				<description>&lt;p&gt;A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sátántangó</title>

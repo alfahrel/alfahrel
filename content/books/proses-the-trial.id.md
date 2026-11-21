@@ -1,10 +1,11 @@
 ---
 title: "Proses (The Trial)"
-date: '2026-10-23T03:18:28+07:00'
+date: '2026-11-21T03:18:28+07:00'
 bookMeta:
   author: "Franz Kafka"
   coverImage: "images/covers/proses-the-trial.png"
-  status: "Reading"
+  status: "Read"
+  rating: 4
   published: "1925"
   pages: 279
   type:  Print

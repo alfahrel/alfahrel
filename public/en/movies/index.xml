@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/movies/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Last Temptation of Christ</title>
+				<link>http://localhost:1313/en/movies/the-last-temptation-of-christ/</link>
+				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-last-temptation-of-christ/</guid>
+				<description>&lt;p&gt;The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Dinner with Andre</title>
+				<link>http://localhost:1313/en/movies/my-dinner-with-andre/</link>
+				<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/my-dinner-with-andre/</guid>
+				<description>&lt;p&gt;Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Sunset Limited</title>
+				<link>http://localhost:1313/en/movies/the-sunset-limited/</link>
+				<pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-sunset-limited/</guid>
+				<description>&lt;p&gt;Through a chance encounter, two men of opposing ideologies deliberate spiritual, philosophical, and profound matters in a New York City apartment.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Werckmeister Harmonies</title>
 				<link>http://localhost:1313/en/movies/werckmeister-harmonies/</link>
@@ -40,6 +61,13 @@
 				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/movies/the-man-from-london/</guid>
 				<description>&lt;p&gt;After witnessing a crime during his night shift as railway switchman near the docks, a man finds a briefcase full of money. While he and his family step up their living standards, others start looking for the disappeared case.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nostalgia</title>
+				<link>http://localhost:1313/en/movies/nostalgia/</link>
+				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/nostalgia/</guid>
+				<description>&lt;p&gt;A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sátántangó</title>

@@ -9,7 +9,7 @@ movieMeta:
   runtime: "2j"
   language: "Hungarian"
   genre: ["Crime", "Drama", "Romance"]
-  rating: 3
+  rating: 5
   posterImage: "images/posters/damnation.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0095475/"
 ---

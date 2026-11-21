@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-11-17T05:18:28+07:00</lastmod>
+    <lastmod>2026-11-21T03:18:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/proses-the-trial/</loc>
+    <lastmod>2026-11-21T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/proses-the-trial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/proses-the-trial/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/books/</loc>
+    <lastmod>2026-11-21T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/songs/high-hopes/</loc>
@@ -249,19 +275,6 @@
                 href="http://localhost:1313/id/books/fear-and-trembling/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/books/</loc>
-    <lastmod>2026-11-11T23:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/"
-                />
-  </url><url>
     <loc>http://localhost:1313/id/books/negeri-binatang/</loc>
     <lastmod>2026-10-23T04:22:28+07:00</lastmod>
     <xhtml:link
@@ -275,17 +288,30 @@
                 href="http://localhost:1313/id/books/negeri-binatang/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/books/proses-the-trial/</loc>
-    <lastmod>2026-10-23T03:18:28+07:00</lastmod>
+    <loc>http://localhost:1313/id/movies/</loc>
+    <lastmod>2026-10-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/books/proses-the-trial/"
+                href="http://localhost:1313/en/movies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/books/proses-the-trial/"
+                href="http://localhost:1313/id/movies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/the-last-temptation-of-christ/</loc>
+    <lastmod>2026-10-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/the-last-temptation-of-christ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/the-last-temptation-of-christ/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/better-never-to-have-been/</loc>
@@ -301,6 +327,19 @@
                 href="http://localhost:1313/id/books/better-never-to-have-been/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/books/dhammapada/</loc>
+    <lastmod>2026-09-28T03:22:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/books/dhammapada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/books/dhammapada/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/upanishad/</loc>
     <lastmod>2026-09-27T01:49:24+07:00</lastmod>
     <xhtml:link
@@ -312,19 +351,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/upanishad/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/books/dhammapada/</loc>
-    <lastmod>2026-09-25T03:22:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/books/dhammapada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/books/dhammapada/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/the-trouble-with-being-born/</loc>
@@ -561,6 +587,19 @@
                 href="http://localhost:1313/id/books/hamlet/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/movies/my-dinner-with-andre/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/my-dinner-with-andre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/my-dinner-with-andre/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/bhagavad-gita/</loc>
     <lastmod>2026-03-05T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -678,17 +717,17 @@
                 href="http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/movies/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/id/movies/the-sunset-limited/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/movies/"
+                href="http://localhost:1313/en/movies/the-sunset-limited/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/movies/"
+                href="http://localhost:1313/id/movies/the-sunset-limited/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/movies/werckmeister-harmonies/</loc>
@@ -741,6 +780,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/the-man-from-london/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/nostalgia/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/nostalgia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/nostalgia/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/movies/satantango/</loc>

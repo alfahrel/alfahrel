@@ -9,7 +9,7 @@ movieMeta:
   runtime: "2h 26m"
   language: "Hungarian"
   genre: ["Period Drama", "Drama", "Tragedy"]
-  rating: 5
+  rating: 9
   posterImage: "images/posters/the-turin-horse.jpg"
   imdbUrl: "https://www.imdb.com/title/tt1316540/"
 ---

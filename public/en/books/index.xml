@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 23:22:28 +0700</lastBuildDate>
+			<lastBuildDate>Sat, 21 Nov 2026 03:18:28 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/books/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Proses (The Trial)</title>
+				<link>http://localhost:1313/en/books/proses-the-trial/</link>
+				<pubDate>Sat, 21 Nov 2026 03:18:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/proses-the-trial/</guid>
+				<description>&lt;p&gt;Joseph K, a bank employee, wakes up one day to find himself accused of a crime he did not commit, a crime that was never revealed to him. After being arrested, he was released, but had to report to court regularly—an annoying routine, as nothing was ever resolved. And as he becomes increasingly unsure of his fate, his personal life becomes increasingly unpredictable.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Fear and Trembling</title>
 				<link>http://localhost:1313/en/books/fear-and-trembling/</link>
@@ -28,13 +35,6 @@
 				<description>&lt;p&gt;The animals of Manor Farm live oppressed by Mr. Jones&amp;rsquo; cruel treatment. One day the animals forgot to be fed so they rebelled and took over the farm from humans, so that all the animals could live freely and happily. But eventually the rebellion was betrayed, and the fate of the animals was even worse than before, under the dictatorship of a pig named Napoleon.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Proses (The Trial)</title>
-				<link>http://localhost:1313/en/books/proses-the-trial/</link>
-				<pubDate>Fri, 23 Oct 2026 03:18:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/proses-the-trial/</guid>
-				<description>&lt;p&gt;Joseph K, a bank employee, wakes up one day to find himself accused of a crime he did not commit, a crime that was never revealed to him. After being arrested, he was released, but had to report to court regularly—an annoying routine, as nothing was ever resolved. And as he becomes increasingly unsure of his fate, his personal life becomes increasingly unpredictable.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Better Never to Have Been: The Harm of Coming into Existence</title>
 				<link>http://localhost:1313/en/books/better-never-to-have-been/</link>
 				<pubDate>Fri, 09 Oct 2026 04:22:28 +0700</pubDate>
@@ -42,18 +42,18 @@
 				<description>&lt;p&gt;Better Never to Have Been argues for a number of related, highly provocative, views: (1) Coming into existence is always a serious harm. (2) It is always wrong to have children. (3) It is wrong not to abort fetuses at the earlier stages of gestation. (4) It would be better if, as a result of there being no new people, humanity became extinct. These views may sound unbelievable&amp;ndash;but anyone who reads Benatar will be obliged to take them seriously.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Dhammapada</title>
+				<link>http://localhost:1313/en/books/dhammapada/</link>
+				<pubDate>Mon, 28 Sep 2026 03:22:28 +0700</pubDate>
+				<guid>http://localhost:1313/en/books/dhammapada/</guid>
+				<description>&lt;p&gt;Dhammapada is a Dhamma word, the words of the Gotama Buddha in the form of poetry (Gatha). There are 423 verses grouped into 26 chapters (vagga).&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Upanisad-Upanisad Utama</title>
 				<link>http://localhost:1313/en/books/upanishad/</link>
 				<pubDate>Sun, 27 Sep 2026 01:49:24 +0700</pubDate>
 				<guid>http://localhost:1313/en/books/upanishad/</guid>
 				<description>&lt;p&gt;The Upanishads, the earliest of which were composed in Sanskrit between 800 and 400 bce by sages and poets, form part of the Vedas - the sacred and ancient scriptures that are the basis of the Hindu religion. Each Upanishad, or lesson, takes up a theme ranging from the attainment of spiritual bliss to karma and rebirth, and collectively they are meditations on life, death and immortality. The essence of their teachings is that truth can by reached by faith rather than by thought, and that the spirit of God is within each of us - we need not fear death as we carry within us the promise of eternal life.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Dhammapada</title>
-				<link>http://localhost:1313/en/books/dhammapada/</link>
-				<pubDate>Fri, 25 Sep 2026 03:22:28 +0700</pubDate>
-				<guid>http://localhost:1313/en/books/dhammapada/</guid>
-				<description>&lt;p&gt;Dhammapada is a Dhamma word, the words of the Gotama Buddha in the form of poetry (Gatha). There are 423 verses grouped into 26 chapters (vagga).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Trouble with Being Born</title>

@@ -9,7 +9,7 @@ movieMeta:
   runtime: "2h 25m"
   language: "Hungarian"
   genre: ["Tragedy", "Drama", "Mystery"]
-  rating: 4
+  rating: 7
   posterImage: "images/posters/werckmeister-harmonies.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0249241/"
 ---
