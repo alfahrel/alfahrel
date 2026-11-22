@@ -28,6 +28,20 @@
 				<description>&lt;p&gt;Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Naked</title>
+				<link>http://localhost:1313/en/movies/naked/</link>
+				<pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/naked/</guid>
+				<description>&lt;p&gt;An unemployed Mancunian vents his rage on unsuspecting strangers as he embarks on a nocturnal London odyssey.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Solaris</title>
+				<link>http://localhost:1313/en/movies/solaris/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/solaris/</guid>
+				<description>&lt;p&gt;A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Sunset Limited</title>
 				<link>http://localhost:1313/en/movies/the-sunset-limited/</link>
 				<pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
@@ -75,6 +89,13 @@
 				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/movies/satantango/</guid>
 				<description>&lt;p&gt;On the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimiás, a former co-worker who they thought was dead, is returning to the community.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Sacrifice</title>
+				<link>http://localhost:1313/en/movies/the-sacrifice/</link>
+				<pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/movies/the-sacrifice/</guid>
+				<description>&lt;p&gt;At the dawn of World War III, a man searches for a way to restore peace to the world and finds he must give something in return.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Turin Horse</title>

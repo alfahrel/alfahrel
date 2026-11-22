@@ -665,6 +665,19 @@
                 href="http://localhost:1313/id/books/the-world-as-will-and-representation-volume-i/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/movies/naked/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/naked/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/naked/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/metamorfosis/</loc>
     <lastmod>2025-12-05T16:22:28+07:00</lastmod>
     <xhtml:link
@@ -728,6 +741,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/walden/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/solaris/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/solaris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/solaris/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/the-last-messiah/</loc>
@@ -845,6 +871,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/satantango/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/the-sacrifice/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/the-sacrifice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/the-sacrifice/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/penderitaan-pemuda-werther/</loc>

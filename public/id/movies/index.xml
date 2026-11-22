@@ -28,6 +28,20 @@
 				<description>&lt;p&gt;Dua orang teman lama bertemu untuk makan malam; saat salah satunya menceritakan anekdot-anekdot yang menguraikan pengalamannya, yang lain menyadari perbedaan pandangan dunia mereka.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Naked</title>
+				<link>http://localhost:1313/id/movies/naked/</link>
+				<pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/naked/</guid>
+				<description>&lt;p&gt;Seorang pria asal Manchester yang menganggur melampiaskan amarahnya kepada orang-orang asing yang tak curiga saat ia memulai petualangan malamnya di London.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Solaris</title>
+				<link>http://localhost:1313/id/movies/solaris/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/solaris/</guid>
+				<description>&lt;p&gt;Seorang psikolog dikirim ke sebuah stasiun yang mengorbit planet yang jauh untuk mencari tahu apa yang menyebabkan para awak stasiun tersebut menjadi gila.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Sunset Limited</title>
 				<link>http://localhost:1313/id/movies/the-sunset-limited/</link>
 				<pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
@@ -75,6 +89,13 @@
 				<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/id/movies/satantango/</guid>
 				<description>&lt;p&gt;Menjelang pembayaran besar, penduduk pertanian kolektif yang runtuh melihat rencana mereka berubah menjadi kehancuran ketika mereka menemukan bahwa Irimiás, mantan rekan kerja yang mereka pikir sudah mati, kembali ke masyarakat.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Sacrifice</title>
+				<link>http://localhost:1313/id/movies/the-sacrifice/</link>
+				<pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/id/movies/the-sacrifice/</guid>
+				<description>&lt;p&gt;Di awal Perang Dunia III, seorang pria mencari cara untuk memulihkan perdamaian di dunia dan menyadari bahwa ia harus memberikan sesuatu sebagai gantinya.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Turin Horse</title>
