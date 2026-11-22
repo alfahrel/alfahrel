@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2026-11-21T03:18:28+07:00</lastmod>
+    <lastmod>2026-11-22T17:20:28+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/</loc>
+    <lastmod>2026-11-22T17:20:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/shine-on-you-crazy-diamond-pts-6-9/</loc>
+    <lastmod>2026-11-22T17:20:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/shine-on-you-crazy-diamond-pts-6-9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/shine-on-you-crazy-diamond-pts-6-9/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/welcome-to-the-machine/</loc>
+    <lastmod>2026-11-22T17:19:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/welcome-to-the-machine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/welcome-to-the-machine/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/songs/shine-on-you-crazy-diamond-pts-1-5/</loc>
+    <lastmod>2026-11-22T17:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/shine-on-you-crazy-diamond-pts-1-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/shine-on-you-crazy-diamond-pts-1-5/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/proses-the-trial/</loc>
@@ -52,19 +104,6 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/songs/high-hopes/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/id/songs/</loc>
-    <lastmod>2026-11-17T05:18:28+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/songs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/songs/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/songs/keep-talking/</loc>
