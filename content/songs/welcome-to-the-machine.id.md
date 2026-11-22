@@ -52,15 +52,7 @@ You dreamed of a big star
 He played a mean guitar
 He always ate in the Steak Bar
 He loved to drive in his Jaguar
-You might also like
-Wish You Were Here
-Pink Floyd
-Have a Cigar
-Pink Floyd
-Depleted
-The Ice-Cream Guy
-Shine On You Crazy Diamond, Pts. 1-5
-Pink Floyd
+
 [Refrain]
 So welcome to the machine
 
