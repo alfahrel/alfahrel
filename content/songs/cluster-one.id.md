@@ -19,6 +19,6 @@ songMeta:
 ## Tentang
 Durasi lagu ini hampir 6 menit, namun terasa seolah-olah ini adalah karya sebuah grup utuh, bukan sekadar proyek solo. Apa pun alasannya, “Cluster One” sangat cocok sebagai lagu pembuka. Dimulai dengan klip pulsa elektromagnetik matahari—yang membuat beberapa orang berpikir dengan lucu bahwa salinan The Division Bell mereka rusak—lagu ini kemudian beralih ke gelombang-gelombang synth, lalu menjadi aransemen orkestra yang dipimpin oleh grand piano, penuh dengan sampel piano terbalik dan synth pad, serta iringan orkestra. Dengan demikian, “Cluster One” membantu magnum opus ini berkembang secara bertahap.
 
-## Lyrics
+## Lirik
 
 This song is an instrumental

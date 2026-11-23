@@ -27,6 +27,6 @@ Untuk memperingati 20 tahun perilisan *The Division Bell* pada tahun 2014, sebua
 
 Sebagai penghormatan atas pencapaian mereka sebelumnya dan sebagai tribut kepada almarhum Richard Wright, album *The Endless River* dari Pink Floyd dirilis. “Night Light”, lagu ke-10 dari album tersebut, mengangkat kembali kenangan akan lagu ini.
 
-## Lyrics
+## Lirik
 
 This song is an instrumental

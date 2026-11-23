@@ -26,46 +26,37 @@ Sama seperti lagu pembuka, sebagian besar lagu ini murni instrumental. Lirik bar
 Selain itu, terdapat lirik dalam lagu Pink Floyd berjudul *Brain Damage* dari album *DSOTM*, yang berbunyi “I’ll see you on the dark side of the moon”. Roger Waters pernah mengatakan bahwa lirik *Brain Damage* yang bertema kegilaan tersebut terinspirasi dari Syd, sama seperti lagu ini. Mungkin lirik di sini merujuk pada apa yang sebelumnya dikatakan Waters kepada Syd dalam “Brain Damage”, bahwa ia akan “bergabung denganmu di sana” (yaitu Sisi Gelap Bulan), dan “Pile on many more layers” secara metaforis bisa jadi merupakan instruksi kepada Syd untuk mengenakan pakaian hangat/bersiap dengan baik karena sisi gelap bulan yang sebenarnya sangat dingin, jauh lebih dingin daripada sisi yang dapat kita lihat dari Bumi.
 
 
-## Lyrics
+## Lirik
 
-[Part VI: 0:00-4:38]
+[Part VI: 0:00-4:38] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part VII: 4:38-6:02]
+[Part VII: 4:38-6:02] \
 
-[Verse 1: Roger Waters, Roger Waters & Richard Wright]
-Nobody knows where you are
-How near or how far
+[Verse 1: Roger Waters, Roger Waters & Richard Wright] \
+Nobody knows where you are \
+How near or how far \
 
-[Refrain: Roger Waters & David Gilmour, David Gilmour]
-Shine on (Shine on), you crazy diamond (You crazy diamond)
+[Refrain: Roger Waters & David Gilmour, David Gilmour] \
+Shine on (Shine on), you crazy diamond (You crazy diamond) \
 
-[Verse 2: Roger Waters, Roger Waters & Richard Wright]
-Pile on many more layers
-And I'll be joining you there
+[Verse 2: Roger Waters, Roger Waters & Richard Wright] \
+Pile on many more layers \
+And I'll be joining you there \
 
-[Refrain: Roger Waters & David Gilmour, David Gilmour]
-Shine on (Shine on), you crazy diamond (You crazy diamond)
+[Refrain: Roger Waters & David Gilmour, David Gilmour] \
+Shine on (Shine on), you crazy diamond (You crazy diamond) \
 
-[Chorus: Roger Waters]
-And we'll bask in the shadow of yesterday's triumph
-And sail on the steel breeze
-Come on, you boy child, you winner and loser
-Come on, you miner for truth and delusion, and shine
-You might also like
-Wish You Were Here
-Pink Floyd
-Shine On You Crazy Diamond, Pts. 1-5
-Pink Floyd
-Losing Battles
-Major Moment
-Welcome to the Machine
-Pink Floyd
-[Part VIII: 6:02-9:03]
+[Chorus: Roger Waters] \
+And we'll bask in the shadow of yesterday's triumph \
+And sail on the steel breeze \
+Come on, you boy child, you winner and loser \
+Come on, you miner for truth and delusion, and shine \
+[Part VIII: 6:02-9:03] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part IX: 9:03-12:27]
+[Part IX: 9:03-12:27] \
 
-[Instrumental]
+[Instrumental] \

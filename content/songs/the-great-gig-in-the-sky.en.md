@@ -22,16 +22,16 @@ The song talks to the pressure of mortality on life, with the “Great Gig in th
 
 ## Lyrics
 
-[Intro: Gerry O'Driscoll]
-And I am not frightened of dying, you know
-Any time will do, I don't mind
-Why should I be frightened of dying?
-There's no reason for it
-You've gotta go sometime
+[Intro: Gerry O'Driscoll] \
+And I am not frightened of dying, you know \
+Any time will do, I don't mind \
+Why should I be frightened of dying? \
+There's no reason for it \
+You've gotta go sometime \
 
-[Non-Lyrical Vocals: Clare Torry]
+[Non-Lyrical Vocals: Clare Torry] \
 
-[Interlude: Patricia Watts]
-I never said I was frightened of dying
+[Interlude: Patricia Watts] \
+I never said I was frightened of dying \
 
-[Non-Lyrical Vocals: Clare Torry]
+[Non-Lyrical Vocals: Clare Torry] \

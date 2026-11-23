@@ -22,6 +22,6 @@ Ini adalah satu-satunya lagu Pink Floyd yang kredit penulisan lagunya atas nama 
 
 Lagu ini digubah dan direkam saat Roger Waters sedang berlibur. Oleh karena itu, trek bassnya adalah yang direkam untuk “Breathe”. Dalam buku tablatur album tersebut, lagu ini bahkan terdaftar sebagai “Breathe (Second Reprise)” karena urutan akordnya hampir sama, tetapi ditransposisikan turun dari E minor ke D minor.
 
-## Lyrics
+## Lirik
 
 This song is an instrumental

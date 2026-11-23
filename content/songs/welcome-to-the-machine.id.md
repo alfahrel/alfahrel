@@ -24,39 +24,39 @@ Lagu ini dapat ditafsirkan dalam dua cara utama:
 - pandangan tajam Pink Floyd sendiri terhadap industri musik;
 - visi distopia tentang masyarakat masa kini atau masa depan tempat kita hidup; masyarakat ini digambarkan sebagai sebuah mesin yang membentuk hidup kita sejak lahir (seperti dalam novel “Brave New World” karya Huxley).
 
-## Lyrics
+## Lirik
 
-[Instrumental Intro]
+[Instrumental Intro] \
 
-[Verse 1: David Gilmour]
-Welcome my son
-Welcome to the machine
-Where have you been?
-It's all right, we know where you've been
-You've been in the pipeline filling in time
-Provided with toys and scouting for boys
-You bought a guitar to punish your ma
-You didn't like school and you know you're nobody's fool
+[Verse 1: David Gilmour] \
+Welcome my son \
+Welcome to the machine \
+Where have you been? \
+It's all right, we know where you've been \
+You've been in the pipeline filling in time \
+Provided with toys and scouting for boys \
+You bought a guitar to punish your ma \
+You didn't like school and you know you're nobody's fool \
 
-[Refrain]
-So welcome to the machine
+[Refrain] \
+So welcome to the machine \
 
-[Instrumental Break]
+[Instrumental Break] \
 
-[Verse 2: David Gilmour]
-Welcome my son
-Welcome to the machine
-What did you dream?
-It's all right, we told you what to dream
-You dreamed of a big star
-He played a mean guitar
-He always ate in the Steak Bar
-He loved to drive in his Jaguar
+[Verse 2: David Gilmour] \
+Welcome my son \
+Welcome to the machine \
+What did you dream? \
+It's all right, we told you what to dream \
+You dreamed of a big star \
+He played a mean guitar \
+He always ate in the Steak Bar \
+He loved to drive in his Jaguar \
 
-[Refrain]
-So welcome to the machine
+[Refrain] \
+So welcome to the machine \
 
-[Synthesizer Solo]
+[Synthesizer Solo] \
 
-[Outro]
-(*People talking and laughing*)
+[Outro] \
+(*People talking and laughing*) \

@@ -23,67 +23,59 @@ Barrett always remained a source of inspiration. In fact, after many years of no
 
 ## Lyrics
 
-[Part I: 0:00-3:53]
+[Part I: 0:00-3:53] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part II: 3:53-6:26]
+[Part II: 3:53-6:26] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part III: 6:26-8:40]
+[Part III: 6:26-8:40] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part IV: 8:40-11:08]
+[Part IV: 8:40-11:08] \
 
-[Verse 1: Roger Waters, Roger Waters & Richard Wright]
-Remember when you were young? (Hahahaha)
-You shone like the Sun
+[Verse 1: Roger Waters, Roger Waters & Richard Wright] \
+Remember when you were young? (Hahahaha) \
+You shone like the Sun \
 
-[Refrain: Roger Waters & David Gilmour]
-Shine on, you crazy diamond
+[Refrain: Roger Waters & David Gilmour] \
+Shine on, you crazy diamond \
 
-[Verse 2: Roger Waters, Roger Waters & Richard Wright]
-Now there's a look in your eyes
-Like black holes in the sky
+[Verse 2: Roger Waters, Roger Waters & Richard Wright] \
+Now there's a look in your eyes \
+Like black holes in the sky \
 
-[Refrain: Roger Waters & David Gilmour]
-Shine on, you crazy diamond
-You might also like
-Wish You Were Here
-Pink Floyd
-Welcome to the Machine
-Pink Floyd
-Murder Your Love
-Kamera Jr.
-Flowers
-Miley Cyrus
-[Chorus: Roger Waters]
-You were caught in the crossfire of childhood and stardom
-Blown on the steel breeze
-Come on, you target for faraway laughter
-Come on, you stranger, you legend, you martyr, and shine
+[Refrain: Roger Waters & David Gilmour] \
+Shine on, you crazy diamond \
 
-[Verse 3: Roger Waters, Roger Waters & Richard Wright]
-You reached for the secret too soon
-You cried for the Moon
+[Chorus: Roger Waters] \
+You were caught in the crossfire of childhood and stardom \
+Blown on the steel breeze \
+Come on, you target for faraway laughter \
+Come on, you stranger, you legend, you martyr, and shine \
 
-[Refrain: Roger Waters & David Gilmour]
-Shine on, you crazy diamond
+[Verse 3: Roger Waters, Roger Waters & Richard Wright] \
+You reached for the secret too soon \
+You cried for the Moon \
 
-[Verse 4: Roger Waters, Roger Waters & Richard Wright]
-Threatened by shadows at night
-And exposed in the light
+[Refrain: Roger Waters & David Gilmour] \
+Shine on, you crazy diamond \
 
-[Refrain: Roger Waters & David Gilmour]
-Shine on (Shine on), you crazy diamond (You crazy diamond)
+[Verse 4: Roger Waters, Roger Waters & Richard Wright] \
+Threatened by shadows at night \
+And exposed in the light \
 
-[Chorus: Roger Waters]
-Well, you wore out your welcome with random precision
-Rode on the steel breeze
-Come on, you raver, you seer of visions
-Come on, you painter, you piper, you prisoner, and shine
-[Part V: 11:08-13:31]
+[Refrain: Roger Waters & David Gilmour] \
+Shine on (Shine on), you crazy diamond (You crazy diamond) \
 
-[Instrumental]
+[Chorus: Roger Waters] \
+Well, you wore out your welcome with random precision \
+Rode on the steel breeze \
+Come on, you raver, you seer of visions \
+Come on, you painter, you piper, you prisoner, and shine \
+[Part V: 11:08-13:31] \
+
+[Instrumental] \

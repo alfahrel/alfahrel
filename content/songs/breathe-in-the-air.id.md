@@ -22,30 +22,30 @@ Lagu ini secara longgar terinspirasi dari penampilan Roger Waters dan Ron Geesin
 
 Lagu ini memanfaatkan secara maksimal efek phaser Uni-Vibe yang dioperasikan dengan pedal gitar, yang dimainkan oleh Gilmour, gitaris lama Pink Floyd. Ia kemudian merilis versi akustiknya dalam album *Live in Gdansk*.
 
-## Lyrics
+## Lirik
 
-[Instrumental Intro]
+[Instrumental Intro] \
 
-[Verse 1]
-Breathe, breathe in the air
-Don't be afraid to care
-Leave, but don't leave me
-Look around and choose your own ground
+[Verse 1] \
+Breathe, breathe in the air \
+Don't be afraid to care \
+Leave, but don't leave me \
+Look around and choose your own ground \
 
-[Chorus]
-For long you live and high you fly
-And smiles you'll give and tears you'll cry
-And all you touch and all you see
-Is all your life will ever be
+[Chorus] \
+For long you live and high you fly \
+And smiles you'll give and tears you'll cry \
+And all you touch and all you see \
+Is all your life will ever be \
 
-[Verse 2]
-Run, rabbit, run
-Dig that hole, forget the sun
-And when at last the work is done
-Don't sit down, it's time to dig another one
+[Verse 2] \
+Run, rabbit, run \
+Dig that hole, forget the sun \
+And when at last the work is done \
+Don't sit down, it's time to dig another one \
 
-[Chorus]
-For long you live and high you fly
-But only if you ride the tide
-And balanced on the biggest wave
-You race towards an early grave
+[Chorus] \
+For long you live and high you fly \
+But only if you ride the tide \
+And balanced on the biggest wave \
+You race towards an early grave \

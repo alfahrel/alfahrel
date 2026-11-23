@@ -27,44 +27,35 @@ Also, there is a lyric in Pink Floyd’s song Brain Damage from DSOTM, which say
 
 ## Lyrics
 
-[Part VI: 0:00-4:38]
+[Part VI: 0:00-4:38] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part VII: 4:38-6:02]
+[Part VII: 4:38-6:02] \
 
-[Verse 1: Roger Waters, Roger Waters & Richard Wright]
-Nobody knows where you are
-How near or how far
+[Verse 1: Roger Waters, Roger Waters & Richard Wright] \
+Nobody knows where you are \
+How near or how far \
 
-[Refrain: Roger Waters & David Gilmour, David Gilmour]
-Shine on (Shine on), you crazy diamond (You crazy diamond)
+[Refrain: Roger Waters & David Gilmour, David Gilmour] \
+Shine on (Shine on), you crazy diamond (You crazy diamond) \
 
-[Verse 2: Roger Waters, Roger Waters & Richard Wright]
-Pile on many more layers
-And I'll be joining you there
+[Verse 2: Roger Waters, Roger Waters & Richard Wright] \
+Pile on many more layers \
+And I'll be joining you there \
 
-[Refrain: Roger Waters & David Gilmour, David Gilmour]
-Shine on (Shine on), you crazy diamond (You crazy diamond)
+[Refrain: Roger Waters & David Gilmour, David Gilmour] \
+Shine on (Shine on), you crazy diamond (You crazy diamond) \
 
-[Chorus: Roger Waters]
-And we'll bask in the shadow of yesterday's triumph
-And sail on the steel breeze
-Come on, you boy child, you winner and loser
-Come on, you miner for truth and delusion, and shine
-You might also like
-Wish You Were Here
-Pink Floyd
-Shine On You Crazy Diamond, Pts. 1-5
-Pink Floyd
-Losing Battles
-Major Moment
-Welcome to the Machine
-Pink Floyd
-[Part VIII: 6:02-9:03]
+[Chorus: Roger Waters] \
+And we'll bask in the shadow of yesterday's triumph \
+And sail on the steel breeze \
+Come on, you boy child, you winner and loser \
+Come on, you miner for truth and delusion, and shine \
+[Part VIII: 6:02-9:03] \
 
-[Instrumental]
+[Instrumental] \
 
-[Part IX: 9:03-12:27]
+[Part IX: 9:03-12:27] \
 
-[Instrumental]
+[Instrumental] \

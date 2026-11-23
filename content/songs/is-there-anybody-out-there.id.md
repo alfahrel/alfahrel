@@ -19,15 +19,15 @@ songMeta:
 ## Tentang
 Saat mempertanyakan apakah ada orang lain di luar sana, Pink mulai menyadari betapa luasnya tembok yang ia bangun serta konsekuensi dari pengasingan diri yang ia pilih sendiri. Lagu tersebut kemudian menjadi judul album live dari tur The Wall.
 
-## Lyrics
+## Lirik
 
-[Intro]
-”Well, only got an hour of daylight left, better get started. Isn't it unsafe to travel at night? It'll be a lot less safe to stay here. Your father's gonna pick up our trail before long. Can Lorca ride? He'll have to ride. Lorca, time to go! Chengra, thank you for everything. Let's go. Goodbye, Chengra, Goodbye, Missy! I'll be back one day”
+[Intro] \
+”Well, only got an hour of daylight left, better get started. Isn't it unsafe to travel at night? It'll be a lot less safe to stay here. Your father's gonna pick up our trail before long. Can Lorca ride? He'll have to ride. Lorca, time to go! Chengra, thank you for everything. Let's go. Goodbye, Chengra, Goodbye, Missy! I'll be back one day” \
 
-[Refrain]
-Is there anybody out there?
-Is there anybody out there?
-Is there anybody out there?
-Ah, is there anybody out there?
+[Refrain] \
+Is there anybody out there? \
+Is there anybody out there? \
+Is there anybody out there? \
+Ah, is there anybody out there? \
 
-[Acoustic Guitar Solo]
+[Acoustic Guitar Solo] \

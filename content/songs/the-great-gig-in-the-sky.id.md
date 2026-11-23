@@ -20,18 +20,18 @@ songMeta:
 
 Lagu ini mengangkat tema tekanan akan kematian dalam kehidupan, dengan frasa “Great Gig in the Sky” yang merujuk pada surga atau kehidupan setelah kematian
 
-## Lyrics
+## Lirik
 
-[Intro: Gerry O'Driscoll]
-And I am not frightened of dying, you know
-Any time will do, I don't mind
-Why should I be frightened of dying?
-There's no reason for it
-You've gotta go sometime
+[Intro: Gerry O'Driscoll] \
+And I am not frightened of dying, you know \
+Any time will do, I don't mind \
+Why should I be frightened of dying? \
+There's no reason for it \
+You've gotta go sometime \
 
-[Non-Lyrical Vocals: Clare Torry]
+[Non-Lyrical Vocals: Clare Torry] \
 
-[Interlude: Patricia Watts]
-I never said I was frightened of dying
+[Interlude: Patricia Watts] \
+I never said I was frightened of dying \
 
-[Non-Lyrical Vocals: Clare Torry]
+[Non-Lyrical Vocals: Clare Torry] \
