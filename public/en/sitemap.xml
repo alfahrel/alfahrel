@@ -847,6 +847,19 @@
                 href="http://localhost:1313/id/movies/the-man-from-london/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/movies/mother-and-son/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/mother-and-son/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/mother-and-son/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/movies/nostalgia/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -871,6 +884,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/satantango/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/movies/synecdoche-new-york/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/synecdoche-new-york/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/synecdoche-new-york/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/movies/taste-of-cherry/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/taste-of-cherry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/taste-of-cherry/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/movies/the-sacrifice/</loc>
