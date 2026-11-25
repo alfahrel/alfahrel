@@ -7,7 +7,7 @@ songMeta:
   album: "The Dark Side of the Moon"
   writer: "Clare Torry & Richard Wright"
   released: "March 1, 1973"
-  duration: "4:43"
+  duration: "04:43"
   country: "UK"
   language: "English"
   genre: ["Experimental Rock", "Psychedelic Rock"]

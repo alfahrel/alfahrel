@@ -7,7 +7,7 @@ songMeta:
   album: "The Dark Side of the Moon"
   writer: "Richard Wright, Nick Mason & David Gilmour"
   released: "March 1, 1973"
-  duration: "3:26"
+  duration: "03:26"
   country: "UK"
   language: "English"
   genre: ["Rock", "Instrumental", "Psychedelic Rock"]

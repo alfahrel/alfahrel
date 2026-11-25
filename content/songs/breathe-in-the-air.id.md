@@ -7,7 +7,7 @@ songMeta:
   album: "The Dark Side of the Moon"
   writer: "Richard Wright, David Gilmour & Roger Waters"
   released: "March 1, 1973"
-  duration: "2:50"
+  duration: "02:50"
   country: "UK"
   language: "English"
   genre: ["Rock", "Progressive Rock", "Psychedelic Rock"]

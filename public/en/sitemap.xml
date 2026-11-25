@@ -1279,6 +1279,45 @@
                 href="http://localhost:1313/id/books/sejarah-filsafat-barat/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/songs/rimpang/</loc>
+    <lastmod>2023-03-03T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/rimpang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/rimpang/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/ternak-digembala/</loc>
+    <lastmod>2023-03-03T03:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/ternak-digembala/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/ternak-digembala/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/songs/bergeming/</loc>
+    <lastmod>2023-03-03T01:18:28+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/songs/bergeming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/songs/bergeming/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"

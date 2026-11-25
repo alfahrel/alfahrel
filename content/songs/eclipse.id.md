@@ -7,7 +7,7 @@ songMeta:
   album: "The Dark Side of the Moon"
   writer: "Roger Waters"
   released: "March 1, 1973"
-  duration: "2:11"
+  duration: "02:11"
   country: "UK"
   language: "English"
   genre: ["Rock", "Space Rock", "Gospel"]
