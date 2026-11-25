@@ -717,6 +717,19 @@
                 href="http://localhost:1313/id/books/-1984/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/movies/samsara/</loc>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/samsara/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/samsara/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/books/alam-dan-berdikari/</loc>
     <lastmod>2025-11-11T04:18:28+07:00</lastmod>
     <xhtml:link
@@ -873,6 +886,19 @@
                 href="http://localhost:1313/id/movies/nostalgia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/movies/oslo-august-31st/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/oslo-august-31st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/oslo-august-31st/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/movies/satantango/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -910,6 +936,19 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/movies/taste-of-cherry/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/movies/winter-light/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/winter-light/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/winter-light/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/movies/the-sacrifice/</loc>
