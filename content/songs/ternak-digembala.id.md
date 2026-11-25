@@ -1,6 +1,6 @@
 ---
 title: "Ternak Digembala"
-date: '2023-03-03T03:18:28+07:00'
+date: '2023-03-03T02:18:28+07:00'
 songMeta:
   status: "Listened"
   artist: "Efek Rumah Kaca"
