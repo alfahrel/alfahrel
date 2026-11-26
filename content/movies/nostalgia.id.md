@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0086022/"
 ---
 
+{{< youtube QDax5tf2aqo >}}
+
 Seorang penyair Rusia dan penerjemahnya melakukan perjalanan ke Italia untuk meneliti kehidupan seorang komposer abad ke-18, namun justru bertemu dengan seorang gila yang suka merenung, yang menceritakan kepada sang penyair bagaimana dunia dapat diselamatkan.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt1736633/"
 ---
 
+{{< youtube 0QpTqYoEzto >}}
+
 Sebuah hari dalam kehidupan Anders, seorang pemuda mantan pecandu narkoba yang sedang dalam proses pemulihan, yang mengambil cuti singkat dari pusat rehabilitasi untuk mengikuti wawancara kerja dan bertemu kembali dengan teman-teman lamanya di Oslo.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0095497/"
 ---
 
+{{< youtube qJKxg4p-Alk >}}
+
 Kehidupan Yesus Kristus, perjalanan hidup-Nya saat menghadapi berbagai cobaan yang juga dialami oleh semua manusia, serta pencobaan terakhir-Nya di kayu salib.

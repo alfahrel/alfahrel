@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt1510938/"
 ---
 
+{{< youtube khvDOm4UvRo >}}
+
 Through a chance encounter, two men of opposing ideologies deliberate spiritual, philosophical, and profound matters in a New York City apartment.

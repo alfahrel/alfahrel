@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0082783/"
 ---
 
+{{< youtube n7hSY0QOkII >}}
+
 Dua orang teman lama bertemu untuk makan malam; saat salah satunya menceritakan anekdot-anekdot yang menguraikan pengalamannya, yang lain menyadari perbedaan pandangan dunia mereka.

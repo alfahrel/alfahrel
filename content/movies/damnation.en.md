@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0095475/"
 ---
 
+{{< youtube x8LvUAdqkAE >}}
+
 A lonely barfly falls in love with a married bar singer.

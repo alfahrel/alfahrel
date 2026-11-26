@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0119711/"
 ---
 
+{{< youtube E7GRtbW64SM >}}
+
 A man goes for a walk through the countryside with his dying mother.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0069293/"
 ---
 
+{{< youtube wT8Y7DGQn7M >}}
+
 Seorang psikolog dikirim ke sebuah stasiun yang mengorbit planet yang jauh untuk mencari tahu apa yang menyebabkan para awak stasiun tersebut menjadi gila.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0383028/"
 ---
 
+{{< youtube XIizh6nYnTU >}}
+
 A theater director struggles with his work and the women in his life as he creates a life-size replica of New York City inside a warehouse as part of his new play.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0082783/"
 ---
 
+{{< youtube n7hSY0QOkII >}}
+
 Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.

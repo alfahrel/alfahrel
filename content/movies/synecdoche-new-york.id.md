@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0383028/"
 ---
 
+{{< youtube XIizh6nYnTU >}}
+
 Seorang sutradara teater berjuang menghadapi pekerjaannya dan para wanita dalam hidupnya saat ia membuat replika Kota New York seukuran aslinya di dalam sebuah gudang sebagai bagian dari drama barunya.

@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0095497/"
 ---
 
+{{< youtube qJKxg4p-Alk >}}
+
 The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.

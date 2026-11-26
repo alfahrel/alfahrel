@@ -9,9 +9,11 @@ movieMeta:
   runtime: "1h 21m"
   language: "Swedish"
   genre: ["Swedish", "Psychological Drama", "Drama"]
-  rating: 6
+  rating: 8
   posterImage: "images/posters/winter-light.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0057358/"
 ---
+
+{{< youtube S_ihGR6Wung >}}
 
 A small-town priest struggles with his faith.

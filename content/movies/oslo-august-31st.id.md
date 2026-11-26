@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt1736633/"
 ---
 
+{{< youtube 0QpTqYoEzto >}}
+
 One day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.

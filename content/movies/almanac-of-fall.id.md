@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0087855/"
 ---
 
+{{< youtube 1gnHErxA4zA >}}
+
 Sebuah apartemen yang luas namun terasa sesak menjadi latar belakang drama kamar yang intens ini. Di dalam suasana yang begitu padat ini, para penghuni apartemen tersebut mengungkap rahasia tergelap, ketakutan, obsesi, dan permusuhan mereka.

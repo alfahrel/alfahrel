@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0091670/"
 ---
 
+{{< youtube ODJb2-PLu7Y >}}
+
 At the dawn of World War III, a man searches for a way to restore peace to the world and finds he must give something in return.

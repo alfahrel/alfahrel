@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0086022/"
 ---
 
+{{< youtube QDax5tf2aqo >}}
+
 A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.

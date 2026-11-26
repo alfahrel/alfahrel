@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0249241/"
 ---
 
+{{< youtube -tJVdq_G_Go >}}
+
 A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.

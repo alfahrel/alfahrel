@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0095475/"
 ---
 
+{{< youtube x8LvUAdqkAE >}}
+
 Seorang pengunjung bar yang kesepian jatuh cinta pada seorang penyanyi bar yang sudah menikah.

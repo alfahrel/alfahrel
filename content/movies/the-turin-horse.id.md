@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt1316540/"
 ---
 
+{{< youtube ZNkN_xCXozw >}}
+
 Badai angin yang dahsyat dan penolakan seekor kuda yang disiksa untuk bekerja atau makan menandai awal dari akhir bagi seorang petani miskin dan putrinya.

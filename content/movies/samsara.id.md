@@ -14,4 +14,6 @@ movieMeta:
   imdbUrl: "https://www.imdb.com/title/tt0770802/"
 ---
 
+{{< youtube HCkEILshUyU >}}
+
 Difilmkan selama hampir lima tahun di dua puluh lima negara di lima benua, serta direkam menggunakan film 70 milimeter, *Samsara* membawa kita menjelajahi beragam dunia, mulai dari tempat-tempat suci, kawasan bencana, kompleks industri, hingga keajaiban alam.
