@@ -8,10 +8,17 @@
 # site root — your file replaces this one wholesale, it does not merge into it.
 en:
   lines:
-    - pre: "every rating here "
-      accent: "is personal!"
+    - pre: "every rating here \n"
+      accent: "is personal"
+    - pre: "you can change the language \n"
+      accent: "from the navbar"
+    - pre: "use search if you looking \n"
+      accent: "for something spesific"
 id:
   lines:
-  - pre: "setiap penilaian di sini "
-    accent: "bersifat pribadi"
-
+    - pre: "setiap penilaian di sini \n"
+      accent: "bersifat pribadi"
+    - pre: "ubah bahasa situs \n"
+      accent: "dari navbar"
+    - pre: "gunakan fitur pencarian untuk \n"
+      accent: "menemukan sesuatu spesifik"

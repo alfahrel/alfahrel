@@ -206,7 +206,7 @@ a:hover { color: var(--accent); }
   align-self: stretch;
   gap: 24px;
 }
-.masthead__tagline { font-size: 14px; color: var(--muted); }
+.masthead__tagline { font-size: 14px; color: var(--muted);}
 
 /* Typed line. Every line is laid out invisibly in the same grid cell so the
    block height equals the tallest line and nothing ever shifts. */
