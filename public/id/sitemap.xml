@@ -782,6 +782,19 @@
                 href="http://localhost:1313/id/books/the-last-messiah/"
                 />
   </url><url>
+    <loc>http://localhost:1313/id/movies/andrei-rublev/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/andrei-rublev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/andrei-rublev/"
+                />
+  </url><url>
     <loc>http://localhost:1313/id/books/straw-dogs-thoughts-on-humans-and-other-animals/</loc>
     <lastmod>2025-02-17T04:10:28+07:00</lastmod>
     <xhtml:link
@@ -1001,6 +1014,32 @@
                 rel="alternate"
                 hreflang="id-ID"
                 href="http://localhost:1313/id/books/eksistensialisme-adalah-humanisme/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/nebraska/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/nebraska/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/nebraska/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/id/movies/there-is-no-evil/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/movies/there-is-no-evil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:1313/id/movies/there-is-no-evil/"
                 />
   </url><url>
     <loc>http://localhost:1313/id/books/the-interpretation-of-dreams/</loc>
