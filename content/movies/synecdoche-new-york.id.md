@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2j 4m"
   language: "English"
   genre: ["Dark Comedy", "Psychological Drama", "Drama"]
-  rating: 8
   posterImage: "images/posters/synecdoche-new-york.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0383028/"
 ---

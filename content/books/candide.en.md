@@ -4,7 +4,6 @@ date: '2026-05-26T03:18:28+07:00'
 bookMeta:
   author: "Voltaire"
   coverImage: "images/covers/candide.png"
-  rating: 5
   status: "Read"
   published: "1759"
   pages: 153

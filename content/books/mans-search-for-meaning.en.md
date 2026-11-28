@@ -4,7 +4,6 @@ date: '2023-08-02T04:18:28+07:00'
 bookMeta:
   author: "Viktor E. Frankl"
   coverImage: "images/covers/mans-search-for-meaning.png"
-  rating: 4
   status: "Read"
   published: "1946"
   pages: 256

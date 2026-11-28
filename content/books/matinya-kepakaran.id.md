@@ -4,7 +4,6 @@ date: '2023-06-05T04:18:28+07:00'
 bookMeta:
   author: "Tom Nichols"
   coverImage: "images/covers/matinya-kepakaran.png"
-  rating: 4
   status: "Read"
   published: "2017"
   pages: 294

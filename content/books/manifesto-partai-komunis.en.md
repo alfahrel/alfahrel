@@ -4,7 +4,6 @@ date: '2023-07-12T04:18:28+07:00'
 bookMeta:
   author: "Karl Marx"
   coverImage: "images/covers/manifesto-partai-komunis.png"
-  rating: 3
   status: "Read"
   published: "1848"
   pages: 103

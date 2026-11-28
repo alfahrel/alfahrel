@@ -4,7 +4,6 @@ date: '2025-12-05T06:18:28+07:00'
 bookMeta:
   author: "Jonathan Swift"
   coverImage: "images/covers/perjalanan-gulliver.png"
-  rating: 5
   status: "Read"
   published: "1726"
   pages: 356

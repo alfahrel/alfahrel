@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2h 29m"
   language: "Swedish, English, French"
   genre: ["Swedish", "Psychological Drama", "Drama", "Tragedy"]
-  rating: 7
   posterImage: "images/posters/the-sacrifice.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0091670/"
 ---

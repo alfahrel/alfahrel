@@ -5,7 +5,6 @@ bookMeta:
   author: "Franz Kafka"
   coverImage: "images/covers/proses-the-trial.png"
   status: "Read"
-  rating: 4
   published: "1925"
   pages: 279
   type:  Print

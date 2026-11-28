@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["UK Rock", "Progressive Rock", "Rock"]
-  rating: 5
   coverImage: "images/album_covers/the-wall.png"
   spotifyUrl: "https://open.spotify.com/track/5HAjss9faCAowGY8dM24r6?si=6a06b41f19934bee"
 ---

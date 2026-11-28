@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2h 5m"
   language: "Russian, Italian"
   genre: ["Italian", "Psychological Drama", "Drama"]
-  rating: 9
   posterImage: "images/posters/nostalgia.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0086022/"
 ---

@@ -4,7 +4,6 @@ date: '2024-04-29T04:18:28+07:00'
 bookMeta:
   author: "Sigmund Freud"
   coverImage: "images/covers/civilization-and-its-discontents.png"
-  rating: 3
   status: "Read"
   published: "1930"
   pages: 118

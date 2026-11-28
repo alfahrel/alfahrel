@@ -4,7 +4,6 @@ date: '2026-06-05T04:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"
   coverImage: "images/covers/nausea.jpeg"
-  rating: 5
   status: "Read"
   published: "1938"
   pages:  178

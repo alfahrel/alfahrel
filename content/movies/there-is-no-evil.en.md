@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2h 31m"
   language: "Persian"
   genre: ["Persian", "Political Drama", "Drama"]
-  rating: 8
   posterImage: "images/posters/there-is-no-evil.jpg"
   imdbUrl: "https://www.imdb.com/title/tt11697844/"
 ---

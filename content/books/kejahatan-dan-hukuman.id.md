@@ -4,7 +4,6 @@ date: '2024-01-07T04:18:28+07:00'
 bookMeta:
   author: "Fyodor Dostoyevsky"
   coverImage: "images/covers/kejahatan-dan-hukuman.png"
-  rating: 4
   status: "Read"
   published: "1866"
   pages: 671

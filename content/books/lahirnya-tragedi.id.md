@@ -4,7 +4,6 @@ date: '2023-06-19T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/lahirnya-tragedi.png"
-  rating: 5
   status: "Read"
   published: "1871"
   pages: 212

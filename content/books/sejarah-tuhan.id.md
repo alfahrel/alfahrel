@@ -4,7 +4,6 @@ date: '2023-06-15T04:18:28+07:00'
 bookMeta:
   author: "Karen Armstrong"
   coverImage: "images/covers/sejarah-tuhan.png"
-  rating: 4
   status: "Read"
   published: "1993"
   pages: 673

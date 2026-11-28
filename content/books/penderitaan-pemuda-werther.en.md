@@ -4,7 +4,6 @@ date: '2024-10-17T03:22:28+07:00'
 bookMeta:
   author: "Johann Wolfgang von Goethe"
   coverImage: "images/covers/penderitaan-pemuda-werther.png"
-  rating: 5
   status: "Read"
   published: "1774"
   pages:  169

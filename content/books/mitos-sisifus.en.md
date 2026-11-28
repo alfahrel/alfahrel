@@ -4,7 +4,6 @@ date: '2026-05-14T03:18:28+07:00'
 bookMeta:
   author: "Albert Camus"
   coverImage: "images/covers/mitos-sisifus.png"
-  rating: 4
   status: "Read"
   published: "1947"
   pages: 147

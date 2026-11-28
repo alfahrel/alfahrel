@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 35m"
   language: "Norwegian"
   genre: ["Norwegian", "Psychological Drama", "Drama"]
-  rating: 7
   posterImage: "images/posters/oslo-august-31st.jpg"
   imdbUrl: "https://www.imdb.com/title/tt1736633/"
 ---

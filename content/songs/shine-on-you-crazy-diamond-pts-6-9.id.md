@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Concept Album", "Blues Rock", "Space Rock"]
-  rating: 4
   coverImage: "images/album_covers/wish-you-were-here.png"
   spotifyUrl: "https://open.spotify.com/track/21j1PsCiTaO8ZW88UZrh3A?si=f0dc0fff26cb437d"
 ---

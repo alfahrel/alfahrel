@@ -4,7 +4,6 @@ date: '2026-05-26T04:18:28+07:00'
 bookMeta:
   author: "H. G. Wells"
   coverImage: "images/covers/mesin-waktu.png"
-  rating: 4
   status: "Read"
   published: "1895"
   pages: 118

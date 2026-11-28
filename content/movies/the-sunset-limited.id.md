@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 31m"
   language: "English"
   genre: ["Psychological Drama", "Drama"]
-  rating: 7
   posterImage: "images/posters/the-sunset-limited.jpg"
   imdbUrl: "https://www.imdb.com/title/tt1510938/"
 ---

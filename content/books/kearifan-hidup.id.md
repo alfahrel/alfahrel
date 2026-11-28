@@ -4,7 +4,6 @@ date: '2026-06-10T04:18:28+07:00'
 bookMeta:
   author: "Arthur Schopenhauer"
   coverImage: "images/covers/kearifan-hidup.png"
-  rating: 5
   status: "Read"
   published: "1851"
   pages: 153

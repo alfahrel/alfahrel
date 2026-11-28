@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 50m"
   language: "English"
   genre: ["Comedy", "Drama"]
-  rating: 8
   posterImage: "images/posters/my-dinner-with-andre.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0082783/"
 ---

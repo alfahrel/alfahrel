@@ -11,7 +11,6 @@ songMeta:
   country: "Indonesia"
   language: "Bahasa Indonesia"
   genre: ["Rock", "Bahasa Indonesia", "Indonesia", "Alternative"]
-  rating: 5
   coverImage: "images/album_covers/rimpang.png"
   spotifyUrl: "https://open.spotify.com/track/36ioek0ysezNdHVAPtfhKx?si=8661e397ba774dfb"
 ---

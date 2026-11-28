@@ -4,7 +4,6 @@ date: '2026-05-22T04:18:28+07:00'
 bookMeta:
   author: "Gilles Deleuze"
   coverImage: "images/covers/filsafat-nietzsche.png"
-  rating: 4
   status: "Read"
   published: "1962"
   pages: 310

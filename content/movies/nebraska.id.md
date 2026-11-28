@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 55m"
   language: "English"
   genre: ["Road Trip", "Psychological Drama", "Drama", "Dark Comedy"]
-  rating: 7
   posterImage: "images/posters/nebraska.jpg"
   imdbUrl: "https://www.imdb.com/title/tt1821549/"
 ---

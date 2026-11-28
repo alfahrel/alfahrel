@@ -4,7 +4,6 @@ date: '2026-05-14T04:18:28+07:00'
 bookMeta:
   author: "Leo Tolstoy"
   coverImage: "images/covers/berapa-luas-tanah-yang-dibutuhkan-seorang-manusia.png"
-  rating: 5
   status: "Read"
   published: "1886"
   pages: 150

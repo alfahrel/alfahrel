@@ -4,7 +4,6 @@ date: '2023-05-18T04:18:28+07:00'
 bookMeta:
   author: "Samuel Beckett"
   coverImage: "images/covers/menunggu-godot.png"
-  rating: 5
   status: "Read"
   published: "266"
   pages: 1110

@@ -4,7 +4,6 @@ date: '2026-06-05T04:18:28+07:00'
 bookMeta:
   author: "Baruch Spinoza"
   coverImage: "images/covers/ethics.jpg"
-  rating: 4
   status: "Read"
   published: "1677"
   pages: 309

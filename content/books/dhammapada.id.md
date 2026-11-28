@@ -4,7 +4,6 @@ date: '2026-09-28T03:22:28+07:00'
 bookMeta:
   author: "bhikkhu Dhammadhiro Mahathera"
   coverImage: "images/covers/dhammapada.png"
-  rating: 5
   status: "Read"
   published: "401"
   pages:  220

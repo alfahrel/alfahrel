@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Progressive Pop", "Art Rock", "Piano Rock"]
-  rating: 5
   coverImage: "images/album_covers/the-division-bell.png"
   spotifyUrl: "https://open.spotify.com/track/5a4MgIUSf9K8wXLSm6xPEx?si=efc95e2729a640da"
 ---

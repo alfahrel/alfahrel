@@ -4,7 +4,6 @@ date: '2025-12-17T02:07:46+07:00'
 bookMeta:
   author: "Arthur Schopenhauer"
   coverImage: "images/covers/the-world-as-will-and-representation-v1.jpg"
-  rating: 5
   status: "Read"
   published: "1818"
   pages:  534

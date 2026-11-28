@@ -9,7 +9,6 @@ movieMeta:
   runtime: "3h 25m"
   language: "Russian"
   genre: ["Russian", "Psychological Drama", "Drama"]
-  rating: 7
   posterImage: "images/posters/andrei-rublev.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0060107/"
 ---

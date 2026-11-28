@@ -4,7 +4,6 @@ date: '2023-04-18T04:18:28+07:00'
 bookMeta:
   author: "Bertrand Russell"
   coverImage: "images/covers/sejarah-filsafat-barat.jpg"
-  rating: 4
   status: "Read"
   published: "1945"
   pages: 1110

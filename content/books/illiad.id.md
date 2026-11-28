@@ -4,7 +4,6 @@ date: '2026-04-12T03:18:28+07:00'
 bookMeta:
   author: "Homer"
   coverImage: "images/covers/illiad.png"
-  rating: 4
   status: "Read"
   published: "751"
   pages: 260

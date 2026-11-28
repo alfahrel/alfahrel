@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 59m"
   language: "Hungarian"
   genre: ["Drama"]
-  rating: 8
   posterImage: "images/posters/almanac-of-fall.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0087855/"
 ---

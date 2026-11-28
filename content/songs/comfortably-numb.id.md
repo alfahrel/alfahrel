@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Concept Album", "Space Rock", "Rock"]
-  rating: 4
   coverImage: "images/album_covers/the-wall.png"
   spotifyUrl: "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC?si=6fd8b32995854e23"
 ---

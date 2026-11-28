@@ -4,7 +4,6 @@ date: '2024-04-29T03:22:28+07:00'
 bookMeta:
   author: "Jean-Paul Sartre"
   coverImage: "images/covers/eksistensialisme-adalah-humanisme.jpg"
-  rating: 3
   status: "Read"
   published: "1946"
   pages:  122

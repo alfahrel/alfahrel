@@ -4,7 +4,6 @@ date: '2024-01-08T04:18:28+07:00'
 bookMeta:
   author: "Fyodor Dostoevsky"
   coverImage: "images/covers/catatan-dari-bawah-tanah.png"
-  rating: 5
   status: "Read"
   published: "1864"
   pages: 185

@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Spoken Word", "Art Rock"]
-  rating: 4
   coverImage: "images/album_covers/the-division-bell.png"
   spotifyUrl: "https://open.spotify.com/track/0vI64OhYqTo6KYswDlx0yT?si=d58d5a7f8757471a"
 ---

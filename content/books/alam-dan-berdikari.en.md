@@ -4,7 +4,6 @@ date: '2025-11-11T04:18:28+07:00'
 bookMeta:
   author: "Ralph Waldo Emerson"
   coverImage: "images/covers/alam-dan-berdikari.png"
-  rating: 5
   status: "Read"
   published: "1844"
   pages: 123

@@ -4,7 +4,6 @@ date: '2025-11-11T04:18:28+07:00'
 bookMeta:
   author: "Henry David Thoreau"
   coverImage: "images/covers/walden.png"
-  rating: 5
   status: "Read"
   published: "1854"
   pages: 453

@@ -4,7 +4,6 @@ date: '2025-03-17T04:18:28+07:00'
 bookMeta:
   author: "Peter Wessel Zapffe"
   coverImage: "images/covers/the-last-messiah.jpg"
-  rating: 5
   status: "Read"
   published: "1933"
   pages:  20

@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Experimental Rock", "Psychedelic Rock"]
-  rating: 5
   coverImage: "images/album_covers/animals.png"
   spotifyUrl: "https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7?si=7488174ff9364ec7"
 ---

@@ -4,7 +4,6 @@ date: '2023-06-21T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/the-gay-science.png"
-  rating: 4
   status: "Read"
   published: "1882"
   pages: 394

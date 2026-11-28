@@ -4,7 +4,6 @@ date: '2023-05-05T04:18:28+07:00'
 bookMeta:
   author: "Peter Singer"
   coverImage: "images/covers/karl-marx.png"
-  rating: 4
   status: "Read"
   published: "1980"
   pages: 136

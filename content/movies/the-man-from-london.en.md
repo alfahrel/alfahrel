@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2h 19m"
   language: "Hungarian"
   genre: ["Crime", "Drama", "Mystery"]
-  rating: 6
   posterImage: "images/posters/the-man-from-london.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0415127/"
 ---

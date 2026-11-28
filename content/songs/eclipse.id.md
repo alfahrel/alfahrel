@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Space Rock", "Gospel"]
-  rating: 5
   coverImage: "images/album_covers/the-dark-side-of-the-moon.png"
   spotifyUrl: "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk?si=f7ad710a11d04953"
 ---

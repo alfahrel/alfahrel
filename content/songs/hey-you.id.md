@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock Opera", "England", "Rock", "Art Rock"]
-  rating: 4
   coverImage: "images/album_covers/the-wall.png"
   spotifyUrl: "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN?si=ee6d4e8ac1664f8c"
 ---

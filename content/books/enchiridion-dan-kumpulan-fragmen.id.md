@@ -4,7 +4,6 @@ date: '2026-05-07T03:18:28+07:00'
 bookMeta:
   author: "Epictetus"
   coverImage: "images/covers/enchiridion-dan-kumpulan-fragmen.png"
-  rating: 4
   status: "Read"
   published: "108"
   pages: 60

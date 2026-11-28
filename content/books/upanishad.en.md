@@ -4,7 +4,6 @@ date: '2026-09-27T01:49:24+07:00'
 bookMeta:
   author: "S. Radhakrishnan"
   coverImage: "images/covers/upanishad.jpeg"
-  rating: 5
   status: "Read"
   published: "501"
   language: "Indonesia"

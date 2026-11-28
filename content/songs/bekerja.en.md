@@ -11,7 +11,6 @@ songMeta:
   country: "Indonesia"
   language: "Bahasa Indonesia"
   genre: ["Rock", "Bahasa Indonesia", "Indonesia"]
-  rating: 5
   coverImage: "images/album_covers/planetarium.png"
   spotifyUrl: "https://open.spotify.com/track/4DJ0pRKxaMGeS2VF9rAU7w?si=936934a06c194689"
 ---

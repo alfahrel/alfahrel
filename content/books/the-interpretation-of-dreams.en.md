@@ -4,7 +4,6 @@ date: '2024-02-27T04:18:28+07:00'
 bookMeta:
   author: "Sigmund Freud"
   coverImage: "images/covers/the-interpretation-of-dreams.png"
-  rating: 4
   status: "Read"
   published: "1899"
   pages: 480

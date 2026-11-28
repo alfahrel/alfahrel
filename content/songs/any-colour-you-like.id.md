@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Instrumental", "Psychedelic Rock"]
-  rating: 5
   coverImage: "images/album_covers/the-dark-side-of-the-moon.png"
   spotifyUrl: "https://open.spotify.com/track/6FBPOJLxUZEair6x4kLDhf?si=bd196b2e02764da2"
 ---

@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Electronic", "Psychedelic Rock", "Concept Album"]
-  rating: 5
   coverImage: "images/album_covers/wish-you-were-here.png"
   spotifyUrl: "https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN?si=589148fdf2dd416f"
 ---

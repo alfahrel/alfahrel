@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Rock", "Post-Rock", "Ambient", "Experimental Rock"]
-  rating: 5
   coverImage: "images/album_covers/meddle.png"
   spotifyUrl: "https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb?si=0e0a82a4e219435d"
 ---

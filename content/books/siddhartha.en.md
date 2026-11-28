@@ -4,7 +4,6 @@ date: '2023-10-17T03:22:28+07:00'
 bookMeta:
   author: "Hermann Hesse"
   coverImage: "images/covers/siddhartha.png"
-  rating: 5
   status: "Read"
   published: "1922"
   pages:  166

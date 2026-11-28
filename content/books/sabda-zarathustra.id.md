@@ -4,7 +4,6 @@ date: '2023-06-18T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/sabda-zarathustra.png"
-  rating: 5
   status: "Read"
   published: "1883"
   pages: 497

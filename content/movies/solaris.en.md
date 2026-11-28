@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2h 47m"
   language: "Russian"
   genre: ["Russian", "Psychological Drama", "Drama", "Epic"]
-  rating: 8
   posterImage: "images/posters/solaris.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0069293/"
 ---

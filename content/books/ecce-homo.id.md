@@ -4,7 +4,6 @@ date: '2023-06-22T04:18:28+07:00'
 bookMeta:
   author: "Friedrich Nietzsche"
   coverImage: "images/covers/ecce-homo.png"
-  rating: 4
   status: "Read"
   published: "1908"
   pages: 174

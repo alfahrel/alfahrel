@@ -5,7 +5,6 @@ bookMeta:
   author: "George Orwell"
   coverImage: "images/covers/negeri-binatang.png"
   status: "Read"
-  rating: 5
   published: "1945"
   pages:  150
   type: Print

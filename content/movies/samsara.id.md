@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 42m"
   language: "-"
   genre: ["Documentary", "Travel Documentary", "Faith & Spirituality Documentary"]
-  rating: 9
   posterImage: "images/posters/samsara.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0770802/"
 ---

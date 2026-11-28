@@ -4,7 +4,6 @@ date: '2026-05-07T04:18:28+07:00'
 bookMeta:
   author: "Andre Gide"
   coverImage: "images/covers/amoral.png"
-  rating: 3
   status: "Read"
   published: "1902"
   pages: 179

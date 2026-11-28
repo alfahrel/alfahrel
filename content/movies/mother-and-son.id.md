@@ -9,7 +9,6 @@ movieMeta:
   runtime: "1j 13m"
   language: "Russian"
   genre: ["Russian", "Psychological Drama", "Drama"]
-  rating: 7
   posterImage: "images/posters/mother-and-son.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0119711/"
 ---

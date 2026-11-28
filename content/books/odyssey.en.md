@@ -4,7 +4,6 @@ date: '2026-04-12T04:18:28+07:00'
 bookMeta:
   author: "Homer"
   coverImage: "images/covers/odyssey.png"
-  rating: 4
   status: "Read"
   published: "801"
   pages: 328

@@ -9,7 +9,6 @@ movieMeta:
   runtime: "2j 44m"
   language: "English"
   genre: ["Epic", "Period Drama", "Drama"]
-  rating: 6
   posterImage: "images/posters/the-last-temptation-of-christ.jpg"
   imdbUrl: "https://www.imdb.com/title/tt0095497/"
 ---

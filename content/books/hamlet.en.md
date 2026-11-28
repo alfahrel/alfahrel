@@ -4,7 +4,6 @@ date: '2026-03-28T04:18:28+07:00'
 bookMeta:
   author: "William Shakespeare"
   coverImage: "images/covers/hamlet.png"
-  rating: 5
   status: "Read"
   published: "1601"
   pages: 216

@@ -4,7 +4,6 @@ date: '2023-07-05T04:18:28+07:00'
 bookMeta:
   author: "Albert Camus"
   coverImage: "images/covers/orang-asing.png"
-  rating: 5
   status: "Read"
   published: "1942"
   pages: 124

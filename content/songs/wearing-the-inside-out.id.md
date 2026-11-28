@@ -11,7 +11,6 @@ songMeta:
   country: "UK"
   language: "English"
   genre: ["Soft Rock", "Smooth Jazz"]
-  rating: 4
   coverImage: "images/album_covers/the-division-bell.png"
   spotifyUrl: "https://open.spotify.com/track/2GoeLsETNdx8lRoWW2aeNj?si=1309dc00745d4608"
 ---

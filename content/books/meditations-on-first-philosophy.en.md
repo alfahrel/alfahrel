@@ -4,7 +4,6 @@ date: '2026-06-10T03:18:28+07:00'
 bookMeta:
   author: "René Descartes"
   coverImage: "images/covers/meditasi-filsafat-pertama.png"
-  rating: 3
   status: "Read"
   published: "1641"
   pages: 132

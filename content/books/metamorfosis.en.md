@@ -4,7 +4,6 @@ date: '2025-12-05T16:22:28+07:00'
 bookMeta:
   author: "Franz Kafka"
   coverImage: "images/covers/metamorfosis.png"
-  rating: 5
   status: "Read"
   published: "1915"
   pages:  84

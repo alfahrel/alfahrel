@@ -4,7 +4,6 @@ date: '2023-08-05T04:18:28+07:00'
 bookMeta:
   author: "Albert Camus"
   coverImage: "images/covers/kejatuhan.png"
-  rating: 4
   status: "Read"
   published: "1956"
   pages: 106

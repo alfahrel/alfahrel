@@ -5,7 +5,6 @@ bookMeta:
   author: "Søren Kierkegaard"
   coverImage: "images/covers/fear-and-trembling.png"
   status: "Read"
-  rating: 4
   published: "1843"
   pages:  152
   type: Print
